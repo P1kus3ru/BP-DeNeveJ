@@ -1,0 +1,6 @@
+\babel@toc {dutch}{}\relax 
+\contentsline {section}{\numberline {1}Introductie}{1}{section.1}%
+\contentsline {section}{\numberline {2}State-of-the-art}{1}{section.2}%
+\contentsline {section}{\numberline {3}Methodologie}{1}{section.3}%
+\contentsfinish 
+\contentsline {section}{\numberline {4}Verwacht resultaat, conclusie}{2}{section.4}%
