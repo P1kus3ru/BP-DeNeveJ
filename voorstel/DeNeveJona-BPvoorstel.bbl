@@ -1,0 +1,239 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{apa/global//global/global}
+    \entry{Meta2022}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=b6755d218d5f4e1cef9cce9cc39aeda9}{%
+           family={Meta},
+           familyi={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{b6755d218d5f4e1cef9cce9cc39aeda9}
+      \strng{fullhash}{b6755d218d5f4e1cef9cce9cc39aeda9}
+      \strng{bibnamehash}{b6755d218d5f4e1cef9cce9cc39aeda9}
+      \strng{authorbibnamehash}{b6755d218d5f4e1cef9cce9cc39aeda9}
+      \strng{authornamehash}{b6755d218d5f4e1cef9cce9cc39aeda9}
+      \strng{authorfullhash}{b6755d218d5f4e1cef9cce9cc39aeda9}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{15}
+      \field{month}{6}
+      \field{title}{The Impact Will Be Real}
+      \field{urlday}{11}
+      \field{urlmonth}{12}
+      \field{urlyear}{2022}
+      \field{year}{2022}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.youtube.com/watch?v=80IIEnSNwQc
+      \endverb
+      \verb{url}
+      \verb https://www.youtube.com/watch?v=80IIEnSNwQc
+      \endverb
+    \endentry
+    \entry{Traum2015}{inbook}{}
+      \name{author}{14}{}{%
+        {{un=0,uniquepart=base,hash=852889328d57da2df5bccea3165205d0}{%
+           family={Traum},
+           familyi={T\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=754ef483cc118651dbbe70d1a2879764}{%
+           family={Jones},
+           familyi={J\bibinitperiod},
+           given={Andrew},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=36bafdd8602b40182f00095d82750a31}{%
+           family={Hays},
+           familyi={H\bibinitperiod},
+           given={Kia},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f9414446a9555ebab17053ffce4e9bd1}{%
+           family={Maio},
+           familyi={M\bibinitperiod},
+           given={Heather},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=50e7d792335c73f726d3fcb5d8a094c4}{%
+           family={Alexander},
+           familyi={A\bibinitperiod},
+           given={Oleg},
+           giveni={O\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=fa1dff427d354932033a58782953eace}{%
+           family={Artstein},
+           familyi={A\bibinitperiod},
+           given={Ron},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4aae50ca585b8b048183a76ff6e98dd8}{%
+           family={Debevec},
+           familyi={D\bibinitperiod},
+           given={Paul},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=298aad30a0ffb19aaaab7799d60fbda9}{%
+           family={Gainer},
+           familyi={G\bibinitperiod},
+           given={Alesia},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3249ad81550e515606eff2ed3823fbb3}{%
+           family={Georgila},
+           familyi={G\bibinitperiod},
+           given={Kallirroi},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=98b8d62747d2dce4af8d88ed83ce0b36}{%
+           family={Haase},
+           familyi={H\bibinitperiod},
+           given={Kathleen},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f818ece1d00b45c25df75bd854235d8a}{%
+           family={Jungblut},
+           familyi={J\bibinitperiod},
+           given={Karen},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=bf3395e58d2bf558ba563408a1bbc9f1}{%
+           family={Leuski},
+           familyi={L\bibinitperiod},
+           given={Anton},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c0335390e6dcad77f0091d57516ec815}{%
+           family={Smith},
+           familyi={S\bibinitperiod},
+           given={Stephen},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=fb97b1b38ed066be6193a1e65e679cad}{%
+           family={Swartout},
+           familyi={S\bibinitperiod},
+           given={William},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{4}{}{%
+        {{hash=0cbef3601a7eb3e07796f5a3bab18304}{%
+           family={Schoenau-Fog},
+           familyi={S\bibinithyphendelim F\bibinitperiod},
+           given={Henrik},
+           giveni={H\bibinitperiod}}}%
+        {{hash=27f15a50a14f8c859220cd999cdc75de}{%
+           family={Bruni},
+           familyi={B\bibinitperiod},
+           given={Luis\bibnamedelima Emilio},
+           giveni={L\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+        {{hash=63565822eba97bc31df642f94d6cf6ab}{%
+           family={Louchart},
+           familyi={L\bibinitperiod},
+           given={Sandy},
+           giveni={S\bibinitperiod}}}%
+        {{hash=bf020a4f0b084717b42bc70510e3ff72}{%
+           family={Baceviciute},
+           familyi={B\bibinitperiod},
+           given={Sarune},
+           giveni={S\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Cham}%
+      }
+      \list{publisher}{1}{%
+        {Springer International Publishing}%
+      }
+      \strng{namehash}{61094e936759fd79103d6a346bd12234}
+      \strng{fullhash}{ce51a771a8fbfa0317dadfa0486a3495}
+      \strng{bibnamehash}{ce51a771a8fbfa0317dadfa0486a3495}
+      \strng{authorbibnamehash}{ce51a771a8fbfa0317dadfa0486a3495}
+      \strng{authornamehash}{61094e936759fd79103d6a346bd12234}
+      \strng{authorfullhash}{ce51a771a8fbfa0317dadfa0486a3495}
+      \strng{editorbibnamehash}{ab148686940b230005e2b17b78d0e423}
+      \strng{editornamehash}{b1a98608044a378b0e5602efe73a1b86}
+      \strng{editorfullhash}{ab148686940b230005e2b17b78d0e423}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{We describe a digital system that allows people to have an interactive conversation with a human storyteller (a Holocaust survivor) who has recorded a number of dialogue contributions, including many compelling narratives of his experiences and thoughts. The goal is to preserve as much as possible of the experience of face-to-face interaction. The survivor's stories, answers to common questions, and testimony are recorded in high fidelity, and then delivered interactively to an audience as responses to spoken questions. People can ask questions and receive answers on a broad range of topics including the survivor's experiences before, after and during the war, his attitudes and philosophy. Evaluation results show that most user questions can be addressed by the system, and that audiences are highly engaged with the resulting interaction.}
+      \field{booktitle}{Interactive Storytelling}
+      \field{isbn}{978-3-319-27036-4}
+      \field{title}{New Dimensions in Testimony: Digitally Preserving a Holocaust Survivor's Interactive Storytelling}
+      \field{urlday}{12}
+      \field{urlmonth}{12}
+      \field{urlyear}{2022}
+      \field{year}{2015}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{269\bibrangedash 281}
+      \range{pages}{13}
+    \endentry
+    \entry{USCShoahFoundation2020}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=87af564fca350fc08fd0a0c5952a5068}{%
+           family={{USC~Shoah~Foundation}},
+           familyi={U\bibinitperiod}}}%
+      }
+      \strng{namehash}{87af564fca350fc08fd0a0c5952a5068}
+      \strng{fullhash}{87af564fca350fc08fd0a0c5952a5068}
+      \strng{bibnamehash}{87af564fca350fc08fd0a0c5952a5068}
+      \strng{authorbibnamehash}{87af564fca350fc08fd0a0c5952a5068}
+      \strng{authornamehash}{87af564fca350fc08fd0a0c5952a5068}
+      \strng{authorfullhash}{87af564fca350fc08fd0a0c5952a5068}
+      \field{sortinit}{U}
+      \field{sortinithash}{6901a00e45705986ee5e7ca9fd39adca}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{3}
+      \field{month}{4}
+      \field{title}{Dimensions in Testimony | USC Shoah Foundation}
+      \field{urlday}{5}
+      \field{urlmonth}{12}
+      \field{urlyear}{2022}
+      \field{year}{2020}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.youtube.com/watch?v=nGzAc9mIoTM
+      \endverb
+      \verb{url}
+      \verb https://www.youtube.com/watch?v=nGzAc9mIoTM
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

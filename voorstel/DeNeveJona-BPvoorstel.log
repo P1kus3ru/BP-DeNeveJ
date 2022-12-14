@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999993 (MiKTeX 22.1) (preloaded format=xelatex 2022.3.18)  14 DEC 2022 16:10
+This is XeTeX, Version 3.141592653-2.6-0.999993 (MiKTeX 22.1) (preloaded format=xelatex 2022.3.18)  15 DEC 2022 00:43
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -1252,26 +1252,26 @@ Package csquotes Info: Redefining alias 'default' -> 'dutch'.
 (DeNeveJona-BPvoorstel.aux)
 \openout1 = `DeNeveJona-BPvoorstel.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 55.
-LaTeX Font Info:    ... okay on input line 55.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 55.
-LaTeX Font Info:    ... okay on input line 55.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 55.
-LaTeX Font Info:    ... okay on input line 55.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 55.
-LaTeX Font Info:    ... okay on input line 55.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 55.
-LaTeX Font Info:    ... okay on input line 55.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 55.
-LaTeX Font Info:    ... okay on input line 55.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 55.
-LaTeX Font Info:    ... okay on input line 55.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 55.
-LaTeX Font Info:    ... okay on input line 55.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 55.
-LaTeX Font Info:    ... okay on input line 55.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 55.
-LaTeX Font Info:    ... okay on input line 55.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 57.
+LaTeX Font Info:    ... okay on input line 57.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 57.
+LaTeX Font Info:    ... okay on input line 57.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 57.
+LaTeX Font Info:    ... okay on input line 57.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 57.
+LaTeX Font Info:    ... okay on input line 57.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 57.
+LaTeX Font Info:    ... okay on input line 57.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 57.
+LaTeX Font Info:    ... okay on input line 57.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 57.
+LaTeX Font Info:    ... okay on input line 57.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 57.
+LaTeX Font Info:    ... okay on input line 57.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 57.
+LaTeX Font Info:    ... okay on input line 57.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 57.
+LaTeX Font Info:    ... okay on input line 57.
 Package biblatex Info: Trying to load language 'dutch' -> 'dutch-apa'...
 Package biblatex Info: ... file 'dutch-apa.lbx' found.
 
@@ -1296,15 +1296,16 @@ Package biblatex Info: Automatic encoding selection.
 \openout3 = `DeNeveJona-BPvoorstel.bcf'.
 
 Package biblatex Info: Trying to load bibliographic data...
-Package biblatex Info: ... file 'DeNeveJona-BPvoorstel.bbl' not found.
+Package biblatex Info: ... file 'DeNeveJona-BPvoorstel.bbl' found.
 
-No file DeNeveJona-BPvoorstel.bbl.
-Package biblatex Info: Reference section=0 on input line 55.
-Package biblatex Info: Reference segment=0 on input line 55.
+(DeNeveJona-BPvoorstel.bbl)
+Package biblatex Info: Reference section=0 on input line 57.
+Package biblatex Info: Reference segment=0 on input line 57.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 55.
+(Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 57.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> TU/lmss/b/n on input line 55.
+(Font)                  OT1/cmss/bx/n --> TU/lmss/b/n on input line 57.
+
 *geometry* driver: auto-detecting
 *geometry* detected driver: xetex
 *geometry* verbose mode - [ preamble ] result:
@@ -1341,8 +1342,8 @@ LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
 
 Package lastpage Info: Please have a look at the pageslts package at
 (lastpage)             https://www.ctan.org/pkg/pageslts
-(lastpage)             ! on input line 55.
-Package hyperref Info: Link coloring ON on input line 55.
+(lastpage)             ! on input line 57.
+Package hyperref Info: Link coloring ON on input line 57.
 (C:\Program Files\MiKTeX\tex/latex/hyperref\nameref.sty
 Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
 
@@ -1355,68 +1356,91 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
 \c@section@level=\count461
 )
-LaTeX Info: Redefining \ref on input line 55.
-LaTeX Info: Redefining \pageref on input line 55.
-LaTeX Info: Redefining \nameref on input line 55.
+LaTeX Info: Redefining \ref on input line 57.
+LaTeX Info: Redefining \pageref on input line 57.
+LaTeX Info: Redefining \nameref on input line 57.
  (DeNeveJona-BPvoorstel.out) (DeNeveJona-BPvoorstel.out)
 \@outlinefile=\write4
 \openout4 = `DeNeveJona-BPvoorstel.out'.
 
 LaTeX Font Info:    Font shape `TU/FiraMath(2)/m/n' will be
-(Font)              scaled to size 9.00096pt on input line 62.
+(Font)              scaled to size 9.00096pt on input line 64.
 LaTeX Font Info:    Font shape `TU/FiraMath(2)/m/n' will be
-(Font)              scaled to size 6.00064pt on input line 62.
+(Font)              scaled to size 6.00064pt on input line 64.
 LaTeX Font Info:    Font shape `TU/FiraMath(2)/m/n' will be
-(Font)              scaled to size 5.00053pt on input line 62.
+(Font)              scaled to size 5.00053pt on input line 64.
 LaTeX Font Info:    Font shape `TU/FiraMath(3)/m/n' will be
-(Font)              scaled to size 8.99904pt on input line 62.
+(Font)              scaled to size 8.99904pt on input line 64.
 LaTeX Font Info:    Font shape `TU/FiraMath(3)/m/n' will be
-(Font)              scaled to size 5.99936pt on input line 62.
+(Font)              scaled to size 5.99936pt on input line 64.
 LaTeX Font Info:    Font shape `TU/FiraMath(3)/m/n' will be
-(Font)              scaled to size 4.99947pt on input line 62.
+(Font)              scaled to size 4.99947pt on input line 64.
 Package mdframed Info: mdframed inside a box 
- mdframed uses option nobreak mdframed on input line 62.
+ mdframed uses option nobreak mdframed on input line 64.
 
 (DeNeveJona-BPvoorstel.toc)
 \tf@toc=\write5
 \openout5 = `DeNeveJona-BPvoorstel.toc'.
 
  (voorstel-inhoud.tex
-Overfull \hbox (5.8846pt too wide) in paragraph at lines 6--7
-\TU/Montserrat(2)/m/n/10 Be Real‘ van Meta gezien over de Metaverse. Daarin
- []
-
-
 Overfull \hbox (2.57123pt too wide) in paragraph at lines 8--9
 \TU/Montserrat(2)/m/n/10 realistische situaties te oefenen. Hiervoor zijn twee
  []
 
+File: ./img//TraumDEtAl_DimensionsInTestimony_SystemArchitecture.png Graphic fi
+le (type bmp)
+<./img//TraumDEtAl_DimensionsInTestimony_SystemArchitecture.png>
 
-Overfull \hbox (7.06038pt too wide) in paragraph at lines 59--60
-\TU/Montserrat(2)/m/n/10 gekozen worden. Door de AI verschillende prompts
+Overfull \hbox (43.28908pt too wide) in paragraph at lines 42--43
+\TU/Montserrat(2)/m/n/10 project ’Dimensions in Testimony’ van de []USC Shoah F
+oun-
  []
 
-File: img//HOGENT_Logo_Pos_rgb.png Graphic file (type bmp)
-<img//HOGENT_Logo_Pos_rgb.png>
+File: ./img//HOGENT_Logo_Pos_rgb.png Graphic file (type bmp)
+<./img//HOGENT_Logo_Pos_rgb.png>
 [1
 
 
-])
+]
+Overfull \hbox (7.06038pt too wide) in paragraph at lines 73--74
+\TU/Montserrat(2)/m/n/10 gekozen worden. Door de AI verschillende prompts
+ []
 
-LaTeX Warning: Empty bibliography on input line 70.
+)
+LaTeX Font Info:    Font shape `TU/FiraMath(2)/m/n' will be
+(Font)              scaled to size 10.00107pt on input line 72.
+LaTeX Font Info:    Font shape `TU/FiraMath(2)/m/n' will be
+(Font)              scaled to size 7.20076pt on input line 72.
+LaTeX Font Info:    Font shape `TU/FiraMath(2)/m/n' will be
+(Font)              scaled to size 5.80061pt on input line 72.
+LaTeX Font Info:    Font shape `TU/FiraMath(3)/m/n' will be
+(Font)              scaled to size 9.99893pt on input line 72.
+LaTeX Font Info:    Font shape `TU/FiraMath(3)/m/n' will be
+(Font)              scaled to size 7.19922pt on input line 72.
+LaTeX Font Info:    Font shape `TU/FiraMath(3)/m/n' will be
+(Font)              scaled to size 5.79938pt on input line 72.
+
+Overfull \hbox (6.83061pt too wide) in paragraph at lines 72--72
+[][][] [] [][][][][][][] [] [][][] [] [][][][][] [] [] [] [][][][][][][][][][][
+]$[][] 
+ []
+
+
+Overfull \hbox (10.93062pt too wide) in paragraph at lines 72--72
+[][][] [] [][][][][][][] [] [][][] [] [][][][][] [] [] [] [][][][][][][][][][][
+]$[][] 
+ []
 
 
 AED: lastpage setting LastPage
-File: img//HOGENT_Logo_Pos_rgb.png Graphic file (type bmp)
-<img//HOGENT_Logo_Pos_rgb.png>
-[2
-
-] (DeNeveJona-BPvoorstel.aux)
+File: ./img//HOGENT_Logo_Pos_rgb.png Graphic file (type bmp)
+<./img//HOGENT_Logo_Pos_rgb.png>
+[2] (DeNeveJona-BPvoorstel.aux)
 
 LaTeX Warning: There were undefined references.
 
 Package rerunfilecheck Info: File `DeNeveJona-BPvoorstel.out' has not changed.
-(rerunfilecheck)             Checksum: ED752858342F4E70D178002D8824F325;518.
+(rerunfilecheck)             Checksum: 2486E0888F0C4C851FED5AD1F3E3A95F;616.
 
 Package biblatex Warning: Please (re)run Biber on the file:
 (biblatex)                DeNeveJona-BPvoorstel
@@ -1427,12 +1451,12 @@ Package logreq Info: Writing requests to 'DeNeveJona-BPvoorstel.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 27136 strings out of 410969
- 506191 string characters out of 2828073
- 1474648 words of memory out of 3000000
- 47534 multiletter control sequences out of 15000+600000
- 471652 words of font info for 82 fonts, out of 8000000 for 9000
+ 27423 strings out of 410969
+ 513013 string characters out of 2828073
+ 1472918 words of memory out of 3000000
+ 47805 multiletter control sequences out of 15000+600000
+ 472893 words of font info for 93 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 99i,11n,128p,964b,3838s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 99i,11n,128p,967b,5612s stack positions out of 5000i,500n,10000p,200000b,80000s
 
 Output written on DeNeveJona-BPvoorstel.pdf (2 pages).

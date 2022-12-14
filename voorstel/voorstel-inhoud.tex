@@ -3,11 +3,11 @@
 \section{Introductie}%
 \label{sec:introductie}
 
-Je hebt misschien de reclame `The Impact Will Be Real` van Meta gezien over de Metaverse. Daarin tonen ze hun visie over de rol die virtual reality speelt in de toekomst. Zo laten ze je verschillende toepassingen ervan zien in het onderwijs. Jammer genoeg zijn we nog niet zo ver als we in de reclame kunnen zien maar ook nu al vind VR zich een baan in verschillende opleidingen.
+Je hebt misschien de reclame `The Impact Will Be Real` van \textcite{Meta2022} gezien over de Metaverse. Daarin tonen ze hun visie over de rol die Virtual Reality (VR) speelt in de toekomst. Zo laten ze je verschillende toepassingen ervan zien in het onderwijs. Jammer genoeg zijn we nog niet zo ver als we in de reclame kunnen zien maar ook nu al vind VR zich een baan in verschillende opleidingen.
 
 De Hogeschool van Gent maakt ook gebruik van VR om studenten de kans te geven in meer realistische situaties te oefenen. Hiervoor zijn twee verschillende technieken gebruikt. Allereerst heb je het renderen van een omgeving. Dit laat de gebruiker een interactieve wereld van 3D modellen ontdekken. Zo bestaan er drie virtuele kamers waarin de student kan oefenen. De andere manier is aan de hand van een 360° opname die wordt gemaakt aan de hand van een 360° camera. Omdat dit een opname van de werkelijkheid neemt, ziet deze methode er realistischer uit.
 
-Dit is waar we op het probleem stoten. Aangezien de tweede methode werkt met een opname moet er naar verschillende fragmenten gesprongen worden naar gelang het antwoord dat de gebruiker handmatig moet ingeven. Dit haalt de immersie van de VR weg. Als oplossing kijken we richting AI. Zo wordt er op zoek gegaan naar een Spraak naar tekst en een software die met de gegenereerde tekst een volgend fragment gekozen kan worden.
+Dit is waar we op het probleem stoten. Aangezien de tweede methode werkt met een opname moet er naar verschillende fragmenten gesprongen worden naar gelang het antwoord dat de gebruiker handmatig moet ingeven. Dit haalt de immersie van de VR weg. Als oplossing kijken we richting AI. Zo wordt er op zoek gegaan naar een Spraak naar tekst (STT) en een software die met de gegenereerde tekst een volgend fragment kan kiezen.
 
 % Waarover zal je bachelorproef gaan? Introduceer het thema en zorg dat volgende zaken zeker duidelijk aanwezig zijn:
 %
@@ -30,6 +30,21 @@ Dit is waar we op het probleem stoten. Aangezien de tweede methode werkt met een
 
 \section{State-of-the-art}%
 \label{sec:state-of-the-art}
+
+Om de immersie in de simulatie te vergroten moet ervoor gezorgd worden dat het overschakelen naar een volgend fragment kan gebeuren zonder de gebruiker uit de illusie te halen. Hiervoor zouden verbale antwoorden kunnen gegeven worden.
+
+\begin{figure}[h]
+    \includegraphics[width=\linewidth]{TraumDEtAl_DimensionsInTestimony_SystemArchitecture.png}
+    \caption{Systeem Architectuur - Dimensions in Testimony \autocite{Traum2015}}
+    \label{fig:DiTArchitecture}
+\end{figure}
+
+Een mooi voorbeeld van zo een interactie is het project 'Dimensions in Testimony' van de \textcite{USCShoahFoundation2020}. Daar kunnen bezoekers vragen stellen aan een overlevende van de Holocaust die op voorhand een volledig interview heeft afgelegd. Dit werd mogelijk gemaakt dankzij het systeem dat erachter zit (Figuur \ref{fig:DiTArchitecture}). Dit systeem bestaat uit een software voor spraak herkenning die de gebruikers verbale vraag in tekst omzet, een Natural Language Classifier (NLC) die op basis van de gegenereerde tekst een antwoord via een audio/video fragment voorziet en een mediaspeler die de fragmenten kan afspelen met tussendoor een inactieve animatie \autocite{Traum2015}.
+
+
+
+
+
 
 %Hier beschrijf je de \emph{state-of-the-art} rondom je gekozen onderzoeksdomein, d.w.z.\ een inleidende, doorlopende tekst over het onderzoeksdomein van je bachelorproef. Je steunt daarbij heel sterk op de professionele \emph{vakliteratuur}, en niet zozeer op populariserende teksten voor een breed publiek. Wat is de huidige stand van zaken in dit domein, en wat zijn nog eventuele open vragen (die misschien de aanleiding waren tot je onderzoeksvraag!)?
 %
