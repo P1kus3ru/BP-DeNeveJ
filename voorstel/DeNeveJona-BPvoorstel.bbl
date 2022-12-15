@@ -233,6 +233,44 @@
       \verb https://www.youtube.com/watch?v=nGzAc9mIoTM
       \endverb
     \endentry
+    \entry{Hessen2020}{report}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=994f44c984a6b0d01075983b0b9b0d72}{%
+           family={Hessen},
+           familyi={H\bibinitperiod},
+           given={Arjan},
+           giveni={A\bibinitperiod},
+           givenun=0,
+           prefix={van},
+           prefixi={v\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {SURF}%
+      }
+      \strng{namehash}{994f44c984a6b0d01075983b0b9b0d72}
+      \strng{fullhash}{994f44c984a6b0d01075983b0b9b0d72}
+      \strng{bibnamehash}{994f44c984a6b0d01075983b0b9b0d72}
+      \strng{authorbibnamehash}{994f44c984a6b0d01075983b0b9b0d72}
+      \strng{authornamehash}{994f44c984a6b0d01075983b0b9b0d72}
+      \strng{authorfullhash}{994f44c984a6b0d01075983b0b9b0d72}
+      \field{sortinit}{v}
+      \field{sortinithash}{afb52128e5b4dc4b843768c0113d673b}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{1}
+      \field{month}{8}
+      \field{title}{Automatische spraakherkenning - Hoe kun je het inzetten voor onderwijsmateriaal?}
+      \field{type}{resreport}
+      \field{urlday}{15}
+      \field{urlmonth}{12}
+      \field{urlyear}{2022}
+      \field{year}{2020}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+    \endentry
   \enddatalist
 \endrefsection
 \endinput
