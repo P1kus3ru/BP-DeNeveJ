@@ -3,11 +3,17 @@
 \section{Introductie}%
 \label{sec:introductie}
 
-Je hebt misschien de reclame `The Impact Will Be Real` van \textcite{Meta2022} gezien over de Metaverse. Daarin tonen ze hun visie over de rol die Virtual Reality (VR) speelt in de toekomst. Zo laten ze je verschillende toepassingen ervan zien in het onderwijs. Jammer genoeg zijn we nog niet zo ver als we in de reclame kunnen zien maar ook nu al vind VR zich een baan in verschillende opleidingen.
+Je hebt waarschijnlijk de reclame over de Metaverse `The Impact Will Be Real` van \textcite{Meta2022} gezien. Daarin tonen ze hun visie over de rol die Virtual Reality (VR) speelt in de toekomst. Zo laten ze je verschillende toepassingen ervan zien in het onderwijs. Jammer genoeg zijn we nog niet zo ver als wat er in de reclame gezien kan worden maar ook nu al vind VR zich een baan in verschillende opleidingen.
 
 De Hogeschool van Gent maakt ook gebruik van VR om studenten de kans te geven in meer realistische situaties te oefenen. Hiervoor zijn twee verschillende technieken gebruikt. Allereerst heb je het renderen van een omgeving. Dit laat de gebruiker een interactieve wereld van 3D modellen ontdekken. Zo bestaan er drie virtuele kamers waarin de student kan oefenen. De andere manier is aan de hand van een 360° opname die wordt gemaakt aan de hand van een 360° camera. Omdat dit een opname van de werkelijkheid neemt, ziet deze methode er realistischer uit.
 
-Dit is waar we op het probleem stoten. Aangezien de tweede methode werkt met een opname moet er naar verschillende fragmenten gesprongen worden naar gelang het antwoord dat de gebruiker handmatig moet ingeven. Dit haalt de immersie van de VR weg. Als oplossing kijken we richting AI. Zo wordt er op zoek gegaan naar een Spraak naar tekst (STT) en een software die met de gegenereerde tekst een volgend fragment kan kiezen.
+Dit is waar we op het probleem stoten. Aangezien de tweede methode werkt met een opname moet er naar verschillende fragmenten gesprongen worden naar gelang het antwoord dat de gebruiker ingeeft. Dit wordt handmatig gedaan via een meerkeuzevraag wat de immersie van de VR weg haalt. Daarom wordt in deze bachelorproef toegepaste informatica onderzocht hoe we het overschakelen anders kunnen aanpakken zodat het voor de gebruiker realistischer aan voelt. Hiervoor kijken we richting Artificiële Intelligentie (AI).
+
+Alle grote IT bedrijven hebben wel een departement die zich bezig houd met AI. Ze zien allemaal de mogelijkheden die het bied. Van jobs gemakkelijker te maken tot het zelf creëren van kunst, de toepassingen zijn oneindig. Daarom zal in functie van het zorglab op zoek worden gegaan naar een Spraak naar tekst (STT) en een natuurlijke taalverwerking software (NLP).
+
+De STT zal worden gebruikt om het manueel ingeven van het antwoord te vervangen. In plaats daarvan zal de gebruiker gewoon zijn antwoord luidop kunnen geven en zal de STT dit in tekst omzetten. Dit alleen zal natuurlijk geen volgend fragment voor de gebruiker kunnen kiezen en daarom hebben we de NLP nodig. Deze zal de gegenereerde tekst omzetten naar kernwoorden en aan de hand daarvan bepalen welk fragment als volgende geschikt is.
+
+
 
 % Waarover zal je bachelorproef gaan? Introduceer het thema en zorg dat volgende zaken zeker duidelijk aanwezig zijn:
 %
@@ -33,13 +39,13 @@ Dit is waar we op het probleem stoten. Aangezien de tweede methode werkt met een
 
 Om de immersie in de simulatie te vergroten moet ervoor gezorgd worden dat het overschakelen naar een volgend fragment kan gebeuren zonder de gebruiker uit de illusie te halen. Hiervoor zouden verbale antwoorden kunnen gegeven worden.
 
+Een mooi voorbeeld van zo een interactie is het project 'Dimensions in Testimony' van de \textcite{USCShoahFoundation2020}. Daar kunnen bezoekers vragen stellen aan een overlevende van de Holocaust die op voorhand een volledig interview heeft afgelegd. Dit werd mogelijk gemaakt dankzij het systeem dat erachter zit (Figuur \ref{fig:DiTArchitecture}). Dit systeem bestaat uit software voor spraak herkenning die de gebruikers verbale vraag in tekst omzet, een Natural Language Classifier (NLC) die op basis van de gegenereerde tekst een antwoord via een audio/video fragment voorziet en een mediaspeler die de fragmenten kan afspelen met tussendoor een inactieve animatie \autocite{Traum2015}.
+
 \begin{figure}[h]
     \includegraphics[width=\linewidth]{TraumDEtAl_DimensionsInTestimony_SystemArchitecture.png}
-    \caption{Systeem Architectuur - Dimensions in Testimony \autocite{Traum2015}}
+    \caption{Dimensions in Testimony - Systeem Architectuur \autocite{Traum2015}}
     \label{fig:DiTArchitecture}
 \end{figure}
-
-Een mooi voorbeeld van zo een interactie is het project 'Dimensions in Testimony' van de \textcite{USCShoahFoundation2020}. Daar kunnen bezoekers vragen stellen aan een overlevende van de Holocaust die op voorhand een volledig interview heeft afgelegd. Dit werd mogelijk gemaakt dankzij het systeem dat erachter zit (Figuur \ref{fig:DiTArchitecture}). Dit systeem bestaat uit een software voor spraak herkenning die de gebruikers verbale vraag in tekst omzet, een Natural Language Classifier (NLC) die op basis van de gegenereerde tekst een antwoord via een audio/video fragment voorziet en een mediaspeler die de fragmenten kan afspelen met tussendoor een inactieve animatie \autocite{Traum2015}.
 
 
 
