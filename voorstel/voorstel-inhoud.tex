@@ -47,14 +47,15 @@ Een mooi voorbeeld van zo een interactie is het project 'Dimensions in Testimony
     \label{fig:DiTArchitecture}
 \end{figure}
 
-Spraakherkenning is de laatste jaren veel vooruit gegaan dit komt omdat er meer data beschikbaar is, de algoritmes beter (deep neural networks) en de computers sneller zijn. Maar perfect zullen ze nooit zijn zegt \textcite{Hessen2020}. Dit is geen verassing aangezien mensen zelf vaak nog problemen hebben bij het verstaan van een andere. De meest voorkomende fouten van een ASR zijn herkenningsfouten. Deze kunnen ontstaan door slechte kwaliteit van de opname maar ook van de manier waarop woorden worden uitgesproken. De andere fouten ontstaan omdat ASR zijn vocabulaire niet uitgebreid genoeg is. Dit noemend we Out-of-vocabulary-fouten (OOV).
+Spraakherkenning is de laatste jaren veel vooruit gegaan, dit komt omdat er meer data beschikbaar is, de algoritmes beter (deep neural networks) en de computers sneller zijn. Maar perfect zullen ze nooit zijn zegt \textcite{Hessen2020}. Dit is geen verassing aangezien mensen zelf vaak nog problemen hebben bij het verstaan van een andere. De meest voorkomende fouten van een ASR zijn herkenningsfouten. Deze kunnen ontstaan door slechte kwaliteit van de opname maar ook van de manier waarop woorden worden uitgesproken. De andere fouten ontstaan omdat ASR zijn vocabulaire niet uitgebreid genoeg is. Dit noemend we Out-of-vocabulary-fouten (OOV).
 
-Naast de ASR hebben we ook de natuurlijke taalverwerking (NLP).
+Naast de ASR hebben we ook de natuurlijke taalverwerking (NLP). In 'Dimension in Testimony' maakten ze hiervoor gebruik van NCPEditor (Figuur \ref{fig:NPCEArchitecture}). De classifier in dit systeem berekent welke antwoorden op de ingegeven tekst kunnen gegeven worden door de taal modellen van beide te vergelijken en de antwoorden te rangschikken. Zolang de ingegeven tekst een foutmarge lager dan 50\% blijft, zal het antwoord ongewijzigd blijven \autocite{Leuski2010}.
 
-
-
-
-
+\begin{figure}[h]
+    \includegraphics[width=\linewidth]{Traum&Leuski_NPCEditor_System architecture.png}
+    \caption{NPCEditor - Systeem Architectuur \autocite{Leuski2010}}
+    \label{fig:NPCEArchitecture}
+\end{figure}
 
 %Hier beschrijf je de \emph{state-of-the-art} rondom je gekozen onderzoeksdomein, d.w.z.\ een inleidende, doorlopende tekst over het onderzoeksdomein van je bachelorproef. Je steunt daarbij heel sterk op de professionele \emph{vakliteratuur}, en niet zozeer op populariserende teksten voor een breed publiek. Wat is de huidige stand van zaken in dit domein, en wat zijn nog eventuele open vragen (die misschien de aanleiding waren tot je onderzoeksvraag!)?
 %

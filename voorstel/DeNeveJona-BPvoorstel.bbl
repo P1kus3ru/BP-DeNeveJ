@@ -19,6 +19,54 @@
 
 \refsection{0}
   \datalist[entry]{apa/global//global/global}
+    \entry{Leuski2010}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=bf3395e58d2bf558ba563408a1bbc9f1}{%
+           family={Leuski},
+           familyi={L\bibinitperiod},
+           given={Anton},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=852889328d57da2df5bccea3165205d0}{%
+           family={Traum},
+           familyi={T\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {European Language Resources Association (ELRA)}%
+      }
+      \strng{namehash}{a24303e798e7084802fc4954e4349bd9}
+      \strng{fullhash}{a24303e798e7084802fc4954e4349bd9}
+      \strng{bibnamehash}{a24303e798e7084802fc4954e4349bd9}
+      \strng{authorbibnamehash}{a24303e798e7084802fc4954e4349bd9}
+      \strng{authornamehash}{a24303e798e7084802fc4954e4349bd9}
+      \strng{authorfullhash}{a24303e798e7084802fc4954e4349bd9}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{NPCEditor is a system for building and deploying virtual characters capable of engaging a user in spoken dialog on a limited domain. The dialogue may take any form as long as the character responses can be specified a priori. For example, NPCEditor has been used for constructing question answering characters where a user asks questions and the character responds, but other scenarios are possible. At the core of the system is a state of the art statistical language classification technology for mapping from user's text input to system responses. NPCEditor combines the classifier with a database that stores the character information and relevant language data, a server that allows the character designer to deploy the completed characters, and a user-friendly editor that helps the designer to accomplish both character design and deployment tasks. In the paper we define the overall system architecture, describe individual NPCEditor components, and guide the reader through the steps of building a virtual character.}
+      \field{journaltitle}{Proceedings of the Seventh International Conference on Language Resources and Evaluation ({LREC}'10)}
+      \field{month}{5}
+      \field{title}{{NPCE}ditor: A Tool for Building Question-Answering Characters}
+      \field{urlday}{15}
+      \field{urlmonth}{12}
+      \field{urlyear}{2022}
+      \field{year}{2010}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb http://www.lrec-conf.org/proceedings/lrec2010/pdf/660_Paper.pdf
+      \endverb
+      \verb{url}
+      \verb http://www.lrec-conf.org/proceedings/lrec2010/pdf/660_Paper.pdf
+      \endverb
+    \endentry
     \entry{Meta2022}{online}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=b6755d218d5f4e1cef9cce9cc39aeda9}{%

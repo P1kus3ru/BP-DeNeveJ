@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999993 (MiKTeX 22.1) (preloaded format=xelatex 2022.3.18)  16 DEC 2022 00:53
+This is XeTeX, Version 3.141592653-2.6-0.999993 (MiKTeX 22.1) (preloaded format=xelatex 2022.3.18)  16 DEC 2022 11:04
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -1401,12 +1401,21 @@ File: ./img//HOGENT_Logo_Pos_rgb.png Graphic file (type bmp)
 File: ./img//TraumDEtAl_DimensionsInTestimony_SystemArchitecture.png Graphic fi
 le (type bmp)
 <./img//TraumDEtAl_DimensionsInTestimony_SystemArchitecture.png>
+File: ./img//Traum&Leuski_NPCEditor_System architecture.png Graphic file (type 
+bmp)
+<./img//Traum&Leuski_NPCEditor_System architecture.png>
 
-Overfull \hbox (7.06038pt too wide) in paragraph at lines 84--85
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+Overfull \hbox (7.06038pt too wide) in paragraph at lines 85--86
 \TU/Montserrat(2)/m/n/10 gekozen worden. Door de AI verschillende prompts
  []
 
-)
+File: ./img//HOGENT_Logo_Pos_rgb.png Graphic file (type bmp)
+<./img//HOGENT_Logo_Pos_rgb.png>
+[2])
 LaTeX Font Info:    Font shape `TU/FiraMath(2)/m/n' will be
 (Font)              scaled to size 10.00107pt on input line 72.
 LaTeX Font Info:    Font shape `TU/FiraMath(2)/m/n' will be
@@ -1441,7 +1450,9 @@ Overfull \hbox (6.65762pt too wide) in paragraph at lines 72--72
 AED: lastpage setting LastPage
 File: ./img//HOGENT_Logo_Pos_rgb.png Graphic file (type bmp)
 <./img//HOGENT_Logo_Pos_rgb.png>
-[2] (DeNeveJona-BPvoorstel.aux)
+[3
+
+] (DeNeveJona-BPvoorstel.aux)
 Package rerunfilecheck Info: File `DeNeveJona-BPvoorstel.out' has not changed.
 (rerunfilecheck)             Checksum: 2486E0888F0C4C851FED5AD1F3E3A95F;616.
 Package logreq Info: Writing requests to 'DeNeveJona-BPvoorstel.run.xml'.
@@ -1449,12 +1460,12 @@ Package logreq Info: Writing requests to 'DeNeveJona-BPvoorstel.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 27429 strings out of 410969
- 513244 string characters out of 2828073
- 1474975 words of memory out of 3000000
- 47810 multiletter control sequences out of 15000+600000
+ 27448 strings out of 410969
+ 514035 string characters out of 2828073
+ 1475099 words of memory out of 3000000
+ 47827 multiletter control sequences out of 15000+600000
  472893 words of font info for 93 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 99i,12n,128p,973b,5610s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 99i,12n,128p,1144b,5610s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on DeNeveJona-BPvoorstel.pdf (2 pages).
+Output written on DeNeveJona-BPvoorstel.pdf (3 pages).
