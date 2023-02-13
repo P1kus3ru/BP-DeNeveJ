@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999993 (MiKTeX 22.1) (preloaded format=xelatex 2022.3.18)  5 FEB 2023 11:59
+This is XeTeX, Version 3.141592653-2.6-0.999993 (MiKTeX 22.1) (preloaded format=xelatex 2022.3.18)  13 FEB 2023 13:56
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -1383,11 +1383,6 @@ Package mdframed Info: mdframed inside a box
 \openout5 = `DeNeveJona-BPvoorstel.toc'.
 
  (voorstel-inhoud.tex
-Overfull \hbox (1.68237pt too wide) in paragraph at lines 6--7
-[]\TU/Montserrat(2)/m/n/10 Je hebt waarschijnlijk de reclame over de Meta-
- []
-
-
 Overfull \hbox (2.57123pt too wide) in paragraph at lines 8--9
 \TU/Montserrat(2)/m/n/10 realistische situaties te oefenen. Hiervoor zijn twee
  []
@@ -1451,20 +1446,15 @@ File: ./img//HOGENT_Logo_Pos_rgb.png Graphic file (type bmp)
 ] (DeNeveJona-BPvoorstel.aux)
 Package rerunfilecheck Info: File `DeNeveJona-BPvoorstel.out' has not changed.
 (rerunfilecheck)             Checksum: 2486E0888F0C4C851FED5AD1F3E3A95F;616.
-
-
-Package biblatex Warning: Please rerun LaTeX.
-(biblatex)                Page breaks have changed.
-
 Package logreq Info: Writing requests to 'DeNeveJona-BPvoorstel.run.xml'.
 \openout1 = `DeNeveJona-BPvoorstel.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 27448 strings out of 410969
- 514035 string characters out of 2828073
- 1475200 words of memory out of 3000000
- 47827 multiletter control sequences out of 15000+600000
+ 27449 strings out of 410969
+ 514046 string characters out of 2828073
+ 1475204 words of memory out of 3000000
+ 47828 multiletter control sequences out of 15000+600000
  472893 words of font info for 93 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  99i,11n,128p,1144b,5610s stack positions out of 5000i,500n,10000p,200000b,80000s
