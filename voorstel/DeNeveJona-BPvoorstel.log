@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999993 (MiKTeX 22.1) (preloaded format=xelatex 2022.3.18)  13 FEB 2023 15:16
+This is XeTeX, Version 3.141592653-2.6-0.999993 (MiKTeX 22.1) (preloaded format=xelatex 2022.3.18)  16 FEB 2023 20:09
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -1399,14 +1399,9 @@ le (type bmp)
 File: ./img//Traum&Leuski_NPCEditor_System architecture.png Graphic file (type 
 bmp)
 <./img//Traum&Leuski_NPCEditor_System architecture.png>
-
-Overfull \hbox (7.06038pt too wide) in paragraph at lines 85--86
-\TU/Montserrat(2)/m/n/10 gekozen worden. Door de AI verschillende prompts
- []
-
 File: ./img//HOGENT_Logo_Pos_rgb.png Graphic file (type bmp)
 <./img//HOGENT_Logo_Pos_rgb.png>
-[2])
+ [2])
 LaTeX Font Info:    Font shape `TU/FiraMath(2)/m/n' will be
 (Font)              scaled to size 10.00107pt on input line 72.
 LaTeX Font Info:    Font shape `TU/FiraMath(2)/m/n' will be
