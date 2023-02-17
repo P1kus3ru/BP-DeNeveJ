@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999993 (MiKTeX 22.1) (preloaded format=xelatex 2022.3.18)  16 FEB 2023 20:09
+This is XeTeX, Version 3.141592653-2.6-0.999993 (MiKTeX 22.1) (preloaded format=xelatex 2022.3.18)  17 FEB 2023 15:46
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -1385,6 +1385,11 @@ Package mdframed Info: mdframed inside a box
  (voorstel-inhoud.tex
 Overfull \hbox (2.57123pt too wide) in paragraph at lines 8--9
 \TU/Montserrat(2)/m/n/10 realistische situaties te oefenen. Hiervoor zijn twee
+ []
+
+
+Overfull \hbox (2.59903pt too wide) in paragraph at lines 10--11
+\TU/Montserrat(2)/m/n/10 gesprongen worden naargelang het antwoord dat
  []
 
 File: ./img//HOGENT_Logo_Pos_rgb.png Graphic file (type bmp)
