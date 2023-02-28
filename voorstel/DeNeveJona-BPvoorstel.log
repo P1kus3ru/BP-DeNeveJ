@@ -1,17 +1,17 @@
-This is XeTeX, Version 3.141592653-2.6-0.999993 (MiKTeX 22.1) (preloaded format=xelatex 2022.3.18)  17 FEB 2023 15:46
+This is XeTeX, Version 3.141592653-2.6-0.999994 (MiKTeX 23.1) (preloaded format=xelatex 2023.2.28)  28 FEB 2023 08:28
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
 **./DeNeveJona-BPvoorstel.tex
 (DeNeveJona-BPvoorstel.tex
-LaTeX2e <2021-11-15> patch level 1
-L3 programming layer <2022-02-21> (hogent-article.cls
+LaTeX2e <2022-11-01> patch level 1
+L3 programming layer <2023-02-02> (hogent-article.cls
 Document Class: hogent-article 2022/09/01 v2.1 Artikel voor gebruik in de oplei
 ding toegepaste informatica aan HOGENT
 (C:\Program Files\MiKTeX\tex/latex/base\article.cls
-Document Class: article 2021/10/04 v1.4n Standard LaTeX document class
+Document Class: article 2022/07/02 v1.4n Standard LaTeX document class
 (C:\Program Files\MiKTeX\tex/latex/base\size10.clo
-File: size10.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
+File: size10.clo 2022/07/02 v1.4n Standard LaTeX file (size option)
 )
 \c@part=\count181
 \c@section=\count182
@@ -21,9 +21,9 @@ File: size10.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
 \c@subparagraph=\count186
 \c@figure=\count187
 \c@table=\count188
-\abovecaptionskip=\skip47
-\belowcaptionskip=\skip48
-\bibindent=\dimen138
+\abovecaptionskip=\skip48
+\belowcaptionskip=\skip49
+\bibindent=\dimen140
 )
 (C:\Program Files\MiKTeX\tex/generic/iftex\ifxetex.sty
 Package: ifxetex 2019/10/25 v0.7 ifxetex legacy package. Use iftex instead.
@@ -32,7 +32,7 @@ Package: ifxetex 2019/10/25 v0.7 ifxetex legacy package. Use iftex instead.
 Package: iftex 2022/02/03 v1.0f TeX engine tests
 ))
 (C:\Program Files\MiKTeX\tex/latex/xkeyval\xkeyval.sty
-Package: xkeyval 2020/11/20 v2.8 package option processing (HA)
+Package: xkeyval 2022/06/16 v2.9 package option processing (HA)
 
 (C:\Program Files\MiKTeX\tex/generic/xkeyval\xkeyval.tex
 (C:\Program Files\MiKTeX\tex/generic/xkeyval\xkvutils.tex
@@ -44,13 +44,12 @@ Package: xkeyval 2020/11/20 v2.8 package option processing (HA)
 File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
 ))
 (C:\Program Files\MiKTeX\tex/generic/babel\babel.sty
-Package: babel 2022/02/13 3.71 The Babel package
+Package: babel 2022/01/23 3.85 The Babel package
 \babel@savecnt=\count190
-\U@D=\dimen139
+\U@D=\dimen141
 \l@unhyphenated=\language79
 
-(C:\Program Files\MiKTeX\tex/generic/babel\xebabel.def
-(C:\Program Files\MiKTeX\tex/generic/babel\txtbabel.def))
+(C:\Program Files\MiKTeX\tex/generic/babel\xebabel.def)
 \bbl@readstream=\read2
 \bbl@dirlevel=\count191
 
@@ -65,8 +64,12 @@ File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
 Language: dutch 2021/08/29 v3.8l Dutch support from the babel system
 Package babel Info: Making " an active character on input line 127.
 ))
+(C:\Program Files\MiKTeX\tex/generic/babel/locale/nl\babel-dutch.tex
+Package babel Info: Importing font and identification data for dutch
+(babel)             from babel-nl.ini. Reported on input line 11.
+)
 (C:\Program Files\MiKTeX\tex/latex/biblatex\biblatex.sty
-Package: biblatex 2022/02/02 v3.17 programmable bibliographies (PK/MW)
+Package: biblatex 2022/07/12 v3.18b programmable bibliographies (PK/MW)
 
 (C:\Program Files\MiKTeX\tex/generic/pdftexcmds\pdftexcmds.sty
 Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
@@ -100,7 +103,7 @@ Package: logreq 2010/08/04 v1.0 xml request logger
 File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
 ))
 (C:\Program Files\MiKTeX\tex/latex/base\ifthen.sty
-Package: ifthen 2020/11/24 v1.1c Standard LaTeX ifthen package (DPC)
+Package: ifthen 2022/04/13 v1.1d Standard LaTeX ifthen package (DPC)
 )
 (C:\Program Files\MiKTeX\tex/latex/url\url.sty
 \Urlmuskip=\muskip16
@@ -141,32 +144,33 @@ Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 \blx@tempcntb=\count292
 \blx@tempcntc=\count293
 \c@blx@maxsection=\count294
-\c@blx@maxsegment@0=\count295
+\blx@maxsegment@0=\count295
 \blx@notetype=\count296
 \blx@parenlevel@text=\count297
 \blx@parenlevel@foot=\count298
-\c@blx@sectionciteorder@0=\count299
-\blx@entrysetcounter=\count300
-\blx@biblioinstance=\count301
-\labelnumberwidth=\skip49
-\labelalphawidth=\skip50
-\biblabelsep=\skip51
-\bibitemsep=\skip52
-\bibnamesep=\skip53
-\bibinitsep=\skip54
-\bibparsep=\skip55
-\bibhang=\skip56
+\blx@sectionciteorder@0=\count299
+\blx@sectionciteorderinternal@0=\count300
+\blx@entrysetcounter=\count301
+\blx@biblioinstance=\count302
+\labelnumberwidth=\skip50
+\labelalphawidth=\skip51
+\biblabelsep=\skip52
+\bibitemsep=\skip53
+\bibnamesep=\skip54
+\bibinitsep=\skip55
+\bibparsep=\skip56
+\bibhang=\skip57
 \blx@bcfin=\read3
 \blx@bcfout=\write3
 \blx@langwohyphens=\language80
-\c@mincomprange=\count302
-\c@maxcomprange=\count303
-\c@mincompwidth=\count304
+\c@mincomprange=\count303
+\c@maxcomprange=\count304
+\c@mincompwidth=\count305
 Package biblatex Info: Trying to load biblatex default data model...
 Package biblatex Info: ... file 'blx-dm.def' found.
 
 (C:\Program Files\MiKTeX\tex/latex/biblatex\blx-dm.def
-File: blx-dm.def 2022/02/02 v3.17 biblatex localization (PK/MW)
+File: blx-dm.def 2022/07/12 v3.18b biblatex localization (PK/MW)
 )
 Package biblatex Info: Trying to load biblatex style data model...
 Package biblatex Info: ... file 'apa.dbx' found.
@@ -176,98 +180,98 @@ File: apa.dbx 2021/12/24 v9.15 APA biblatex style data model
 )
 Package biblatex Info: Trying to load biblatex custom data model...
 Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
-\c@afterword=\count305
-\c@savedafterword=\count306
-\c@annotator=\count307
-\c@savedannotator=\count308
-\c@author=\count309
-\c@savedauthor=\count310
-\c@bookauthor=\count311
-\c@savedbookauthor=\count312
-\c@commentator=\count313
-\c@savedcommentator=\count314
-\c@editor=\count315
-\c@savededitor=\count316
-\c@editora=\count317
-\c@savededitora=\count318
-\c@editorb=\count319
-\c@savededitorb=\count320
-\c@editorc=\count321
-\c@savededitorc=\count322
-\c@foreword=\count323
-\c@savedforeword=\count324
-\c@holder=\count325
-\c@savedholder=\count326
-\c@introduction=\count327
-\c@savedintroduction=\count328
-\c@namea=\count329
-\c@savednamea=\count330
-\c@nameb=\count331
-\c@savednameb=\count332
-\c@namec=\count333
-\c@savednamec=\count334
-\c@translator=\count335
-\c@savedtranslator=\count336
-\c@shortauthor=\count337
-\c@savedshortauthor=\count338
-\c@shorteditor=\count339
-\c@savedshorteditor=\count340
-\c@narrator=\count341
-\c@savednarrator=\count342
-\c@execproducer=\count343
-\c@savedexecproducer=\count344
-\c@execdirector=\count345
-\c@savedexecdirector=\count346
-\c@with=\count347
-\c@savedwith=\count348
-\c@labelname=\count349
-\c@savedlabelname=\count350
-\c@institution=\count351
-\c@savedinstitution=\count352
-\c@lista=\count353
-\c@savedlista=\count354
-\c@listb=\count355
-\c@savedlistb=\count356
-\c@listc=\count357
-\c@savedlistc=\count358
-\c@listd=\count359
-\c@savedlistd=\count360
-\c@liste=\count361
-\c@savedliste=\count362
-\c@listf=\count363
-\c@savedlistf=\count364
-\c@location=\count365
-\c@savedlocation=\count366
-\c@organization=\count367
-\c@savedorganization=\count368
-\c@origlocation=\count369
-\c@savedoriglocation=\count370
-\c@origpublisher=\count371
-\c@savedorigpublisher=\count372
-\c@publisher=\count373
-\c@savedpublisher=\count374
-\c@language=\count375
-\c@savedlanguage=\count376
-\c@origlanguage=\count377
-\c@savedoriglanguage=\count378
-\c@citation=\count379
-\c@savedcitation=\count380
-\c@pageref=\count381
-\c@savedpageref=\count382
-\shorthandwidth=\skip57
-\shortjournalwidth=\skip58
-\shortserieswidth=\skip59
-\shorttitlewidth=\skip60
-\shortauthorwidth=\skip61
-\shorteditorwidth=\skip62
-\locallabelnumberwidth=\skip63
-\locallabelalphawidth=\skip64
-\localshorthandwidth=\skip65
-\localshortjournalwidth=\skip66
-\localshortserieswidth=\skip67
-\localshorttitlewidth=\skip68
-\localshortauthorwidth=\skip69
-\localshorteditorwidth=\skip70
+\c@afterword=\count306
+\c@savedafterword=\count307
+\c@annotator=\count308
+\c@savedannotator=\count309
+\c@author=\count310
+\c@savedauthor=\count311
+\c@bookauthor=\count312
+\c@savedbookauthor=\count313
+\c@commentator=\count314
+\c@savedcommentator=\count315
+\c@editor=\count316
+\c@savededitor=\count317
+\c@editora=\count318
+\c@savededitora=\count319
+\c@editorb=\count320
+\c@savededitorb=\count321
+\c@editorc=\count322
+\c@savededitorc=\count323
+\c@foreword=\count324
+\c@savedforeword=\count325
+\c@holder=\count326
+\c@savedholder=\count327
+\c@introduction=\count328
+\c@savedintroduction=\count329
+\c@namea=\count330
+\c@savednamea=\count331
+\c@nameb=\count332
+\c@savednameb=\count333
+\c@namec=\count334
+\c@savednamec=\count335
+\c@translator=\count336
+\c@savedtranslator=\count337
+\c@shortauthor=\count338
+\c@savedshortauthor=\count339
+\c@shorteditor=\count340
+\c@savedshorteditor=\count341
+\c@narrator=\count342
+\c@savednarrator=\count343
+\c@execproducer=\count344
+\c@savedexecproducer=\count345
+\c@execdirector=\count346
+\c@savedexecdirector=\count347
+\c@with=\count348
+\c@savedwith=\count349
+\c@labelname=\count350
+\c@savedlabelname=\count351
+\c@institution=\count352
+\c@savedinstitution=\count353
+\c@lista=\count354
+\c@savedlista=\count355
+\c@listb=\count356
+\c@savedlistb=\count357
+\c@listc=\count358
+\c@savedlistc=\count359
+\c@listd=\count360
+\c@savedlistd=\count361
+\c@liste=\count362
+\c@savedliste=\count363
+\c@listf=\count364
+\c@savedlistf=\count365
+\c@location=\count366
+\c@savedlocation=\count367
+\c@organization=\count368
+\c@savedorganization=\count369
+\c@origlocation=\count370
+\c@savedoriglocation=\count371
+\c@origpublisher=\count372
+\c@savedorigpublisher=\count373
+\c@publisher=\count374
+\c@savedpublisher=\count375
+\c@language=\count376
+\c@savedlanguage=\count377
+\c@origlanguage=\count378
+\c@savedoriglanguage=\count379
+\c@citation=\count380
+\c@savedcitation=\count381
+\c@pageref=\count382
+\c@savedpageref=\count383
+\shorthandwidth=\skip58
+\shortjournalwidth=\skip59
+\shortserieswidth=\skip60
+\shorttitlewidth=\skip61
+\shortauthorwidth=\skip62
+\shorteditorwidth=\skip63
+\locallabelnumberwidth=\skip64
+\locallabelalphawidth=\skip65
+\localshorthandwidth=\skip66
+\localshortjournalwidth=\skip67
+\localshortserieswidth=\skip68
+\localshorttitlewidth=\skip69
+\localshortauthorwidth=\skip70
+\localshorteditorwidth=\skip71
 Package biblatex Info: Trying to load enhanced support for Unicode engines...
 Package biblatex Info: ... file 'blx-unicode.def' found.
 
@@ -276,26 +280,26 @@ Package biblatex Info: Trying to load compatibility code...
 Package biblatex Info: ... file 'blx-compat.def' found.
 
 (C:\Program Files\MiKTeX\tex/latex/biblatex\blx-compat.def
-File: blx-compat.def 2022/02/02 v3.17 biblatex compatibility (PK/MW)
+File: blx-compat.def 2022/07/12 v3.18b biblatex compatibility (PK/MW)
 )
 Package biblatex Info: Trying to load generic definitions...
 Package biblatex Info: ... file 'biblatex.def' found.
 
 (C:\Program Files\MiKTeX\tex/latex/biblatex\biblatex.def
-File: biblatex.def 2022/02/02 v3.17 biblatex compatibility (PK/MW)
-\c@textcitecount=\count383
-\c@textcitetotal=\count384
-\c@textcitemaxnames=\count385
-\c@biburlbigbreakpenalty=\count386
-\c@biburlbreakpenalty=\count387
-\c@biburlnumpenalty=\count388
-\c@biburlucpenalty=\count389
-\c@biburllcpenalty=\count390
+File: biblatex.def 2022/07/12 v3.18b biblatex compatibility (PK/MW)
+\c@textcitecount=\count384
+\c@textcitetotal=\count385
+\c@textcitemaxnames=\count386
+\c@biburlbigbreakpenalty=\count387
+\c@biburlbreakpenalty=\count388
+\c@biburlnumpenalty=\count389
+\c@biburlucpenalty=\count390
+\c@biburllcpenalty=\count391
 \biburlbigskip=\muskip17
 \biburlnumskip=\muskip18
 \biburlucskip=\muskip19
 \biburllcskip=\muskip20
-\c@smartand=\count391
+\c@smartand=\count392
 )
 Package biblatex Info: Trying to load bibliography style 'apa'...
 Package biblatex Info: ... file 'apa.bbx' found.
@@ -306,9 +310,9 @@ Package biblatex Info: Trying to load bibliography style 'standard'...
 Package biblatex Info: ... file 'standard.bbx' found.
 
 (C:\Program Files\MiKTeX\tex/latex/biblatex/bbx\standard.bbx
-File: standard.bbx 2022/02/02 v3.17 biblatex bibliography style (PK/MW)
-\c@bbx:relatedcount=\count392
-\c@bbx:relatedtotal=\count393
+File: standard.bbx 2022/07/12 v3.18b biblatex bibliography style (PK/MW)
+\c@bbx:relatedcount=\count393
+\c@bbx:relatedtotal=\count394
 )
 Package biblatex Info: Delimiter 'nameyeardelim' in context 'bib' already defin
 ed, overwriting.
@@ -361,36 +365,33 @@ Package biblatex Info: XeTeX detected.
 Package biblatex Info: Document encoding is UTF8 ....
 
 (C:\Program Files\MiKTeX\tex/latex/l3kernel\expl3.sty
-Package: expl3 2022-02-21 L3 programming layer (loader) 
+Package: expl3 2023-02-02 L3 programming layer (loader) 
 
 (C:\Program Files\MiKTeX\tex/latex/l3backend\l3backend-xetex.def
-File: l3backend-xetex.def 2022-02-07 L3 backend support: XeTeX
- ()
-\c__kernel_sys_dvipdfmx_version_int=\count394
-\l__color_backend_stack_int=\count395
-\g__color_backend_stack_int=\count396
-\g__graphics_track_int=\count397
-\l__pdf_internal_box=\box50
-\g__pdf_backend_object_int=\count398
-\g__pdf_backend_annotation_int=\count399
-\g__pdf_backend_link_int=\count400
+File: l3backend-xetex.def 2023-01-16 L3 backend support: XeTeX
+\g__graphics_track_int=\count395
+\l__pdf_internal_box=\box51
+\g__pdf_backend_object_int=\count396
+\g__pdf_backend_annotation_int=\count397
+\g__pdf_backend_link_int=\count398
 ))
 Package biblatex Info: ... and expl3
-(biblatex)             2022-02-21 L3 programming layer (loader) 
+(biblatex)             2023-02-02 L3 programming layer (loader) 
 (biblatex)             is new enough (at least 2020/04/06),
 (biblatex)             setting 'casechanger=expl3'.
 
 (C:\Program Files\MiKTeX\tex/latex/biblatex\blx-case-expl3.sty
 (C:\Program Files\MiKTeX\tex/latex/l3packages/xparse\xparse.sty
-Package: xparse 2022-01-12 L3 Experimental document command parser
+Package: xparse 2023-01-16 L3 Experimental document command parser
 )
-Package: blx-case-expl3 2022/02/02 v3.17 expl3 case changing code for biblatex
+Package: blx-case-expl3 2022/07/12 v3.18b expl3 case changing code for biblatex
+
 ))
-\hga@author@cnt=\count401
-\hga@email@cnt=\count402
+\hga@author@cnt=\count399
+\hga@email@cnt=\count400
 
 (C:\Program Files\MiKTeX\tex/latex/xcolor\xcolor.sty
-Package: xcolor 2021/10/31 v2.13 LaTeX color extensions (UK)
+Package: xcolor 2022/06/12 v2.14 LaTeX color extensions (UK)
 
 (C:\Program Files\MiKTeX\tex/latex/graphics-cfg\color.cfg
 File: color.cfg 2016/01/02 v1.6 sample color configuration
@@ -398,16 +399,17 @@ File: color.cfg 2016/01/02 v1.6 sample color configuration
 Package xcolor Info: Driver file: xetex.def on input line 227.
 
 (C:\Program Files\MiKTeX\tex/latex/graphics-def\xetex.def
-File: xetex.def 2021/03/18 v5.0k Graphics/color driver for xetex
+File: xetex.def 2022/09/22 v5.0n Graphics/color driver for xetex
 )
-Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1352.
-Package xcolor Info: Model `RGB' extended on input line 1368.
-Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1370.
-Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1371.
-Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1372.
-Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1373.
-Package xcolor Info: Model `Gray' substituted by `gray' on input line 1374.
-Package xcolor Info: Model `wave' substituted by `hsb' on input line 1375.
+(C:\Program Files\MiKTeX\tex/latex/graphics\mathcolor.ltx)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1353.
+Package xcolor Info: Model `RGB' extended on input line 1369.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1371.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1372.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1373.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1374.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1375.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1376.
 )
 (C:\Program Files\MiKTeX\tex/latex/fontspec\fontspec.sty
 Package: fontspec 2022/01/15 v2.8a Font selection for XeLaTeX and LuaLaTeX
@@ -415,20 +417,20 @@ Package: fontspec 2022/01/15 v2.8a Font selection for XeLaTeX and LuaLaTeX
 (C:\Program Files\MiKTeX\tex/latex/fontspec\fontspec-xetex.sty
 Package: fontspec-xetex 2022/01/15 v2.8a Font selection for XeLaTeX and LuaLaTe
 X
-\l__fontspec_script_int=\count403
-\l__fontspec_language_int=\count404
-\l__fontspec_strnum_int=\count405
-\l__fontspec_tmp_int=\count406
-\l__fontspec_tmpa_int=\count407
-\l__fontspec_tmpb_int=\count408
-\l__fontspec_tmpc_int=\count409
-\l__fontspec_em_int=\count410
-\l__fontspec_emdef_int=\count411
-\l__fontspec_strong_int=\count412
-\l__fontspec_strongdef_int=\count413
-\l__fontspec_tmpa_dim=\dimen140
-\l__fontspec_tmpb_dim=\dimen141
-\l__fontspec_tmpc_dim=\dimen142
+\l__fontspec_script_int=\count401
+\l__fontspec_language_int=\count402
+\l__fontspec_strnum_int=\count403
+\l__fontspec_tmp_int=\count404
+\l__fontspec_tmpa_int=\count405
+\l__fontspec_tmpb_int=\count406
+\l__fontspec_tmpc_int=\count407
+\l__fontspec_em_int=\count408
+\l__fontspec_emdef_int=\count409
+\l__fontspec_strong_int=\count410
+\l__fontspec_strongdef_int=\count411
+\l__fontspec_tmpa_dim=\dimen142
+\l__fontspec_tmpb_dim=\dimen143
+\l__fontspec_tmpc_dim=\dimen144
 
 (C:\Program Files\MiKTeX\tex/latex/base\fontenc.sty
 Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
@@ -442,7 +444,7 @@ x.sty
 Package: unicode-math-xetex 2020/01/31 v0.8q Unicode maths in XeLaTeX and LuaLa
 TeX
  (C:\Program Files\MiKTeX\tex/latex/l3packages/l3keys2e\l3keys2e.sty
-Package: l3keys2e 2022-01-12 LaTeX2e option processing using LaTeX3 keys
+Package: l3keys2e 2023-01-16 LaTeX2e option processing using LaTeX3 keys
 )
 (C:\Program Files\MiKTeX\tex/latex/base\fix-cm.sty
 Package: fix-cm 2020/11/24 v1.1t fixes to LaTeX
@@ -452,8 +454,8 @@ File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
 LaTeX Font Info:    Redeclaring font encoding TS1 on input line 47.
 ))
 (C:\Program Files\MiKTeX\tex/latex/amsmath\amsmath.sty
-Package: amsmath 2021/10/15 v2.17l AMS math features
-\@mathmargin=\skip71
+Package: amsmath 2022/04/08 v2.17n AMS math features
+\@mathmargin=\skip72
 
 For additional information on amsmath, use the `?' option.
 (C:\Program Files\MiKTeX\tex/latex/amsmath\amstext.sty
@@ -462,56 +464,66 @@ Package: amstext 2021/08/26 v2.01 AMS text
 (C:\Program Files\MiKTeX\tex/latex/amsmath\amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0 generic functions
 \@emptytoks=\toks18
-\ex@=\dimen143
+\ex@=\dimen145
 ))
 (C:\Program Files\MiKTeX\tex/latex/amsmath\amsbsy.sty
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
-\pmbraise@=\dimen144
+\pmbraise@=\dimen146
 )
 (C:\Program Files\MiKTeX\tex/latex/amsmath\amsopn.sty
-Package: amsopn 2021/08/26 v2.02 operator names
+Package: amsopn 2022/04/08 v2.04 operator names
 )
-\inf@bad=\count414
+\inf@bad=\count412
 LaTeX Info: Redefining \frac on input line 234.
-\uproot@=\count415
-\leftroot@=\count416
+\uproot@=\count413
+\leftroot@=\count414
 LaTeX Info: Redefining \overline on input line 399.
-\classnum@=\count417
-\DOTSCASE@=\count418
+LaTeX Info: Redefining \colon on input line 410.
+\classnum@=\count415
+\DOTSCASE@=\count416
 LaTeX Info: Redefining \ldots on input line 496.
 LaTeX Info: Redefining \dots on input line 499.
 LaTeX Info: Redefining \cdots on input line 620.
-\Mathstrutbox@=\box51
-\strutbox@=\box52
-\big@size=\dimen145
+\Mathstrutbox@=\box52
+\strutbox@=\box53
+LaTeX Info: Redefining \big on input line 722.
+LaTeX Info: Redefining \Big on input line 723.
+LaTeX Info: Redefining \bigg on input line 724.
+LaTeX Info: Redefining \Bigg on input line 725.
+\big@size=\dimen147
 LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
 LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
-\macc@depth=\count419
-\c@MaxMatrixCols=\count420
+\macc@depth=\count417
+LaTeX Info: Redefining \bmod on input line 905.
+LaTeX Info: Redefining \pmod on input line 910.
+LaTeX Info: Redefining \smash on input line 940.
+LaTeX Info: Redefining \relbar on input line 970.
+LaTeX Info: Redefining \Relbar on input line 971.
+\c@MaxMatrixCols=\count418
 \dotsspace@=\muskip21
-\c@parentequation=\count421
-\dspbrk@lvl=\count422
+\c@parentequation=\count419
+\dspbrk@lvl=\count420
 \tag@help=\toks19
-\row@=\count423
-\column@=\count424
-\maxfields@=\count425
+\row@=\count421
+\column@=\count422
+\maxfields@=\count423
 \andhelp@=\toks20
-\eqnshift@=\dimen146
-\alignsep@=\dimen147
-\tagshift@=\dimen148
-\tagwidth@=\dimen149
-\totwidth@=\dimen150
-\lineht@=\dimen151
+\eqnshift@=\dimen148
+\alignsep@=\dimen149
+\tagshift@=\dimen150
+\tagwidth@=\dimen151
+\totwidth@=\dimen152
+\lineht@=\dimen153
 \@envbody=\toks21
-\multlinegap=\skip72
-\multlinetaggap=\skip73
+\multlinegap=\skip73
+\multlinetaggap=\skip74
 \mathdisplay@stack=\toks22
-LaTeX Info: Redefining \[ on input line 2938.
-LaTeX Info: Redefining \] on input line 2939.
+LaTeX Info: Redefining \[ on input line 2953.
+LaTeX Info: Redefining \] on input line 2954.
 )
-\g__um_fam_int=\count426
-\g__um_fonts_used_int=\count427
-\l__um_primecount_int=\count428
+\g__um_fam_int=\count424
+\g__um_fonts_used_int=\count425
+\l__um_primecount_int=\count426
 \g__um_primekern_muskip=\muskip22
 
 (C:\Users\jonad\AppData\Roaming\MiKTeX\tex/latex/unicode-math\unicode-math-tabl
@@ -913,17 +925,17 @@ Package: geometry 2020/01/02 v5.9 Page Geometry
 (C:\Program Files\MiKTeX\tex/generic/iftex\ifvtex.sty
 Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 )
-\Gm@cnth=\count429
-\Gm@cntv=\count430
-\c@Gm@tempcnt=\count431
-\Gm@bindingoffset=\dimen152
-\Gm@wd@mp=\dimen153
-\Gm@odd@mp=\dimen154
-\Gm@even@mp=\dimen155
-\Gm@layoutwidth=\dimen156
-\Gm@layoutheight=\dimen157
-\Gm@layouthoffset=\dimen158
-\Gm@layoutvoffset=\dimen159
+\Gm@cnth=\count427
+\Gm@cntv=\count428
+\c@Gm@tempcnt=\count429
+\Gm@bindingoffset=\dimen154
+\Gm@wd@mp=\dimen155
+\Gm@odd@mp=\dimen156
+\Gm@even@mp=\dimen157
+\Gm@layoutwidth=\dimen158
+\Gm@layoutheight=\dimen159
+\Gm@layouthoffset=\dimen160
+\Gm@layoutvoffset=\dimen161
 \Gm@dimlist=\toks23
 
 (C:\Users\jonad\AppData\Roaming\MiKTeX\tex/latex/geometry\geometry.cfg))
@@ -953,99 +965,99 @@ Package zref Info: New property: page on input line 769.
 Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
 package with kernel methods
 )
-\c@abspage=\count432
+\c@abspage=\count430
 Package zref Info: New property: abspage on input line 65.
 )
 (C:\Users\jonad\AppData\Roaming\MiKTeX\tex/latex/needspace\needspace.sty
 Package: needspace 2010/09/12 v1.3d reserve vertical space
 )
-\mdf@templength=\skip74
-\c@mdf@globalstyle@cnt=\count433
-\mdf@skipabove@length=\skip75
-\mdf@skipbelow@length=\skip76
-\mdf@leftmargin@length=\skip77
-\mdf@rightmargin@length=\skip78
-\mdf@innerleftmargin@length=\skip79
-\mdf@innerrightmargin@length=\skip80
-\mdf@innertopmargin@length=\skip81
-\mdf@innerbottommargin@length=\skip82
-\mdf@splittopskip@length=\skip83
-\mdf@splitbottomskip@length=\skip84
-\mdf@outermargin@length=\skip85
-\mdf@innermargin@length=\skip86
-\mdf@linewidth@length=\skip87
-\mdf@innerlinewidth@length=\skip88
-\mdf@middlelinewidth@length=\skip89
-\mdf@outerlinewidth@length=\skip90
-\mdf@roundcorner@length=\skip91
-\mdf@footenotedistance@length=\skip92
-\mdf@userdefinedwidth@length=\skip93
-\mdf@needspace@length=\skip94
-\mdf@frametitleaboveskip@length=\skip95
-\mdf@frametitlebelowskip@length=\skip96
-\mdf@frametitlerulewidth@length=\skip97
-\mdf@frametitleleftmargin@length=\skip98
-\mdf@frametitlerightmargin@length=\skip99
-\mdf@shadowsize@length=\skip100
-\mdf@extratopheight@length=\skip101
-\mdf@subtitleabovelinewidth@length=\skip102
-\mdf@subtitlebelowlinewidth@length=\skip103
-\mdf@subtitleaboveskip@length=\skip104
-\mdf@subtitlebelowskip@length=\skip105
-\mdf@subtitleinneraboveskip@length=\skip106
-\mdf@subtitleinnerbelowskip@length=\skip107
-\mdf@subsubtitleabovelinewidth@length=\skip108
-\mdf@subsubtitlebelowlinewidth@length=\skip109
-\mdf@subsubtitleaboveskip@length=\skip110
-\mdf@subsubtitlebelowskip@length=\skip111
-\mdf@subsubtitleinneraboveskip@length=\skip112
-\mdf@subsubtitleinnerbelowskip@length=\skip113
+\mdf@templength=\skip75
+\c@mdf@globalstyle@cnt=\count431
+\mdf@skipabove@length=\skip76
+\mdf@skipbelow@length=\skip77
+\mdf@leftmargin@length=\skip78
+\mdf@rightmargin@length=\skip79
+\mdf@innerleftmargin@length=\skip80
+\mdf@innerrightmargin@length=\skip81
+\mdf@innertopmargin@length=\skip82
+\mdf@innerbottommargin@length=\skip83
+\mdf@splittopskip@length=\skip84
+\mdf@splitbottomskip@length=\skip85
+\mdf@outermargin@length=\skip86
+\mdf@innermargin@length=\skip87
+\mdf@linewidth@length=\skip88
+\mdf@innerlinewidth@length=\skip89
+\mdf@middlelinewidth@length=\skip90
+\mdf@outerlinewidth@length=\skip91
+\mdf@roundcorner@length=\skip92
+\mdf@footenotedistance@length=\skip93
+\mdf@userdefinedwidth@length=\skip94
+\mdf@needspace@length=\skip95
+\mdf@frametitleaboveskip@length=\skip96
+\mdf@frametitlebelowskip@length=\skip97
+\mdf@frametitlerulewidth@length=\skip98
+\mdf@frametitleleftmargin@length=\skip99
+\mdf@frametitlerightmargin@length=\skip100
+\mdf@shadowsize@length=\skip101
+\mdf@extratopheight@length=\skip102
+\mdf@subtitleabovelinewidth@length=\skip103
+\mdf@subtitlebelowlinewidth@length=\skip104
+\mdf@subtitleaboveskip@length=\skip105
+\mdf@subtitlebelowskip@length=\skip106
+\mdf@subtitleinneraboveskip@length=\skip107
+\mdf@subtitleinnerbelowskip@length=\skip108
+\mdf@subsubtitleabovelinewidth@length=\skip109
+\mdf@subsubtitlebelowlinewidth@length=\skip110
+\mdf@subsubtitleaboveskip@length=\skip111
+\mdf@subsubtitlebelowskip@length=\skip112
+\mdf@subsubtitleinneraboveskip@length=\skip113
+\mdf@subsubtitleinnerbelowskip@length=\skip114
 
 (C:\Users\jonad\AppData\Roaming\MiKTeX\tex/latex/mdframed\md-frame-0.mdf
 File: md-frame-0.mdf 2013/07/01\ 1.9b: md-frame-0
 )
-\mdf@frametitlebox=\box53
-\mdf@footnotebox=\box54
-\mdf@splitbox@one=\box55
-\mdf@splitbox@two=\box56
-\mdf@splitbox@save=\box57
-\mdfsplitboxwidth=\skip114
-\mdfsplitboxtotalwidth=\skip115
-\mdfsplitboxheight=\skip116
-\mdfsplitboxdepth=\skip117
-\mdfsplitboxtotalheight=\skip118
-\mdfframetitleboxwidth=\skip119
-\mdfframetitleboxtotalwidth=\skip120
-\mdfframetitleboxheight=\skip121
-\mdfframetitleboxdepth=\skip122
-\mdfframetitleboxtotalheight=\skip123
-\mdffootnoteboxwidth=\skip124
-\mdffootnoteboxtotalwidth=\skip125
-\mdffootnoteboxheight=\skip126
-\mdffootnoteboxdepth=\skip127
-\mdffootnoteboxtotalheight=\skip128
-\mdftotallinewidth=\skip129
-\mdfboundingboxwidth=\skip130
-\mdfboundingboxtotalwidth=\skip131
-\mdfboundingboxheight=\skip132
-\mdfboundingboxdepth=\skip133
-\mdfboundingboxtotalheight=\skip134
-\mdf@freevspace@length=\skip135
-\mdf@horizontalwidthofbox@length=\skip136
-\mdf@verticalmarginwhole@length=\skip137
-\mdf@horizontalspaceofbox=\skip138
-\mdfsubtitleheight=\skip139
-\mdfsubsubtitleheight=\skip140
-\c@mdfcountframes=\count434
+\mdf@frametitlebox=\box54
+\mdf@footnotebox=\box55
+\mdf@splitbox@one=\box56
+\mdf@splitbox@two=\box57
+\mdf@splitbox@save=\box58
+\mdfsplitboxwidth=\skip115
+\mdfsplitboxtotalwidth=\skip116
+\mdfsplitboxheight=\skip117
+\mdfsplitboxdepth=\skip118
+\mdfsplitboxtotalheight=\skip119
+\mdfframetitleboxwidth=\skip120
+\mdfframetitleboxtotalwidth=\skip121
+\mdfframetitleboxheight=\skip122
+\mdfframetitleboxdepth=\skip123
+\mdfframetitleboxtotalheight=\skip124
+\mdffootnoteboxwidth=\skip125
+\mdffootnoteboxtotalwidth=\skip126
+\mdffootnoteboxheight=\skip127
+\mdffootnoteboxdepth=\skip128
+\mdffootnoteboxtotalheight=\skip129
+\mdftotallinewidth=\skip130
+\mdfboundingboxwidth=\skip131
+\mdfboundingboxtotalwidth=\skip132
+\mdfboundingboxheight=\skip133
+\mdfboundingboxdepth=\skip134
+\mdfboundingboxtotalheight=\skip135
+\mdf@freevspace@length=\skip136
+\mdf@horizontalwidthofbox@length=\skip137
+\mdf@verticalmarginwhole@length=\skip138
+\mdf@horizontalspaceofbox=\skip139
+\mdfsubtitleheight=\skip140
+\mdfsubsubtitleheight=\skip141
+\c@mdfcountframes=\count432
 
 ****** mdframed patching \endmdf@trivlist
 
 ****** -- success******
 
-\mdf@envdepth=\count435
-\c@mdf@env@i=\count436
-\c@mdf@env@ii=\count437
-\c@mdf@zref@counter=\count438
+\mdf@envdepth=\count433
+\c@mdf@env@i=\count434
+\c@mdf@env@ii=\count435
+\c@mdf@zref@counter=\count436
 Package zref Info: New property: mdf@pagevalue on input line 895.
 )
 (C:\Program Files\MiKTeX\tex/latex/environ\environ.sty
@@ -1056,32 +1068,32 @@ Package: trimspaces 2009/09/17 v1.1 Trim spaces around a token list
 ))
 (C:\Users\jonad\AppData\Roaming\MiKTeX\tex/latex/titlesec\titlesec.sty
 Package: titlesec 2021/07/05 v2.14 Sectioning titles
-\ttl@box=\box58
-\beforetitleunit=\skip141
-\aftertitleunit=\skip142
-\ttl@plus=\dimen160
-\ttl@minus=\dimen161
+\ttl@box=\box59
+\beforetitleunit=\skip142
+\aftertitleunit=\skip143
+\ttl@plus=\dimen162
+\ttl@minus=\dimen163
 \ttl@toksa=\toks24
-\titlewidth=\dimen162
-\titlewidthlast=\dimen163
-\titlewidthfirst=\dimen164
+\titlewidth=\dimen164
+\titlewidthlast=\dimen165
+\titlewidthfirst=\dimen166
 )
 (C:\Users\jonad\AppData\Roaming\MiKTeX\tex/latex/titlesec\titletoc.sty
 Package: titletoc 2021/07/05 v2.14 TOC entries
-\ttl@leftsep=\dimen165
+\ttl@leftsep=\dimen167
 )
 (C:\Users\jonad\AppData\Roaming\MiKTeX\tex/latex/fancyhdr\fancyhdr.sty
 Package: fancyhdr 2021/01/28 v4.0.1 Extensive control of page headers and foote
 rs
-\f@nch@headwidth=\skip143
-\f@nch@O@elh=\skip144
-\f@nch@O@erh=\skip145
-\f@nch@O@olh=\skip146
-\f@nch@O@orh=\skip147
-\f@nch@O@elf=\skip148
-\f@nch@O@erf=\skip149
-\f@nch@O@olf=\skip150
-\f@nch@O@orf=\skip151
+\f@nch@headwidth=\skip144
+\f@nch@O@elh=\skip145
+\f@nch@O@erh=\skip146
+\f@nch@O@olh=\skip147
+\f@nch@O@orh=\skip148
+\f@nch@O@elf=\skip149
+\f@nch@O@erf=\skip150
+\f@nch@O@olf=\skip151
+\f@nch@O@orf=\skip152
 )
 (C:\Users\jonad\AppData\Roaming\MiKTeX\tex/latex/lastpage\lastpage.sty
 Package: lastpage 2021/09/03 v1.2n Refers to last page's name (HMM; JPG)
@@ -1090,7 +1102,7 @@ Package: lastpage 2021/09/03 v1.2n Refers to last page's name (HMM; JPG)
 Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
 
 (C:\Program Files\MiKTeX\tex/latex/graphics\graphics.sty
-Package: graphics 2021/03/04 v1.4d Standard LaTeX Graphics (DPC,SPQR)
+Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
 
 (C:\Program Files\MiKTeX\tex/latex/graphics\trig.sty
 Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
@@ -1100,15 +1112,15 @@ File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: xetex.def on input line 107.
 )
-\Gin@req@height=\dimen166
-\Gin@req@width=\dimen167
+\Gin@req@height=\dimen168
+\Gin@req@width=\dimen169
 )
 (C:\Users\jonad\AppData\Roaming\MiKTeX\tex/latex/eurosym\eurosym.sty
 Package: eurosym 1998/08/06 v1.1 European currency symbol ``Euro''
-\@eurobox=\box59
+\@eurobox=\box60
 )
 (C:\Program Files\MiKTeX\tex/latex/hyperref\hyperref.sty
-Package: hyperref 2021-06-07 v7.00m Hypertext links for LaTeX
+Package: hyperref 2022-11-13 v7.00u Hypertext links for LaTeX
 
 (C:\Users\jonad\AppData\Roaming\MiKTeX\tex/generic/pdfescape\pdfescape.sty
 Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
@@ -1119,36 +1131,43 @@ Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
 (C:\Users\jonad\AppData\Roaming\MiKTeX\tex/latex/letltxmacro\letltxmacro.sty
 Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
 )
-\@linkdim=\dimen168
-\Hy@linkcounter=\count439
-\Hy@pagecounter=\count440
+(C:\Program Files\MiKTeX\tex/latex/hyperref\nameref.sty
+Package: nameref 2022-05-17 v2.50 Cross-referencing by name of section
 
-(C:\Program Files\MiKTeX\tex/latex/hyperref\pd1enc.def
-File: pd1enc.def 2021-06-07 v7.00m Hyperref: PDFDocEncoding definition (HO)
+(C:\Users\jonad\AppData\Roaming\MiKTeX\tex/latex/refcount\refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
 )
-(C:\Program Files\MiKTeX\tex/latex/hyperref\hyperref-langpatches.def
-File: hyperref-langpatches.def 2021-06-07 v7.00m Hyperref: patches for babel la
-nguages
+(C:\Users\jonad\AppData\Roaming\MiKTeX\tex/generic/gettitlestring\gettitlestrin
+g.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+)
+\c@section@level=\count437
+)
+\@linkdim=\dimen170
+\Hy@linkcounter=\count438
+\Hy@pagecounter=\count439
+ (C:\Program Files\MiKTeX\tex/latex/hyperref\pd1enc.def
+File: pd1enc.def 2022-11-13 v7.00u Hyperref: PDFDocEncoding definition (HO)
 )
 (C:\Users\jonad\AppData\Roaming\MiKTeX\tex/generic/intcalc\intcalc.sty
 Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
 )
-\Hy@SavedSpaceFactor=\count441
+\Hy@SavedSpaceFactor=\count440
 
 (C:\Program Files\MiKTeX\tex/latex/hyperref\puenc.def
-File: puenc.def 2021-06-07 v7.00m Hyperref: PDF Unicode definition (HO)
+File: puenc.def 2022-11-13 v7.00u Hyperref: PDF Unicode definition (HO)
 )
-Package hyperref Info: Option `breaklinks' set `true' on input line 4073.
-Package hyperref Info: Hyper figures OFF on input line 4192.
-Package hyperref Info: Link nesting OFF on input line 4197.
-Package hyperref Info: Hyper index ON on input line 4200.
-Package hyperref Info: Plain pages OFF on input line 4207.
-Package hyperref Info: Backreferencing OFF on input line 4212.
+Package hyperref Info: Option `breaklinks' set `true' on input line 4045.
+Package hyperref Info: Hyper figures OFF on input line 4162.
+Package hyperref Info: Link nesting OFF on input line 4167.
+Package hyperref Info: Hyper index ON on input line 4170.
+Package hyperref Info: Plain pages OFF on input line 4177.
+Package hyperref Info: Backreferencing OFF on input line 4182.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
-Package hyperref Info: Bookmarks ON on input line 4445.
-\c@Hy@tempcnt=\count442
-LaTeX Info: Redefining \url on input line 4804.
-\XeTeXLinkMargin=\dimen169
+Package hyperref Info: Bookmarks ON on input line 4410.
+\c@Hy@tempcnt=\count441
+LaTeX Info: Redefining \url on input line 4748.
+\XeTeXLinkMargin=\dimen171
 
 (C:\Users\jonad\AppData\Roaming\MiKTeX\tex/generic/bitset\bitset.sty
 Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
@@ -1157,35 +1176,33 @@ Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
 Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
 )
 ))
-\Fld@menulength=\count443
-\Field@Width=\dimen170
-\Fld@charsize=\dimen171
-Package hyperref Info: Hyper figures OFF on input line 6076.
-Package hyperref Info: Link nesting OFF on input line 6081.
-Package hyperref Info: Hyper index ON on input line 6084.
-Package hyperref Info: backreferencing OFF on input line 6091.
-Package hyperref Info: Link coloring OFF on input line 6096.
-Package hyperref Info: Link coloring with OCG OFF on input line 6101.
-Package hyperref Info: PDF/A mode OFF on input line 6106.
-LaTeX Info: Redefining \ref on input line 6146.
-LaTeX Info: Redefining \pageref on input line 6150.
-\Hy@abspage=\count444
-\c@Item=\count445
-\c@Hfootnote=\count446
+\Fld@menulength=\count442
+\Field@Width=\dimen172
+\Fld@charsize=\dimen173
+Package hyperref Info: Hyper figures OFF on input line 6027.
+Package hyperref Info: Link nesting OFF on input line 6032.
+Package hyperref Info: Hyper index ON on input line 6035.
+Package hyperref Info: backreferencing OFF on input line 6042.
+Package hyperref Info: Link coloring OFF on input line 6047.
+Package hyperref Info: Link coloring with OCG OFF on input line 6052.
+Package hyperref Info: PDF/A mode OFF on input line 6057.
+\Hy@abspage=\count443
+\c@Item=\count444
+\c@Hfootnote=\count445
 )
 Package hyperref Info: Driver (autodetected): hxetex.
 (C:\Program Files\MiKTeX\tex/latex/hyperref\hxetex.def
-File: hxetex.def 2021-06-07 v7.00m Hyperref driver for XeTeX
+File: hxetex.def 2022-11-13 v7.00u Hyperref driver for XeTeX
 
 (C:\Users\jonad\AppData\Roaming\MiKTeX\tex/generic/stringenc\stringenc.sty
 Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO
 )
 )
-\pdfm@box=\box60
-\c@Hy@AnnotLevel=\count447
-\HyField@AnnotCount=\count448
-\Fld@listcount=\count449
-\c@bookmark@seq@number=\count450
+\pdfm@box=\box61
+\c@Hy@AnnotLevel=\count446
+\HyField@AnnotCount=\count447
+\Fld@listcount=\count448
+\c@bookmark@seq@number=\count449
 
 (C:\Users\jonad\AppData\Roaming\MiKTeX\tex/latex/rerunfilecheck\rerunfilecheck.
 sty
@@ -1202,37 +1219,37 @@ Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 86.
 )
-\Hy@SectionHShift=\skip152
+\Hy@SectionHShift=\skip153
 )
 Package hyperref Info: Option `unicode' set `true' on input line 475.
 Package hyperref Info: Option `colorlinks' set `true' on input line 475.
  (C:\Users\jonad\AppData\Roaming\MiKTeX\tex/latex/booktabs\booktabs.sty
 Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
-\heavyrulewidth=\dimen172
-\lightrulewidth=\dimen173
-\cmidrulewidth=\dimen174
-\belowrulesep=\dimen175
-\belowbottomsep=\dimen176
-\aboverulesep=\dimen177
-\abovetopsep=\dimen178
-\cmidrulesep=\dimen179
-\cmidrulekern=\dimen180
-\defaultaddspace=\dimen181
-\@cmidla=\count451
-\@cmidlb=\count452
-\@aboverulesep=\dimen182
-\@belowrulesep=\dimen183
-\@thisruleclass=\count453
-\@lastruleclass=\count454
-\@thisrulewidth=\dimen184
+\heavyrulewidth=\dimen174
+\lightrulewidth=\dimen175
+\cmidrulewidth=\dimen176
+\belowrulesep=\dimen177
+\belowbottomsep=\dimen178
+\aboverulesep=\dimen179
+\abovetopsep=\dimen180
+\cmidrulesep=\dimen181
+\cmidrulekern=\dimen182
+\defaultaddspace=\dimen183
+\@cmidla=\count450
+\@cmidlb=\count451
+\@aboverulesep=\dimen184
+\@belowrulesep=\dimen185
+\@thisruleclass=\count452
+\@lastruleclass=\count453
+\@thisrulewidth=\dimen186
 )) (C:\Users\jonad\AppData\Roaming\MiKTeX\tex/latex/csquotes\csquotes.sty
 Package: csquotes 2021-02-22 v5.2l context-sensitive quotations (JAW)
-\csq@reset=\count455
-\csq@gtype=\count456
-\csq@glevel=\count457
-\csq@qlevel=\count458
-\csq@maxlvl=\count459
-\csq@tshold=\count460
+\csq@reset=\count454
+\csq@gtype=\count455
+\csq@glevel=\count456
+\csq@qlevel=\count457
+\csq@maxlvl=\count458
+\csq@tshold=\count459
 \csq@ltx@everypar=\toks25
 
 (C:\Users\jonad\AppData\Roaming\MiKTeX\tex/latex/csquotes\csquotes.def
@@ -1281,13 +1298,13 @@ Package biblatex Info: Trying to load language 'dutch'...
 Package biblatex Info: ... file 'dutch.lbx' found.
 
 (C:\Program Files\MiKTeX\tex/latex/biblatex/lbx\dutch.lbx
-File: dutch.lbx 2022/02/02 v3.17 biblatex localization (PK/MW)
+File: dutch.lbx 2022/07/12 v3.18b biblatex localization (PK/MW)
 )
 Package biblatex Info: Trying to load language 'dutch'...
 Package biblatex Info: ... file 'dutch.lbx' found.
 
 (C:\Program Files\MiKTeX\tex/latex/biblatex/lbx\dutch.lbx
-File: dutch.lbx 2022/02/02 v3.17 biblatex localization (PK/MW)
+File: dutch.lbx 2022/07/12 v3.18b biblatex localization (PK/MW)
 ))
 Package biblatex Info: XeTeX detected.
 (biblatex)             Assuming input encoding 'utf8'.
@@ -1344,22 +1361,7 @@ Package lastpage Info: Please have a look at the pageslts package at
 (lastpage)             https://www.ctan.org/pkg/pageslts
 (lastpage)             ! on input line 57.
 Package hyperref Info: Link coloring ON on input line 57.
-(C:\Program Files\MiKTeX\tex/latex/hyperref\nameref.sty
-Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
-
-(C:\Users\jonad\AppData\Roaming\MiKTeX\tex/latex/refcount\refcount.sty
-Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
-)
-(C:\Users\jonad\AppData\Roaming\MiKTeX\tex/generic/gettitlestring\gettitlestrin
-g.sty
-Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
-)
-\c@section@level=\count461
-)
-LaTeX Info: Redefining \ref on input line 57.
-LaTeX Info: Redefining \pageref on input line 57.
-LaTeX Info: Redefining \nameref on input line 57.
- (DeNeveJona-BPvoorstel.out) (DeNeveJona-BPvoorstel.out)
+(DeNeveJona-BPvoorstel.out) (DeNeveJona-BPvoorstel.out)
 \@outlinefile=\write4
 \openout4 = `DeNeveJona-BPvoorstel.out'.
 
@@ -1451,12 +1453,12 @@ Package logreq Info: Writing requests to 'DeNeveJona-BPvoorstel.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 27449 strings out of 410969
- 514046 string characters out of 2828073
- 1475204 words of memory out of 3000000
- 47828 multiletter control sequences out of 15000+600000
- 472893 words of font info for 93 fonts, out of 8000000 for 9000
+ 27551 strings out of 411511
+ 517278 string characters out of 5823378
+ 1875001 words of memory out of 5000000
+ 47388 multiletter control sequences out of 15000+600000
+ 515921 words of font info for 97 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 99i,11n,128p,1144b,5610s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 99i,11n,128p,1144b,5608s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
 Output written on DeNeveJona-BPvoorstel.pdf (3 pages).
