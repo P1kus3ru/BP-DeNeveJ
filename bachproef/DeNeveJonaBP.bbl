@@ -1,0 +1,811 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{apa/apasortcite//global/global}
+    \entry{Creeger2009}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=e888aba3556efbb8063540e3e2ae69b4}{%
+           family={Creeger},
+           familyi={C\bibinitperiod},
+           given={Mache},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{e888aba3556efbb8063540e3e2ae69b4}
+      \strng{fullhash}{e888aba3556efbb8063540e3e2ae69b4}
+      \strng{bibnamehash}{e888aba3556efbb8063540e3e2ae69b4}
+      \strng{authorbibnamehash}{e888aba3556efbb8063540e3e2ae69b4}
+      \strng{authornamehash}{e888aba3556efbb8063540e3e2ae69b4}
+      \strng{authorfullhash}{e888aba3556efbb8063540e3e2ae69b4}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Communications of the ACM}
+      \field{number}{8}
+      \field{title}{{CTO Roundtable: Cloud Computing}}
+      \field{volume}{52}
+      \field{year}{2009}
+      \field{pages}{50\bibrangedash 56}
+      \range{pages}{7}
+    \endentry
+    \entry{Knuth1998}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=ec08e6f01da5f3814f28a70c89c64656}{%
+           family={Knuth},
+           familyi={K\bibinitperiod},
+           given={Donald\bibnamedelima E.},
+           giveni={D\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Redwood City, CA, USA}%
+      }
+      \list{publisher}{1}{%
+        {Addison Wesley Longman Publishing Co., Inc.}%
+      }
+      \strng{namehash}{ec08e6f01da5f3814f28a70c89c64656}
+      \strng{fullhash}{ec08e6f01da5f3814f28a70c89c64656}
+      \strng{bibnamehash}{ec08e6f01da5f3814f28a70c89c64656}
+      \strng{authorbibnamehash}{ec08e6f01da5f3814f28a70c89c64656}
+      \strng{authornamehash}{ec08e6f01da5f3814f28a70c89c64656}
+      \strng{authorfullhash}{ec08e6f01da5f3814f28a70c89c64656}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The art of computer programming, volume 3: (2nd ed.) sorting and searching}
+      \field{year}{1998}
+    \endentry
+    \entry{Leuski2010}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=bf3395e58d2bf558ba563408a1bbc9f1}{%
+           family={Leuski},
+           familyi={L\bibinitperiod},
+           given={Anton},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=852889328d57da2df5bccea3165205d0}{%
+           family={Traum},
+           familyi={T\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {European Language Resources Association (ELRA)}%
+      }
+      \strng{namehash}{a24303e798e7084802fc4954e4349bd9}
+      \strng{fullhash}{a24303e798e7084802fc4954e4349bd9}
+      \strng{bibnamehash}{a24303e798e7084802fc4954e4349bd9}
+      \strng{authorbibnamehash}{a24303e798e7084802fc4954e4349bd9}
+      \strng{authornamehash}{a24303e798e7084802fc4954e4349bd9}
+      \strng{authorfullhash}{a24303e798e7084802fc4954e4349bd9}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{NPCEditor is a system for building and deploying virtual characters capable of engaging a user in spoken dialog on a limited domain. The dialogue may take any form as long as the character responses can be specified a priori. For example, NPCEditor has been used for constructing question answering characters where a user asks questions and the character responds, but other scenarios are possible. At the core of the system is a state of the art statistical language classification technology for mapping from user's text input to system responses. NPCEditor combines the classifier with a database that stores the character information and relevant language data, a server that allows the character designer to deploy the completed characters, and a user-friendly editor that helps the designer to accomplish both character design and deployment tasks. In the paper we define the overall system architecture, describe individual NPCEditor components, and guide the reader through the steps of building a virtual character.}
+      \field{journaltitle}{Proceedings of the Seventh International Conference on Language Resources and Evaluation ({LREC}'10)}
+      \field{month}{5}
+      \field{title}{{NPCE}ditor: A Tool for Building Question-Answering Characters}
+      \field{urlday}{15}
+      \field{urlmonth}{12}
+      \field{urlyear}{2022}
+      \field{year}{2010}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb http://www.lrec-conf.org/proceedings/lrec2010/pdf/660_Paper.pdf
+      \endverb
+      \verb{url}
+      \verb http://www.lrec-conf.org/proceedings/lrec2010/pdf/660_Paper.pdf
+      \endverb
+    \endentry
+    \entry{Meta2022}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=b6755d218d5f4e1cef9cce9cc39aeda9}{%
+           family={Meta},
+           familyi={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{b6755d218d5f4e1cef9cce9cc39aeda9}
+      \strng{fullhash}{b6755d218d5f4e1cef9cce9cc39aeda9}
+      \strng{bibnamehash}{b6755d218d5f4e1cef9cce9cc39aeda9}
+      \strng{authorbibnamehash}{b6755d218d5f4e1cef9cce9cc39aeda9}
+      \strng{authornamehash}{b6755d218d5f4e1cef9cce9cc39aeda9}
+      \strng{authorfullhash}{b6755d218d5f4e1cef9cce9cc39aeda9}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{15}
+      \field{month}{6}
+      \field{title}{The Impact Will Be Real}
+      \field{urlday}{11}
+      \field{urlmonth}{12}
+      \field{urlyear}{2022}
+      \field{year}{2022}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.youtube.com/watch?v=80IIEnSNwQc
+      \endverb
+      \verb{url}
+      \verb https://www.youtube.com/watch?v=80IIEnSNwQc
+      \endverb
+    \endentry
+    \entry{Pollefliet2011}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=7ca343ebcc6de1727ac22a1a847c21e5}{%
+           family={Pollefliet},
+           familyi={P\bibinitperiod},
+           given={Leen},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Gent}%
+      }
+      \list{publisher}{1}{%
+        {Academia Press}%
+      }
+      \strng{namehash}{7ca343ebcc6de1727ac22a1a847c21e5}
+      \strng{fullhash}{7ca343ebcc6de1727ac22a1a847c21e5}
+      \strng{bibnamehash}{7ca343ebcc6de1727ac22a1a847c21e5}
+      \strng{authorbibnamehash}{7ca343ebcc6de1727ac22a1a847c21e5}
+      \strng{authornamehash}{7ca343ebcc6de1727ac22a1a847c21e5}
+      \strng{authorfullhash}{7ca343ebcc6de1727ac22a1a847c21e5}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Schrijven van verslag tot eindwerk: do's en don'ts}
+      \field{year}{2011}
+    \endentry
+    \entry{Traum2015}{inbook}{}
+      \name{author}{14}{}{%
+        {{un=0,uniquepart=base,hash=852889328d57da2df5bccea3165205d0}{%
+           family={Traum},
+           familyi={T\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=754ef483cc118651dbbe70d1a2879764}{%
+           family={Jones},
+           familyi={J\bibinitperiod},
+           given={Andrew},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=36bafdd8602b40182f00095d82750a31}{%
+           family={Hays},
+           familyi={H\bibinitperiod},
+           given={Kia},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f9414446a9555ebab17053ffce4e9bd1}{%
+           family={Maio},
+           familyi={M\bibinitperiod},
+           given={Heather},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=50e7d792335c73f726d3fcb5d8a094c4}{%
+           family={Alexander},
+           familyi={A\bibinitperiod},
+           given={Oleg},
+           giveni={O\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=fa1dff427d354932033a58782953eace}{%
+           family={Artstein},
+           familyi={A\bibinitperiod},
+           given={Ron},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4aae50ca585b8b048183a76ff6e98dd8}{%
+           family={Debevec},
+           familyi={D\bibinitperiod},
+           given={Paul},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=298aad30a0ffb19aaaab7799d60fbda9}{%
+           family={Gainer},
+           familyi={G\bibinitperiod},
+           given={Alesia},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3249ad81550e515606eff2ed3823fbb3}{%
+           family={Georgila},
+           familyi={G\bibinitperiod},
+           given={Kallirroi},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=98b8d62747d2dce4af8d88ed83ce0b36}{%
+           family={Haase},
+           familyi={H\bibinitperiod},
+           given={Kathleen},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f818ece1d00b45c25df75bd854235d8a}{%
+           family={Jungblut},
+           familyi={J\bibinitperiod},
+           given={Karen},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=bf3395e58d2bf558ba563408a1bbc9f1}{%
+           family={Leuski},
+           familyi={L\bibinitperiod},
+           given={Anton},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c0335390e6dcad77f0091d57516ec815}{%
+           family={Smith},
+           familyi={S\bibinitperiod},
+           given={Stephen},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=fb97b1b38ed066be6193a1e65e679cad}{%
+           family={Swartout},
+           familyi={S\bibinitperiod},
+           given={William},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{4}{}{%
+        {{hash=0cbef3601a7eb3e07796f5a3bab18304}{%
+           family={Schoenau-Fog},
+           familyi={S\bibinithyphendelim F\bibinitperiod},
+           given={Henrik},
+           giveni={H\bibinitperiod}}}%
+        {{hash=27f15a50a14f8c859220cd999cdc75de}{%
+           family={Bruni},
+           familyi={B\bibinitperiod},
+           given={Luis\bibnamedelima Emilio},
+           giveni={L\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+        {{hash=63565822eba97bc31df642f94d6cf6ab}{%
+           family={Louchart},
+           familyi={L\bibinitperiod},
+           given={Sandy},
+           giveni={S\bibinitperiod}}}%
+        {{hash=bf020a4f0b084717b42bc70510e3ff72}{%
+           family={Baceviciute},
+           familyi={B\bibinitperiod},
+           given={Sarune},
+           giveni={S\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Cham}%
+      }
+      \list{publisher}{1}{%
+        {Springer International Publishing}%
+      }
+      \strng{namehash}{61094e936759fd79103d6a346bd12234}
+      \strng{fullhash}{ce51a771a8fbfa0317dadfa0486a3495}
+      \strng{bibnamehash}{ce51a771a8fbfa0317dadfa0486a3495}
+      \strng{authorbibnamehash}{ce51a771a8fbfa0317dadfa0486a3495}
+      \strng{authornamehash}{61094e936759fd79103d6a346bd12234}
+      \strng{authorfullhash}{ce51a771a8fbfa0317dadfa0486a3495}
+      \strng{editorbibnamehash}{ab148686940b230005e2b17b78d0e423}
+      \strng{editornamehash}{b1a98608044a378b0e5602efe73a1b86}
+      \strng{editorfullhash}{ab148686940b230005e2b17b78d0e423}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{We describe a digital system that allows people to have an interactive conversation with a human storyteller (a Holocaust survivor) who has recorded a number of dialogue contributions, including many compelling narratives of his experiences and thoughts. The goal is to preserve as much as possible of the experience of face-to-face interaction. The survivor's stories, answers to common questions, and testimony are recorded in high fidelity, and then delivered interactively to an audience as responses to spoken questions. People can ask questions and receive answers on a broad range of topics including the survivor's experiences before, after and during the war, his attitudes and philosophy. Evaluation results show that most user questions can be addressed by the system, and that audiences are highly engaged with the resulting interaction.}
+      \field{booktitle}{Interactive Storytelling}
+      \field{isbn}{978-3-319-27036-4}
+      \field{title}{New Dimensions in Testimony: Digitally Preserving a Holocaust Survivor's Interactive Storytelling}
+      \field{urlday}{12}
+      \field{urlmonth}{12}
+      \field{urlyear}{2022}
+      \field{year}{2015}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{269\bibrangedash 281}
+      \range{pages}{13}
+    \endentry
+    \entry{USCShoahFoundation2020}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=87af564fca350fc08fd0a0c5952a5068}{%
+           family={{USC Shoah Foundation}},
+           familyi={U\bibinitperiod}}}%
+      }
+      \strng{namehash}{87af564fca350fc08fd0a0c5952a5068}
+      \strng{fullhash}{87af564fca350fc08fd0a0c5952a5068}
+      \strng{bibnamehash}{87af564fca350fc08fd0a0c5952a5068}
+      \strng{authorbibnamehash}{87af564fca350fc08fd0a0c5952a5068}
+      \strng{authornamehash}{87af564fca350fc08fd0a0c5952a5068}
+      \strng{authorfullhash}{87af564fca350fc08fd0a0c5952a5068}
+      \field{sortinit}{U}
+      \field{sortinithash}{6901a00e45705986ee5e7ca9fd39adca}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{3}
+      \field{month}{4}
+      \field{title}{Dimensions in Testimony | USC Shoah Foundation}
+      \field{urlday}{5}
+      \field{urlmonth}{12}
+      \field{urlyear}{2022}
+      \field{year}{2020}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.youtube.com/watch?v=nGzAc9mIoTM
+      \endverb
+      \verb{url}
+      \verb https://www.youtube.com/watch?v=nGzAc9mIoTM
+      \endverb
+    \endentry
+    \entry{Hessen2020}{report}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=994f44c984a6b0d01075983b0b9b0d72}{%
+           family={Hessen},
+           familyi={H\bibinitperiod},
+           given={Arjan},
+           giveni={A\bibinitperiod},
+           givenun=0,
+           prefix={van},
+           prefixi={v\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {SURF}%
+      }
+      \strng{namehash}{994f44c984a6b0d01075983b0b9b0d72}
+      \strng{fullhash}{994f44c984a6b0d01075983b0b9b0d72}
+      \strng{bibnamehash}{994f44c984a6b0d01075983b0b9b0d72}
+      \strng{authorbibnamehash}{994f44c984a6b0d01075983b0b9b0d72}
+      \strng{authornamehash}{994f44c984a6b0d01075983b0b9b0d72}
+      \strng{authorfullhash}{994f44c984a6b0d01075983b0b9b0d72}
+      \field{sortinit}{v}
+      \field{sortinithash}{afb52128e5b4dc4b843768c0113d673b}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{1}
+      \field{month}{8}
+      \field{title}{Automatische spraakherkenning - Hoe kun je het inzetten voor onderwijsmateriaal?}
+      \field{type}{resreport}
+      \field{urlday}{15}
+      \field{urlmonth}{12}
+      \field{urlyear}{2022}
+      \field{year}{2020}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+    \endentry
+  \enddatalist
+  \datalist[entry]{apa/global//global/global}
+    \entry{Creeger2009}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=e888aba3556efbb8063540e3e2ae69b4}{%
+           family={Creeger},
+           familyi={C\bibinitperiod},
+           given={Mache},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{e888aba3556efbb8063540e3e2ae69b4}
+      \strng{fullhash}{e888aba3556efbb8063540e3e2ae69b4}
+      \strng{bibnamehash}{e888aba3556efbb8063540e3e2ae69b4}
+      \strng{authorbibnamehash}{e888aba3556efbb8063540e3e2ae69b4}
+      \strng{authornamehash}{e888aba3556efbb8063540e3e2ae69b4}
+      \strng{authorfullhash}{e888aba3556efbb8063540e3e2ae69b4}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Communications of the ACM}
+      \field{number}{8}
+      \field{title}{{CTO Roundtable: Cloud Computing}}
+      \field{volume}{52}
+      \field{year}{2009}
+      \field{pages}{50\bibrangedash 56}
+      \range{pages}{7}
+    \endentry
+    \entry{Knuth1998}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=ec08e6f01da5f3814f28a70c89c64656}{%
+           family={Knuth},
+           familyi={K\bibinitperiod},
+           given={Donald\bibnamedelima E.},
+           giveni={D\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Redwood City, CA, USA}%
+      }
+      \list{publisher}{1}{%
+        {Addison Wesley Longman Publishing Co., Inc.}%
+      }
+      \strng{namehash}{ec08e6f01da5f3814f28a70c89c64656}
+      \strng{fullhash}{ec08e6f01da5f3814f28a70c89c64656}
+      \strng{bibnamehash}{ec08e6f01da5f3814f28a70c89c64656}
+      \strng{authorbibnamehash}{ec08e6f01da5f3814f28a70c89c64656}
+      \strng{authornamehash}{ec08e6f01da5f3814f28a70c89c64656}
+      \strng{authorfullhash}{ec08e6f01da5f3814f28a70c89c64656}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The art of computer programming, volume 3: (2nd ed.) sorting and searching}
+      \field{year}{1998}
+    \endentry
+    \entry{Leuski2010}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=bf3395e58d2bf558ba563408a1bbc9f1}{%
+           family={Leuski},
+           familyi={L\bibinitperiod},
+           given={Anton},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=852889328d57da2df5bccea3165205d0}{%
+           family={Traum},
+           familyi={T\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {European Language Resources Association (ELRA)}%
+      }
+      \strng{namehash}{a24303e798e7084802fc4954e4349bd9}
+      \strng{fullhash}{a24303e798e7084802fc4954e4349bd9}
+      \strng{bibnamehash}{a24303e798e7084802fc4954e4349bd9}
+      \strng{authorbibnamehash}{a24303e798e7084802fc4954e4349bd9}
+      \strng{authornamehash}{a24303e798e7084802fc4954e4349bd9}
+      \strng{authorfullhash}{a24303e798e7084802fc4954e4349bd9}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{NPCEditor is a system for building and deploying virtual characters capable of engaging a user in spoken dialog on a limited domain. The dialogue may take any form as long as the character responses can be specified a priori. For example, NPCEditor has been used for constructing question answering characters where a user asks questions and the character responds, but other scenarios are possible. At the core of the system is a state of the art statistical language classification technology for mapping from user's text input to system responses. NPCEditor combines the classifier with a database that stores the character information and relevant language data, a server that allows the character designer to deploy the completed characters, and a user-friendly editor that helps the designer to accomplish both character design and deployment tasks. In the paper we define the overall system architecture, describe individual NPCEditor components, and guide the reader through the steps of building a virtual character.}
+      \field{journaltitle}{Proceedings of the Seventh International Conference on Language Resources and Evaluation ({LREC}'10)}
+      \field{month}{5}
+      \field{title}{{NPCE}ditor: A Tool for Building Question-Answering Characters}
+      \field{urlday}{15}
+      \field{urlmonth}{12}
+      \field{urlyear}{2022}
+      \field{year}{2010}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb http://www.lrec-conf.org/proceedings/lrec2010/pdf/660_Paper.pdf
+      \endverb
+      \verb{url}
+      \verb http://www.lrec-conf.org/proceedings/lrec2010/pdf/660_Paper.pdf
+      \endverb
+    \endentry
+    \entry{Meta2022}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=b6755d218d5f4e1cef9cce9cc39aeda9}{%
+           family={Meta},
+           familyi={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{b6755d218d5f4e1cef9cce9cc39aeda9}
+      \strng{fullhash}{b6755d218d5f4e1cef9cce9cc39aeda9}
+      \strng{bibnamehash}{b6755d218d5f4e1cef9cce9cc39aeda9}
+      \strng{authorbibnamehash}{b6755d218d5f4e1cef9cce9cc39aeda9}
+      \strng{authornamehash}{b6755d218d5f4e1cef9cce9cc39aeda9}
+      \strng{authorfullhash}{b6755d218d5f4e1cef9cce9cc39aeda9}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{15}
+      \field{month}{6}
+      \field{title}{The Impact Will Be Real}
+      \field{urlday}{11}
+      \field{urlmonth}{12}
+      \field{urlyear}{2022}
+      \field{year}{2022}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.youtube.com/watch?v=80IIEnSNwQc
+      \endverb
+      \verb{url}
+      \verb https://www.youtube.com/watch?v=80IIEnSNwQc
+      \endverb
+    \endentry
+    \entry{Pollefliet2011}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=7ca343ebcc6de1727ac22a1a847c21e5}{%
+           family={Pollefliet},
+           familyi={P\bibinitperiod},
+           given={Leen},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Gent}%
+      }
+      \list{publisher}{1}{%
+        {Academia Press}%
+      }
+      \strng{namehash}{7ca343ebcc6de1727ac22a1a847c21e5}
+      \strng{fullhash}{7ca343ebcc6de1727ac22a1a847c21e5}
+      \strng{bibnamehash}{7ca343ebcc6de1727ac22a1a847c21e5}
+      \strng{authorbibnamehash}{7ca343ebcc6de1727ac22a1a847c21e5}
+      \strng{authornamehash}{7ca343ebcc6de1727ac22a1a847c21e5}
+      \strng{authorfullhash}{7ca343ebcc6de1727ac22a1a847c21e5}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Schrijven van verslag tot eindwerk: do's en don'ts}
+      \field{year}{2011}
+    \endentry
+    \entry{Traum2015}{inbook}{}
+      \name{author}{14}{}{%
+        {{un=0,uniquepart=base,hash=852889328d57da2df5bccea3165205d0}{%
+           family={Traum},
+           familyi={T\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=754ef483cc118651dbbe70d1a2879764}{%
+           family={Jones},
+           familyi={J\bibinitperiod},
+           given={Andrew},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=36bafdd8602b40182f00095d82750a31}{%
+           family={Hays},
+           familyi={H\bibinitperiod},
+           given={Kia},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f9414446a9555ebab17053ffce4e9bd1}{%
+           family={Maio},
+           familyi={M\bibinitperiod},
+           given={Heather},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=50e7d792335c73f726d3fcb5d8a094c4}{%
+           family={Alexander},
+           familyi={A\bibinitperiod},
+           given={Oleg},
+           giveni={O\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=fa1dff427d354932033a58782953eace}{%
+           family={Artstein},
+           familyi={A\bibinitperiod},
+           given={Ron},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4aae50ca585b8b048183a76ff6e98dd8}{%
+           family={Debevec},
+           familyi={D\bibinitperiod},
+           given={Paul},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=298aad30a0ffb19aaaab7799d60fbda9}{%
+           family={Gainer},
+           familyi={G\bibinitperiod},
+           given={Alesia},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3249ad81550e515606eff2ed3823fbb3}{%
+           family={Georgila},
+           familyi={G\bibinitperiod},
+           given={Kallirroi},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=98b8d62747d2dce4af8d88ed83ce0b36}{%
+           family={Haase},
+           familyi={H\bibinitperiod},
+           given={Kathleen},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f818ece1d00b45c25df75bd854235d8a}{%
+           family={Jungblut},
+           familyi={J\bibinitperiod},
+           given={Karen},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=bf3395e58d2bf558ba563408a1bbc9f1}{%
+           family={Leuski},
+           familyi={L\bibinitperiod},
+           given={Anton},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c0335390e6dcad77f0091d57516ec815}{%
+           family={Smith},
+           familyi={S\bibinitperiod},
+           given={Stephen},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=fb97b1b38ed066be6193a1e65e679cad}{%
+           family={Swartout},
+           familyi={S\bibinitperiod},
+           given={William},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{4}{}{%
+        {{hash=0cbef3601a7eb3e07796f5a3bab18304}{%
+           family={Schoenau-Fog},
+           familyi={S\bibinithyphendelim F\bibinitperiod},
+           given={Henrik},
+           giveni={H\bibinitperiod}}}%
+        {{hash=27f15a50a14f8c859220cd999cdc75de}{%
+           family={Bruni},
+           familyi={B\bibinitperiod},
+           given={Luis\bibnamedelima Emilio},
+           giveni={L\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+        {{hash=63565822eba97bc31df642f94d6cf6ab}{%
+           family={Louchart},
+           familyi={L\bibinitperiod},
+           given={Sandy},
+           giveni={S\bibinitperiod}}}%
+        {{hash=bf020a4f0b084717b42bc70510e3ff72}{%
+           family={Baceviciute},
+           familyi={B\bibinitperiod},
+           given={Sarune},
+           giveni={S\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Cham}%
+      }
+      \list{publisher}{1}{%
+        {Springer International Publishing}%
+      }
+      \strng{namehash}{61094e936759fd79103d6a346bd12234}
+      \strng{fullhash}{ce51a771a8fbfa0317dadfa0486a3495}
+      \strng{bibnamehash}{ce51a771a8fbfa0317dadfa0486a3495}
+      \strng{authorbibnamehash}{ce51a771a8fbfa0317dadfa0486a3495}
+      \strng{authornamehash}{61094e936759fd79103d6a346bd12234}
+      \strng{authorfullhash}{ce51a771a8fbfa0317dadfa0486a3495}
+      \strng{editorbibnamehash}{ab148686940b230005e2b17b78d0e423}
+      \strng{editornamehash}{b1a98608044a378b0e5602efe73a1b86}
+      \strng{editorfullhash}{ab148686940b230005e2b17b78d0e423}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{We describe a digital system that allows people to have an interactive conversation with a human storyteller (a Holocaust survivor) who has recorded a number of dialogue contributions, including many compelling narratives of his experiences and thoughts. The goal is to preserve as much as possible of the experience of face-to-face interaction. The survivor's stories, answers to common questions, and testimony are recorded in high fidelity, and then delivered interactively to an audience as responses to spoken questions. People can ask questions and receive answers on a broad range of topics including the survivor's experiences before, after and during the war, his attitudes and philosophy. Evaluation results show that most user questions can be addressed by the system, and that audiences are highly engaged with the resulting interaction.}
+      \field{booktitle}{Interactive Storytelling}
+      \field{isbn}{978-3-319-27036-4}
+      \field{title}{New Dimensions in Testimony: Digitally Preserving a Holocaust Survivor's Interactive Storytelling}
+      \field{urlday}{12}
+      \field{urlmonth}{12}
+      \field{urlyear}{2022}
+      \field{year}{2015}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{269\bibrangedash 281}
+      \range{pages}{13}
+    \endentry
+    \entry{USCShoahFoundation2020}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=87af564fca350fc08fd0a0c5952a5068}{%
+           family={{USC Shoah Foundation}},
+           familyi={U\bibinitperiod}}}%
+      }
+      \strng{namehash}{87af564fca350fc08fd0a0c5952a5068}
+      \strng{fullhash}{87af564fca350fc08fd0a0c5952a5068}
+      \strng{bibnamehash}{87af564fca350fc08fd0a0c5952a5068}
+      \strng{authorbibnamehash}{87af564fca350fc08fd0a0c5952a5068}
+      \strng{authornamehash}{87af564fca350fc08fd0a0c5952a5068}
+      \strng{authorfullhash}{87af564fca350fc08fd0a0c5952a5068}
+      \field{sortinit}{U}
+      \field{sortinithash}{6901a00e45705986ee5e7ca9fd39adca}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{3}
+      \field{month}{4}
+      \field{title}{Dimensions in Testimony | USC Shoah Foundation}
+      \field{urlday}{5}
+      \field{urlmonth}{12}
+      \field{urlyear}{2022}
+      \field{year}{2020}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.youtube.com/watch?v=nGzAc9mIoTM
+      \endverb
+      \verb{url}
+      \verb https://www.youtube.com/watch?v=nGzAc9mIoTM
+      \endverb
+    \endentry
+    \entry{Hessen2020}{report}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=994f44c984a6b0d01075983b0b9b0d72}{%
+           family={Hessen},
+           familyi={H\bibinitperiod},
+           given={Arjan},
+           giveni={A\bibinitperiod},
+           givenun=0,
+           prefix={van},
+           prefixi={v\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {SURF}%
+      }
+      \strng{namehash}{994f44c984a6b0d01075983b0b9b0d72}
+      \strng{fullhash}{994f44c984a6b0d01075983b0b9b0d72}
+      \strng{bibnamehash}{994f44c984a6b0d01075983b0b9b0d72}
+      \strng{authorbibnamehash}{994f44c984a6b0d01075983b0b9b0d72}
+      \strng{authornamehash}{994f44c984a6b0d01075983b0b9b0d72}
+      \strng{authorfullhash}{994f44c984a6b0d01075983b0b9b0d72}
+      \field{sortinit}{v}
+      \field{sortinithash}{afb52128e5b4dc4b843768c0113d673b}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{1}
+      \field{month}{8}
+      \field{title}{Automatische spraakherkenning - Hoe kun je het inzetten voor onderwijsmateriaal?}
+      \field{type}{resreport}
+      \field{urlday}{15}
+      \field{urlmonth}{12}
+      \field{urlyear}{2022}
+      \field{year}{2020}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
