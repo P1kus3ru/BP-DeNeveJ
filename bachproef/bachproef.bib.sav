@@ -1,4 +1,5 @@
 % Encoding: UTF-8
+
 @book{Knuth1998,
  author = {Knuth, Donald E.},
  title = {The art of computer programming,  volume 3: (2nd ed.) sorting and searching},
@@ -23,6 +24,118 @@
   title = {{CTO Roundtable: Cloud Computing}},
   volume = {52},
   year = {2009}
+}
+
+@InProceedings{Traum2015,
+  author    = {Traum, David and Jones, Andrew and Hays, Kia and Maio, Heather and Alexander, Oleg and Artstein, Ron and Debevec, Paul and Gainer, Alesia and Georgila, Kallirroi and Haase, Kathleen and Jungblut, Karen and Leuski, Anton and Smith, Stephen and Swartout, William},
+  booktitle = {Interactive Storytelling},
+  date      = {2015},
+  title     = {New Dimensions in Testimony: Digitally Preserving a Holocaust Survivor's Interactive Storytelling},
+  editor    = {Schoenau-Fog, Henrik and Bruni, Luis Emilio and Louchart, Sandy and Baceviciute, Sarune},
+  isbn      = {978-3-319-27036-4},
+  location  = {Cham},
+  pages     = {269--281},
+  publisher = {Springer International Publishing},
+  urldate   = {2022-12-12},
+  abstract  = {We describe a digital system that allows people to have an interactive conversation with a human storyteller (a Holocaust survivor) who has recorded a number of dialogue contributions, including many compelling narratives of his experiences and thoughts. The goal is to preserve as much as possible of the experience of face-to-face interaction. The survivor's stories, answers to common questions, and testimony are recorded in high fidelity, and then delivered interactively to an audience as responses to spoken questions. People can ask questions and receive answers on a broad range of topics including the survivor's experiences before, after and during the war, his attitudes and philosophy. Evaluation results show that most user questions can be addressed by the system, and that audiences are highly engaged with the resulting interaction.},
+}
+
+@Online{Meta2022,
+  author  = {Meta},
+  date    = {2022-06-15},
+  title   = {The Impact Will Be Real},
+  url     = {https://www.youtube.com/watch?v=80IIEnSNwQc},
+  urldate = {2022-12-11},
+}
+
+@Online{USF2020,
+  author  = {{USC Shoah Foundation}},
+  date    = {2020-04-03},
+  title   = {Dimensions in Testimony | USC Shoah Foundation},
+  url     = {https://www.youtube.com/watch?v=nGzAc9mIoTM},
+  urldate = {2022-12-05},
+}
+
+@Thesis{Roepke2019,
+  author      = {Röpke, Willem},
+  date        = {2019},
+  institution = {Vrije Universiteit Brussel},
+  title       = {Een spraak-naar-tekst applicatie bouwen voor Nederlands},
+  type        = {candthesis},
+  urldate     = {2022-12-15},
+}
+
+@Article{Hessen2017,
+  author       = {van Hessen, Arjan and van den Heuvel, Henk and van Gompel, Maarten},
+  date         = {2017},
+  journaltitle = {Dixit. Tijdschrift over toegepaste taal- en spraaktechnologie},
+  title        = {Spreek2Schrijf},
+  issn         = {1572-6037},
+  pages        = {20-21},
+  urldate      = {2022-12-15},
+  volume       = {14},
+}
+
+@Thesis{Sterckx2018,
+  author      = {Sterckx, Lucas},
+  date        = {2018},
+  institution = {Universiteit Gent},
+  title       = {Methoden voor efficiënte supervisie van automatische taalverwerking},
+  type        = {phdthesis},
+  urldate     = {2022-12-15},
+}
+
+@InProceedings{Leuski2010,
+  author    = {Leuski, Anton and Traum, David},
+  booktitle = {Proceedings of the Seventh International Conference on Language Resources and Evaluation ({LREC}'10)},
+  date      = {2010-05},
+  title     = {{NPCE}ditor: A Tool for Building Question-Answering Characters},
+  publisher = {European Language Resources Association (ELRA)},
+  url       = {http://www.lrec-conf.org/proceedings/lrec2010/pdf/660_Paper.pdf},
+  urldate   = {2022-12-15},
+  abstract  = {NPCEditor is a system for building and deploying virtual characters capable of engaging a user in spoken dialog on a limited domain. The dialogue may take any form as long as the character responses can be specified a priori. For example, NPCEditor has been used for constructing question answering characters where a user asks questions and the character responds, but other scenarios are possible. At the core of the system is a state of the art statistical language classification technology for mapping from user's text input to system responses. NPCEditor combines the classifier with a database that stores the character information and relevant language data, a server that allows the character designer to deploy the completed characters, and a user-friendly editor that helps the designer to accomplish both character design and deployment tasks. In the paper we define the overall system architecture, describe individual NPCEditor components, and guide the reader through the steps of building a virtual character.},
+}
+
+@InProceedings{Traum2015a,
+  author    = {Traum, David and Georgila, Kallirroi and Artstein, Ron and Leuski, Anton},
+  booktitle = {Proceedings of the 16th Annual Meeting of the Special Interest Group on Discourse and Dialogue},
+  date      = {2015-09},
+  title     = {Evaluating Spoken Dialogue Processing for Time-Offset Interaction},
+  doi       = {10.18653/v1/W15-4629},
+  location  = {Prague, Czech Republic},
+  pages     = {199--208},
+  publisher = {Association for Computational Linguistics},
+  url       = {https://aclanthology.org/W15-4629},
+}
+
+@Report{Hessen2020,
+  author      = {van Hessen, Arjan},
+  date        = {2020-08-01},
+  institution = {SURF},
+  title       = {Automatische spraakherkenning - Hoe kun je het inzetten voor onderwijsmateriaal?},
+  type        = {resreport},
+  urldate     = {2022-12-15},
+}
+
+@Article{Ning2019,
+  author         = {Ning, Yishuang and He, Sheng and Wu, Zhiyong and Xing, Chunxiao and Zhang, Liang-Jie},
+  date           = {2019},
+  journaltitle   = {Applied Sciences},
+  title          = {A Review of Deep Learning Based Speech Synthesis},
+  doi            = {10.3390/app9194050},
+  issn           = {2076-3417},
+  number         = {19},
+  url            = {https://www.mdpi.com/2076-3417/9/19/4050},
+  volume         = {9},
+  abstract       = {Speech synthesis, also known as text-to-speech (TTS), has attracted increasingly more attention. Recent advances on speech synthesis are overwhelmingly contributed by deep learning or even end-to-end techniques which have been utilized to enhance a wide range of application scenarios such as intelligent speech interaction, chatbot or conversational artificial intelligence (AI). For speech synthesis, deep learning based techniques can leverage a large scale of &lt;text, speech&gt; pairs to learn effective feature representations to bridge the gap between text and speech, thus better characterizing the properties of events. To better understand the research dynamics in the speech synthesis field, this paper firstly introduces the traditional speech synthesis methods and highlights the importance of the acoustic modeling from the composition of the statistical parametric speech synthesis (SPSS) system. It then gives an overview of the advances on deep learning based speech synthesis, including the end-to-end approaches which have achieved start-of-the-art performance in recent years. Finally, it discusses the problems of the deep learning methods for speech synthesis, and also points out some appealing research directions that can bring the speech synthesis research into a new frontier.},
+  article-number = {4050},
+}
+
+@Online{Jia2019,
+  author = {Jia, Ye and Weiss, Ron},
+  date   = {2019-05-15},
+  title  = {Introducing Translatotron: An End-to-End Speech-to-Speech Translation Model},
+  url    = {https://ai.googleblog.com/2019/05/introducing-translatotron-end-to-end.html},
 }
 
 @Comment{jabref-meta: databaseType:biblatex;}
