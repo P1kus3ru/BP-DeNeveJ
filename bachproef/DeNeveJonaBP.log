@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999994 (MiKTeX 23.1) (preloaded format=xelatex 2023.3.6)  29 MAR 2023 09:03
+This is XeTeX, Version 3.141592653-2.6-0.999994 (MiKTeX 23.1) (preloaded format=xelatex 2023.3.6)  31 MAR 2023 00:02
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -2192,23 +2192,17 @@ Hoofdstuk 1.
 
 ]) (standvanzaken.tex [2]
 Hoofdstuk 2.
-File: graphics//TraumDEtAl_DimensionsInTestimony_SystemArchitecture.png Graphic
- file (type bmp)
-<graphics//TraumDEtAl_DimensionsInTestimony_SystemArchitecture.png>
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
 [3
 
 ]
+File: graphics//TraumDEtAl_DimensionsInTestimony_SystemArchitecture.png Graphic
+ file (type bmp)
+<graphics//TraumDEtAl_DimensionsInTestimony_SystemArchitecture.png>
+ [4]
 File: graphics//Traum&Leuski_NPCEditor_System architecture.png Graphic file (ty
 pe bmp)
 <graphics//Traum&Leuski_NPCEditor_System architecture.png>
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-) (methodologie.tex [4] [5]
+) (methodologie.tex [5]
 Hoofdstuk 3.
 [6
 
@@ -2237,17 +2231,17 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 
 ] (DeNeveJonaBP.aux)
 Package rerunfilecheck Info: File `DeNeveJonaBP.out' has not changed.
-(rerunfilecheck)             Checksum: D94E8246E8F2E900B4CC157298C40B81;2295.
+(rerunfilecheck)             Checksum: 28DEDD707D27F4289A6704680EFE6CA3;2643.
 Package logreq Info: Writing requests to 'DeNeveJonaBP.run.xml'.
 \openout1 = `DeNeveJonaBP.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 48337 strings out of 411511
- 960868 string characters out of 5823379
- 2076390 words of memory out of 5000000
- 67782 multiletter control sequences out of 15000+600000
- 515235 words of font info for 90 fonts, out of 8000000 for 9000
+ 48349 strings out of 411511
+ 961227 string characters out of 5823379
+ 2076387 words of memory out of 5000000
+ 67792 multiletter control sequences out of 15000+600000
+ 515251 words of font info for 92 fonts, out of 8000000 for 9000
  1349 hyphenation exceptions out of 8191
  110i,11n,134p,1140b,7237s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
