@@ -19,6 +19,61 @@
 
 \refsection{0}
   \datalist[entry]{apa/apasortcite//global/global}
+    \entry{Boas2012}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=108f6dccbfc44325c9ac9ab6981d000d}{%
+           family={Boas},
+           familyi={B\bibinitperiod},
+           given={Yuri\bibnamedelimb Antonio\bibnamedelimb Gonçalves\bibnamedelima Vilas},
+           giveni={Y\bibinitperiod\bibinitdelim A\bibinitperiod\bibinitdelim G\bibinitperiod\bibinitdelim V\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{108f6dccbfc44325c9ac9ab6981d000d}
+      \strng{fullhash}{108f6dccbfc44325c9ac9ab6981d000d}
+      \strng{bibnamehash}{108f6dccbfc44325c9ac9ab6981d000d}
+      \strng{authorbibnamehash}{108f6dccbfc44325c9ac9ab6981d000d}
+      \strng{authornamehash}{108f6dccbfc44325c9ac9ab6981d000d}
+      \strng{authorfullhash}{108f6dccbfc44325c9ac9ab6981d000d}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Overview of Virtual Reality Technologies}
+      \field{year}{2012}
+    \endentry
+    \entry{Bryson2013}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=893daf1fae584234a91f8da5e0ceb259}{%
+           family={Bryson},
+           familyi={B\bibinitperiod},
+           given={Steve},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{893daf1fae584234a91f8da5e0ceb259}
+      \strng{fullhash}{893daf1fae584234a91f8da5e0ceb259}
+      \strng{bibnamehash}{893daf1fae584234a91f8da5e0ceb259}
+      \strng{authorbibnamehash}{893daf1fae584234a91f8da5e0ceb259}
+      \strng{authornamehash}{893daf1fae584234a91f8da5e0ceb259}
+      \strng{authorfullhash}{893daf1fae584234a91f8da5e0ceb259}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{eprintclass}{cs.HC}
+      \field{eprinttype}{arXiv}
+      \field{title}{Virtual Reality: A Definition History - A Personal Essay}
+      \field{year}{2013}
+      \verb{eprint}
+      \verb 1312.4322
+      \endverb
+    \endentry
     \entry{Leuski2010}{article}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=bf3395e58d2bf558ba563408a1bbc9f1}{%
@@ -321,6 +376,61 @@
     \endentry
   \enddatalist
   \datalist[entry]{apa/global//global/global}
+    \entry{Boas2012}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=108f6dccbfc44325c9ac9ab6981d000d}{%
+           family={Boas},
+           familyi={B\bibinitperiod},
+           given={Yuri\bibnamedelimb Antonio\bibnamedelimb Gonçalves\bibnamedelima Vilas},
+           giveni={Y\bibinitperiod\bibinitdelim A\bibinitperiod\bibinitdelim G\bibinitperiod\bibinitdelim V\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{108f6dccbfc44325c9ac9ab6981d000d}
+      \strng{fullhash}{108f6dccbfc44325c9ac9ab6981d000d}
+      \strng{bibnamehash}{108f6dccbfc44325c9ac9ab6981d000d}
+      \strng{authorbibnamehash}{108f6dccbfc44325c9ac9ab6981d000d}
+      \strng{authornamehash}{108f6dccbfc44325c9ac9ab6981d000d}
+      \strng{authorfullhash}{108f6dccbfc44325c9ac9ab6981d000d}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Overview of Virtual Reality Technologies}
+      \field{year}{2012}
+    \endentry
+    \entry{Bryson2013}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=893daf1fae584234a91f8da5e0ceb259}{%
+           family={Bryson},
+           familyi={B\bibinitperiod},
+           given={Steve},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{893daf1fae584234a91f8da5e0ceb259}
+      \strng{fullhash}{893daf1fae584234a91f8da5e0ceb259}
+      \strng{bibnamehash}{893daf1fae584234a91f8da5e0ceb259}
+      \strng{authorbibnamehash}{893daf1fae584234a91f8da5e0ceb259}
+      \strng{authornamehash}{893daf1fae584234a91f8da5e0ceb259}
+      \strng{authorfullhash}{893daf1fae584234a91f8da5e0ceb259}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{eprintclass}{cs.HC}
+      \field{eprinttype}{arXiv}
+      \field{title}{Virtual Reality: A Definition History - A Personal Essay}
+      \field{year}{2013}
+      \verb{eprint}
+      \verb 1312.4322
+      \endverb
+    \endentry
     \entry{Leuski2010}{article}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=bf3395e58d2bf558ba563408a1bbc9f1}{%

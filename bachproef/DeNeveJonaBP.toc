@@ -7,15 +7,16 @@
 \contentsline {section}{\numberline {1.4}Opzet van deze bachelorproef}{2}{section.1.4}%
 \contentsline {chapter}{\numberline {2}Stand van zaken}{3}{chapter.2}%
 \contentsline {section}{\numberline {2.1}Virtuele realiteit}{3}{section.2.1}%
-\contentsline {section}{\numberline {2.2}Artificiële intelligentie}{3}{section.2.2}%
-\contentsline {subsection}{\numberline {2.2.1}Spraakherkening}{4}{subsection.2.2.1}%
+\contentsline {section}{\numberline {2.2}Artificiële intelligentie}{4}{section.2.2}%
+\contentsline {subsection}{\numberline {2.2.1}Spraakherkening}{5}{subsection.2.2.1}%
+\contentsline {paragraph}{Google Cloud Speech API}{5}{subsection.2.2.1}%
 \contentsline {subsection}{\numberline {2.2.2}Natuurlijke taalverwerking}{5}{subsection.2.2.2}%
-\contentsline {chapter}{\numberline {3}Methodologie}{6}{chapter.3}%
-\contentsline {chapter}{\numberline {4}Conclusie}{8}{chapter.4}%
-\contentsline {chapter}{\numberline {A}Onderzoeksvoorstel}{10}{appendix.A}%
-\contentsline {section}{\numberline {A.1}Introductie}{10}{section.A.1}%
-\contentsline {section}{\numberline {A.2}State-of-the-art}{11}{section.A.2}%
-\contentsline {section}{\numberline {A.3}Methodologie}{12}{section.A.3}%
-\contentsline {section}{\numberline {A.4}Verwacht resultaat, conclusie}{12}{section.A.4}%
-\contentsline {chapter}{Bibliografie}{15}{appendix*.9}%
+\contentsline {chapter}{\numberline {3}Methodologie}{7}{chapter.3}%
+\contentsline {chapter}{\numberline {4}Conclusie}{9}{chapter.4}%
+\contentsline {chapter}{\numberline {A}Onderzoeksvoorstel}{11}{appendix.A}%
+\contentsline {section}{\numberline {A.1}Introductie}{11}{section.A.1}%
+\contentsline {section}{\numberline {A.2}State-of-the-art}{12}{section.A.2}%
+\contentsline {section}{\numberline {A.3}Methodologie}{13}{section.A.3}%
+\contentsline {section}{\numberline {A.4}Verwacht resultaat, conclusie}{13}{section.A.4}%
+\contentsline {chapter}{Bibliografie}{16}{appendix*.9}%
 \contentsfinish 
