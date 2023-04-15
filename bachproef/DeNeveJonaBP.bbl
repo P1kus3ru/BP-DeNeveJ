@@ -19,6 +19,57 @@
 
 \refsection{0}
   \datalist[entry]{apa/apasortcite//global/global}
+    \entry{Anggraini2018}{article}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=73fbd4357610e67106e534a977d7a80b}{%
+           family={Anggraini},
+           familyi={A\bibinitperiod},
+           given={Nenny},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=09818601ba4eeaf1153107a9852de9d6}{%
+           family={Kuniawan},
+           familyi={K\bibinitperiod},
+           given={Angga},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=23bce9611322ba2e168c9069869a2959}{%
+           family={Wardhani},
+           familyi={W\bibinitperiod},
+           given={Luh},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d889c2160c32466cb2c5b1b8f0622b74}{%
+           family={Hakiem},
+           familyi={H\bibinitperiod},
+           given={Nashrul},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{422b936cdaf4ba0bc3d6731ce1e6352d}
+      \strng{fullhash}{c777116b2f5ab775efee97d8d4b73f97}
+      \strng{bibnamehash}{c777116b2f5ab775efee97d8d4b73f97}
+      \strng{authorbibnamehash}{c777116b2f5ab775efee97d8d4b73f97}
+      \strng{authornamehash}{422b936cdaf4ba0bc3d6731ce1e6352d}
+      \strng{authorfullhash}{c777116b2f5ab775efee97d8d4b73f97}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Telkomnika (Telecommunication Computing Electronics and Control)}
+      \field{month}{12}
+      \field{title}{Speech Recognition Application for the Speech Impaired using the Android-based Google Cloud Speech API}
+      \field{volume}{16}
+      \field{year}{2018}
+      \field{pages}{2733\bibrangedash 2739}
+      \range{pages}{7}
+      \verb{doi}
+      \verb 10.12928/TELKOMNIKA.v16i6.9638
+      \endverb
+    \endentry
     \entry{Boas2012}{article}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=108f6dccbfc44325c9ac9ab6981d000d}{%
@@ -376,6 +427,57 @@
     \endentry
   \enddatalist
   \datalist[entry]{apa/global//global/global}
+    \entry{Anggraini2018}{article}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=73fbd4357610e67106e534a977d7a80b}{%
+           family={Anggraini},
+           familyi={A\bibinitperiod},
+           given={Nenny},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=09818601ba4eeaf1153107a9852de9d6}{%
+           family={Kuniawan},
+           familyi={K\bibinitperiod},
+           given={Angga},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=23bce9611322ba2e168c9069869a2959}{%
+           family={Wardhani},
+           familyi={W\bibinitperiod},
+           given={Luh},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d889c2160c32466cb2c5b1b8f0622b74}{%
+           family={Hakiem},
+           familyi={H\bibinitperiod},
+           given={Nashrul},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{422b936cdaf4ba0bc3d6731ce1e6352d}
+      \strng{fullhash}{c777116b2f5ab775efee97d8d4b73f97}
+      \strng{bibnamehash}{c777116b2f5ab775efee97d8d4b73f97}
+      \strng{authorbibnamehash}{c777116b2f5ab775efee97d8d4b73f97}
+      \strng{authornamehash}{422b936cdaf4ba0bc3d6731ce1e6352d}
+      \strng{authorfullhash}{c777116b2f5ab775efee97d8d4b73f97}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Telkomnika (Telecommunication Computing Electronics and Control)}
+      \field{month}{12}
+      \field{title}{Speech Recognition Application for the Speech Impaired using the Android-based Google Cloud Speech API}
+      \field{volume}{16}
+      \field{year}{2018}
+      \field{pages}{2733\bibrangedash 2739}
+      \range{pages}{7}
+      \verb{doi}
+      \verb 10.12928/TELKOMNIKA.v16i6.9638
+      \endverb
+    \endentry
     \entry{Boas2012}{article}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=108f6dccbfc44325c9ac9ab6981d000d}{%

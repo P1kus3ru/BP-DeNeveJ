@@ -9,8 +9,12 @@
 \contentsline {section}{\numberline {2.1}Virtuele realiteit}{3}{section.2.1}%
 \contentsline {section}{\numberline {2.2}Artificiële intelligentie}{4}{section.2.2}%
 \contentsline {subsection}{\numberline {2.2.1}Spraakherkening}{5}{subsection.2.2.1}%
-\contentsline {paragraph}{Google Cloud Speech API}{5}{subsection.2.2.1}%
-\contentsline {subsection}{\numberline {2.2.2}Natuurlijke taalverwerking}{5}{subsection.2.2.2}%
+\contentsline {paragraph}{Google Cloud Speech-to-text API}{5}{subsection.2.2.1}%
+\contentsline {paragraph}{Amazon Transcribe}{5}{subsection.2.2.1}%
+\contentsline {paragraph}{Microsoft Azure Speech Services}{5}{subsection.2.2.1}%
+\contentsline {paragraph}{Mozilla Deepspeech}{5}{subsection.2.2.1}%
+\contentsline {paragraph}{Whisper}{6}{subsection.2.2.1}%
+\contentsline {subsection}{\numberline {2.2.2}Natuurlijke taalverwerking}{6}{subsection.2.2.2}%
 \contentsline {chapter}{\numberline {3}Methodologie}{7}{chapter.3}%
 \contentsline {chapter}{\numberline {4}Conclusie}{9}{chapter.4}%
 \contentsline {chapter}{\numberline {A}Onderzoeksvoorstel}{11}{appendix.A}%
