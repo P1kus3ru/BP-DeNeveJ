@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999994 (MiKTeX 23.1) (preloaded format=xelatex 2023.3.6)  15 APR 2023 15:21
+This is XeTeX, Version 3.141592653-2.6-0.999994 (MiKTeX 23.1) (preloaded format=xelatex 2023.3.6)  17 APR 2023 15:20
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -2220,17 +2220,17 @@ Hoofdstuk 3.
 
 ]) (conclusie.tex [8]
 Hoofdstuk 4.
-[9
+) [9
 
-]) [10]
+]
 B\ij lage A.
-(../voorstel/voorstel-inhoud.tex [11
+(../voorstel/voorstel-inhoud.tex [10
 
 ]
 File: graphics//TraumDEtAl_DimensionsInTestimony_SystemArchitecture.png Graphic
  file (type bmp)
 <graphics//TraumDEtAl_DimensionsInTestimony_SystemArchitecture.png>
- [12]
+ [11]
 File: graphics//Traum&Leuski_NPCEditor_System architecture.png Graphic file (ty
 pe bmp)
 <graphics//Traum&Leuski_NPCEditor_System architecture.png>
@@ -2238,23 +2238,23 @@ pe bmp)
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[13]) [14] [15] [16
+[12]) [13] [14] [15
 
 
 ] (DeNeveJonaBP.aux)
 Package rerunfilecheck Info: File `DeNeveJonaBP.out' has not changed.
-(rerunfilecheck)             Checksum: 28DEDD707D27F4289A6704680EFE6CA3;2643.
+(rerunfilecheck)             Checksum: 0ED778082E791C9ED9833BF9943B9BA8;3391.
 Package logreq Info: Writing requests to 'DeNeveJonaBP.run.xml'.
 \openout1 = `DeNeveJonaBP.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 48372 strings out of 411511
- 961927 string characters out of 5823379
- 2076669 words of memory out of 5000000
- 67815 multiletter control sequences out of 15000+600000
+ 48379 strings out of 411511
+ 962099 string characters out of 5823379
+ 2077021 words of memory out of 5000000
+ 67822 multiletter control sequences out of 15000+600000
  515251 words of font info for 92 fonts, out of 8000000 for 9000
  1349 hyphenation exceptions out of 8191
  110i,11n,134p,1140b,7237s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on DeNeveJonaBP.pdf (22 pages).
+Output written on DeNeveJonaBP.pdf (21 pages).

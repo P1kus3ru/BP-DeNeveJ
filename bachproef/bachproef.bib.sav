@@ -153,7 +153,7 @@
   year   = {2012},
 }
 
-@Article{article,
+@Article{Anggraini2018,
   author  = {Anggraini, Nenny and Kuniawan, Angga and Wardhani, Luh and Hakiem, Nashrul},
   title   = {Speech Recognition Application for the Speech Impaired using the Android-based Google Cloud Speech API},
   doi     = {10.12928/TELKOMNIKA.v16i6.9638},
@@ -162,6 +162,20 @@
   journal = {Telkomnika (Telecommunication Computing Electronics and Control)},
   month   = {12},
   year    = {2018},
+}
+
+@Article{Wang2021,
+  author       = {Hui Hui Wang},
+  date         = {2021},
+  journaltitle = {Journal of IT in Asia},
+  title        = {Speech Recorder and Translator using Google Cloud Speech-to-Text and Translation},
+}
+
+@Article{woollacott2021benchmarking,
+  author  = {Woollacott, Adam and Design, VI},
+  title   = {Benchmarking speech technologies},
+  journal = {Academia. edu, Feb},
+  year    = {2021},
 }
 
 @Comment{jabref-meta: databaseType:biblatex;}
