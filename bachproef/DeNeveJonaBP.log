@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999994 (MiKTeX 23.1) (preloaded format=xelatex 2023.3.6)  17 APR 2023 15:20
+This is XeTeX, Version 3.141592653-2.6-0.999994 (MiKTeX 23.1) (preloaded format=xelatex 2023.3.6)  23 APR 2023 15:06
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -2216,21 +2216,33 @@ pe bmp)
 <graphics//Traum&Leuski_NPCEditor_System architecture.png>
 ) (methodologie.tex [6]
 Hoofdstuk 3.
+
+Overfull \hbox (21.40497pt too wide) in paragraph at lines 20--21
+\TU/Montserrat(1)/m/n/10.95 De requirementsanalyse start met een opsomming van 
+functionele en niet-functionele
+ []
+
 [7
 
-]) (conclusie.tex [8]
+]
+Overfull \hbox (14.66707pt too wide) in paragraph at lines 40--41
+[]\TU/Montserrat(1)/m/n/10.95 Veiligheid: De privacy en veiligheid van de gebru
+iker moeten worden beschermd,
+ []
+
+[8]) (conclusie.tex [9]
 Hoofdstuk 4.
-) [9
+) [10
 
 ]
 B\ij lage A.
-(../voorstel/voorstel-inhoud.tex [10
+(../voorstel/voorstel-inhoud.tex [11
 
 ]
 File: graphics//TraumDEtAl_DimensionsInTestimony_SystemArchitecture.png Graphic
  file (type bmp)
 <graphics//TraumDEtAl_DimensionsInTestimony_SystemArchitecture.png>
- [11]
+ [12]
 File: graphics//Traum&Leuski_NPCEditor_System architecture.png Graphic file (ty
 pe bmp)
 <graphics//Traum&Leuski_NPCEditor_System architecture.png>
@@ -2238,12 +2250,12 @@ pe bmp)
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[12]) [13] [14] [15
+[13]) [14] [15] [16
 
 
 ] (DeNeveJonaBP.aux)
 Package rerunfilecheck Info: File `DeNeveJonaBP.out' has not changed.
-(rerunfilecheck)             Checksum: 0ED778082E791C9ED9833BF9943B9BA8;3391.
+(rerunfilecheck)             Checksum: D67E23A4B0C790FD02B740918A012B2E;3786.
 Package logreq Info: Writing requests to 'DeNeveJonaBP.run.xml'.
 \openout1 = `DeNeveJonaBP.run.xml'.
 
@@ -2251,10 +2263,10 @@ Package logreq Info: Writing requests to 'DeNeveJonaBP.run.xml'.
 Here is how much of TeX's memory you used:
  48379 strings out of 411511
  962099 string characters out of 5823379
- 2077021 words of memory out of 5000000
+ 2077022 words of memory out of 5000000
  67822 multiletter control sequences out of 15000+600000
  515251 words of font info for 92 fonts, out of 8000000 for 9000
  1349 hyphenation exceptions out of 8191
  110i,11n,134p,1140b,7237s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on DeNeveJonaBP.pdf (21 pages).
+Output written on DeNeveJonaBP.pdf (22 pages).

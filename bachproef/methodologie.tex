@@ -17,15 +17,28 @@ Dit onderzoek start met een literatuurstudie (\ref{chap:State of the art}). Verv
 
 \section{\IfLanguageName{dutch}{Requirementsanalyse}{Requirements analysis}} \label{sect:Requirements analysis}%
 
-dfdsf
+De requirementsanalyse start met een opsomming van functionele en niet-functionele requirements. Vervolgens worden ze aan de hand van de MoSCoW methode gerangschikt op relevantie. Als laatste wordt er een use case opgesteld.
 
-\paragraph{\IfLanguageName{dutch}{Functionele requirements}{Functional requirements}}
+\subsection{\IfLanguageName{dutch}{Functionele requirements}{Functional requirements}}
 
-dfs
+\begin{itemize}
+    \item De applicatie moet in staat zijn om spraak te herkennen en te registreren hoelang en tot wanneer de gebruiker spreekt.
+    \item De applicatie moet in staat zijn om de gesproken woorden om te zetten in tekst, zodat deze kunnen worden opgeslagen en verwerkt.
+    \item De applicatie moet in staat zijn om op basis van de gegenereerde tekst een volgend fragment te kiezen dat aansluit bij het onderwerp en de context van de tekst.
+    \item De applicatie moet gebruik maken van AI-technieken om spraakherkenning en tekstgeneratie mogelijk te maken.
+    \item De applicatie moet gemakkelijk te gebruiken zijn voor de gebruiker, zonder dat deze technische kennis nodig heeft.
+    \item De applicatie moet betrouwbaar zijn en weinig tot geen fouten maken bij het herkennen van spraak en genereren van tekst.
+    \item  De applicatie moet in staat zijn om de opgeslagen tekst te doorzoeken op bepaalde trefwoorden of zinnen, om zo snel specifieke informatie te kunnen vinden.
+    \item De applicatie moet aanpasbaar zijn aan de specifieke wensen en behoeften van de gebruiker, zoals het leren herkennen van patronen in gebruikers met een spraakbeperking.
+\end{itemize}
 
-\paragraph{\IfLanguageName{dutch}{Niet-functionele requirements}{Non-functional requirements}}
+\subsection{\IfLanguageName{dutch}{Niet-functionele requirements}{Non-functional requirements}}
 
-dfs
+\begin{itemize}
+    \item Nauwkeurigheid: De spraakherkenningssoftware moet zeer nauwkeurig zijn bij het herkennen en transcriberen van spraak, omdat eventuele fouten kunnen leiden tot onnauwkeurige resultaten en mogelijk onjuiste interpretaties.
+    \item Snelheid: De software moet snel genoeg zijn om de spraak te herkennen en te transcriberen, zodat het in real-time kan werken en niet leidt tot onnodige vertragingen of onderbrekingen.
+    \item Veiligheid: De privacy en veiligheid van de gebruiker moeten worden beschermd, zodat de spraakgegevens niet kunnen worden gehackt of gelekt.
+\end{itemize}
 
 \subsection{\IfLanguageName{dutch}{MoSCoW}{MoSCoW}}%
 
@@ -34,20 +47,25 @@ Aan de hand van de MoSCoW methode bepalen we het belang van verschillende functi
 \begin{enumerate}
     \item Must have:
     \begin{itemize}
-        \item Het detecteren van wanneer de gebruiker spreekt.
-        \item Het transcriberen van wat er gezegd wordt.
+        \item  De applicatie moet in staat zijn om spraak te herkennen en te registreren hoelang en tot wanneer de gebruiker spreekt.
+        \item De applicatie moet in staat zijn om de gesproken woorden om te zetten in tekst, zodat deze kunnen worden opgeslagen en verwerkt.
+        \item De applicatie moet in staat zijn om op basis van de gegenereerde tekst een volgend fragment te kiezen dat aansluit bij het onderwerp en de context van de tekst.
+        \item De applicatie moet gebruik maken van AI-technieken om spraakherkenning en tekstgeneratie mogelijk te maken.
+        \item  De applicatie moet in staat zijn om de opgeslagen tekst te doorzoeken op bepaalde trefwoorden of zinnen, om zo snel specifieke informatie te kunnen vinden.
     \end{itemize}
     \item Should have:
     \begin{itemize}
-        \item Aan de hand van de gegenereerde tekst het volgend fragment bepalen.
+        \item De applicatie moet gemakkelijk te gebruiken zijn voor de gebruiker, zonder dat deze technische kennis nodig heeft.
+        \item De applicatie moet betrouwbaar zijn en weinig tot geen fouten maken bij het herkennen van spraak en genereren van tekst.
     \end{itemize}
     \item Could have:
     \begin{itemize}
+        \item De applicatie moet aanpasbaar zijn aan de specifieke wensen en behoeften van de gebruiker, zoals het leren herkennen van patronen in gebruikers met een spraakbeperking.
         \item Een flexibel systeem met verschillende scenario’s creëren
     \end{itemize}
 \end{enumerate}
 
-\subsection{\IfLanguageName{dutch}{Use Cases}{Use Cases}}%
+\subsection{\IfLanguageName{dutch}{Use Cases}{Use cases}}%
 
 
 
