@@ -171,11 +171,26 @@
   title        = {Speech Recorder and Translator using Google Cloud Speech-to-Text and Translation},
 }
 
-@Article{woollacott2021benchmarking,
+@Article{Woollacott2021,
   author  = {Woollacott, Adam and Design, VI},
   title   = {Benchmarking speech technologies},
   journal = {Academia. edu, Feb},
   year    = {2021},
+}
+
+
+@Article{Xu2021,
+  author       = {Binbin Xu and Chongyang Tao and Zidu Feng and Youssef Raqui and Sylvie Ranwez},
+  date         = {2021},
+  journaltitle = {CoRR},
+  title        = {A Benchmarking on Cloud based Speech-To-Text Services for French Speech and Background Noise Effect},
+  eprint       = {2105.03409},
+  eprinttype   = {arXiv},
+  url          = {https://arxiv.org/abs/2105.03409},
+  volume       = {abs/2105.03409},
+  bibsource    = {dblp computer science bibliography, https://dblp.org},
+  biburl       = {https://dblp.org/rec/journals/corr/abs-2105-03409.bib},
+  timestamp    = {Sun, 06 Jun 2021 10:37:49 +0200},
 }
 
 @Comment{jabref-meta: databaseType:biblatex;}

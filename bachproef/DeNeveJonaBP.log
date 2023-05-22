@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999994 (MiKTeX 23.1) (preloaded format=xelatex 2023.3.6)  23 APR 2023 15:06
+This is XeTeX, Version 3.141592653-2.6-0.999994 (MiKTeX 23.1) (preloaded format=xelatex 2023.3.6)  18 MAY 2023 10:38
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -2162,7 +2162,7 @@ Package hyperref Info: Option `pageanchor' set `true' on input line 95.
  [5
 
 ]
-(DeNeveJonaBP.lof
+[6] (DeNeveJonaBP.lof
 Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `FiraMathRegular' (encoding: TU).
 (microtype)             For optimal results, create family-specific settings.
@@ -2183,7 +2183,7 @@ LaTeX Font Info:    Font shape `TU/FiraMathRegular(3)/m/n' will be
 \tf@lof=\write9
 \openout9 = `DeNeveJonaBP.lof'.
 
- [6
+ [7
 
 ] (inleiding.tex
 Hoofdstuk 1.
@@ -2205,44 +2205,6 @@ File: graphics//TraumDEtAl_DimensionsInTestimony_SystemArchitecture.png Graphic
  file (type bmp)
 <graphics//TraumDEtAl_DimensionsInTestimony_SystemArchitecture.png>
  [4]
-Overfull \hbox (2.9046pt too wide) in paragraph at lines 47--48
-\TU/Montserrat(1)/m/n/10.95 Google Cloud Speech-to-text API is Google’s kijk op
- spraakherkennigssoftware. Hun
- []
-
-[5]
-File: graphics//Traum&Leuski_NPCEditor_System architecture.png Graphic file (ty
-pe bmp)
-<graphics//Traum&Leuski_NPCEditor_System architecture.png>
-) (methodologie.tex [6]
-Hoofdstuk 3.
-
-Overfull \hbox (21.40497pt too wide) in paragraph at lines 20--21
-\TU/Montserrat(1)/m/n/10.95 De requirementsanalyse start met een opsomming van 
-functionele en niet-functionele
- []
-
-[7
-
-]
-Overfull \hbox (14.66707pt too wide) in paragraph at lines 40--41
-[]\TU/Montserrat(1)/m/n/10.95 Veiligheid: De privacy en veiligheid van de gebru
-iker moeten worden beschermd,
- []
-
-[8]) (conclusie.tex [9]
-Hoofdstuk 4.
-) [10
-
-]
-B\ij lage A.
-(../voorstel/voorstel-inhoud.tex [11
-
-]
-File: graphics//TraumDEtAl_DimensionsInTestimony_SystemArchitecture.png Graphic
- file (type bmp)
-<graphics//TraumDEtAl_DimensionsInTestimony_SystemArchitecture.png>
- [12]
 File: graphics//Traum&Leuski_NPCEditor_System architecture.png Graphic file (ty
 pe bmp)
 <graphics//Traum&Leuski_NPCEditor_System architecture.png>
@@ -2250,23 +2212,92 @@ pe bmp)
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[13]) [14] [15] [16
+[5] [6]
+Hoofdstuk 3.
+
+Overfull \hbox (2.9046pt too wide) in paragraph at lines 67--68
+\TU/Montserrat(1)/m/n/10.95 Google Cloud Speech-to-text API is Google’s kijk op
+ spraakherkennigssoftware. Hun
+ []
+
+File: graphics/AmazonTranscribePricing.png Graphic file (type bmp)
+<graphics/AmazonTranscribePricing.png>
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[7
+
+]) (methodologie.tex [8]
+Hoofdstuk 4.
+
+LaTeX Warning: Reference `sect:Speech to text' on page 9 undefined on input lin
+e 16.
+
+
+LaTeX Warning: Reference `sect:Language models' on page 9 undefined on input li
+ne 16.
+
+
+Overfull \hbox (21.40497pt too wide) in paragraph at lines 20--21
+\TU/Montserrat(1)/m/n/10.95 De requirementsanalyse start met een opsomming van 
+functionele en niet-functionele
+ []
+
+[9
+
+]
+Overfull \hbox (14.66707pt too wide) in paragraph at lines 40--41
+[]\TU/Montserrat(1)/m/n/10.95 Veiligheid: De privacy en veiligheid van de gebru
+iker moeten worden beschermd,
+ []
+
+[10]) (conclusie.tex [11]
+Hoofdstuk 5.
+) [12
+
+]
+B\ij lage A.
+(../voorstel/voorstel-inhoud.tex [13
+
+]
+File: graphics//TraumDEtAl_DimensionsInTestimony_SystemArchitecture.png Graphic
+ file (type bmp)
+<graphics//TraumDEtAl_DimensionsInTestimony_SystemArchitecture.png>
+ [14]
+File: graphics//Traum&Leuski_NPCEditor_System architecture.png Graphic file (ty
+pe bmp)
+<graphics//Traum&Leuski_NPCEditor_System architecture.png>
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[15]) [16] [17]
+Overfull \hbox (0.7159pt too wide) in paragraph at lines 172--172
+[][]\TU/Montserrat(1)/m/n/10.95 Amazon. (2023, januari 1). \TU/Montserrat(2)/m/
+it/10.95 Amazon Transcribe: Developer Guide\TU/Montserrat(1)/m/n/10.95 . [][]$[
+][][][][] [] [] [] [][][] [] [][][][][][] []
+ []
+
+[18
 
 
 ] (DeNeveJonaBP.aux)
+
+LaTeX Warning: There were undefined references.
+
 Package rerunfilecheck Info: File `DeNeveJonaBP.out' has not changed.
-(rerunfilecheck)             Checksum: D67E23A4B0C790FD02B740918A012B2E;3786.
+(rerunfilecheck)             Checksum: AE6664D8CFC1589090AC3E66D3651109;4597.
 Package logreq Info: Writing requests to 'DeNeveJonaBP.run.xml'.
 \openout1 = `DeNeveJonaBP.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 48379 strings out of 411511
- 962099 string characters out of 5823379
- 2077022 words of memory out of 5000000
- 67822 multiletter control sequences out of 15000+600000
+ 48397 strings out of 411511
+ 962688 string characters out of 5823379
+ 2078139 words of memory out of 5000000
+ 67838 multiletter control sequences out of 15000+600000
  515251 words of font info for 92 fonts, out of 8000000 for 9000
  1349 hyphenation exceptions out of 8191
  110i,11n,134p,1140b,7237s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on DeNeveJonaBP.pdf (22 pages).
+Output written on DeNeveJonaBP.pdf (25 pages).

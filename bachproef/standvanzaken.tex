@@ -42,28 +42,7 @@ Net als VR is spraakherkenning de laatste jaren veel vooruitgegaan, dit komt omd
 
 Maar perfect zullen ze nooit zijn zegt \textcite{Hessen2020}. Dit is geen verrassing aangezien zelf mensen vaak nog problemen hebben bij het verstaan van een andere. De meest voorkomende fouten van een ASR zijn herkenningsfouten. Deze kunnen ontstaan door slechte kwaliteit van de opname maar ook van de manier waarop woorden worden uitgesproken. De andere fouten ontstaan omdat ASR zijn vocabulaire niet uitgebreid genoeg is. Dit noemen we Out-of-vocabulary-fouten (OOV) \autocite{Hessen2020}.
 
-\paragraph{Google Cloud Speech-to-text API}%
 
-Google Cloud Speech-to-text API is Google's kijk op spraakherkennigssoftware. Hun service kan per maand 60 minuten gratis gebruikt worden. Daarna moet er per minuut van €0,016 voor standaard met datalogging tot €0,072 voor medisch gebruik zonder datalogging. De service komt ook met verschillende functies zoals het automatisch detecteren van de gesproken taal, het herkennen van verschillende stemmen en real-time streaming om live spraak naar tekst om te zetten.
-
-De API is ook heel betrouwbaar. Zo heeft een succespercentage van 100\% voor normale stemmen en een percentage tussen 83,3\% en 90\% voor mensen met een spraakbeperking \autocite{Anggraini2018}. Daarnaast bied het ook de mogelijkheid om het model uit te breiden door het nieuwe vocabulaire aan te leren.
-
-
-\paragraph{Amazon Transcribe}%
-
-test
-
-\paragraph{Microsoft Azure Speech Services}%
-
-test dfsdf
-
-\paragraph{Mozilla Deepspeech}%
-
-test
-
-\paragraph{Whisper}%
-
-test
 
 \subsection{\IfLanguageName{dutch}{Natuurlijke taalverwerking}{Natural Language Classifier}} \label{ssec:Natural Language Classifier}%
 
@@ -77,6 +56,46 @@ Een andere bekend taalmodel is GPT-3. Dit model ligt aan de basis van de populai
     \caption{NPCEditor - Systeem Architectuur \autocite{Leuski2010}}
     \label{fig:NPCEArchitecture}
 \end{figure}
+
+
+
+\chapter{\IfLanguageName{dutch}{Long list}{Long list}} \label{chap:Long list}%
+\label{ch:long-list}
+
+\section{\IfLanguageName{dutch}{Spraakherkening}{Speech recognition}}\label{sec:Speech recognition}%
+
+\subsection{Google Cloud Speech-to-text API}%
+
+Google Cloud Speech-to-text API is Google's kijk op spraakherkennigssoftware. Hun service kan per maand 60 minuten gratis gebruikt worden. Daarna moet er per minuut van €0,016 voor standaard met datalogging tot €0,072 voor medisch gebruik zonder datalogging. De service komt ook met verschillende functies zoals het automatisch detecteren van de gesproken taal, het herkennen van verschillende stemmen en real-time streaming om live spraak naar tekst om te zetten.
+
+De API is ook heel betrouwbaar. Zo heeft een succespercentage van 100\% voor normale stemmen en een percentage tussen 83,3\% en 90\% voor mensen met een spraakbeperking \autocite{Anggraini2018}. Daarnaast bied het ook de mogelijkheid om het model uit te breiden door het nieuwe vocabulaire aan te leren.
+
+
+\subsection{Amazon Transcribe}%
+
+Ook Amazon Web Services (AWS) bied een ASR software aan genaamd Amazon Transcribe. Het bied net als Google's ASR ook een aantal feautures aan zoals herkennen van verschillende stemmen, vocabulaire uitbreiden met jargon van het gewenste doeleinden toevoegen van eigen modellen en real-time transcriptie. De laatste twee functies zijn wel niet beschikbaar in het Nederlands. De service kan 60 minuten per maand gratis gebruikt worden, gedurende 12 maanden. Daarna moet er een vergoeding worden betaald afhankelijk van het totale gebruik per maand en de geolocatie van de gebruikte server (Figuur \ref{fig:PricingAmazonTranscribe}).
+
+\begin{figure}[h]
+    \centering
+    \includegraphics[width=\linewidth*3/4]{graphics/AmazonTranscribePricing.png}
+    \caption{Prijzen Amazon Transcribe voor Parijse server \autocite{Amazon2023}}
+    \label{fig:PricingAmazonTranscribe}
+\end{figure}
+
+\subsection{Microsoft Azure Speech Services}%
+
+Microsoft Azure Speech Services
+
+\subsection{Mozilla Deepspeech}%
+
+test
+
+\subsection{Whisper}%
+
+Whisper is OpenAI's
+
+
+\section{\IfLanguageName{dutch}{Natuurlijke taalverwerking}{Natural Language Classifier}} \label{sec:Natural Language Classifier}%
 
 %Dit hoofdstuk bevat je literatuurstudie. De inhoud gaat verder op de inleiding, maar zal het onderwerp van de bachelorproef *diepgaand* uitspitten. De bedoeling is dat de lezer na lezing van dit hoofdstuk helemaal op de hoogte is van de huidige stand van zaken (state-of-the-art) in het onderzoeksdomein. Iemand die niet vertrouwd is met het onderwerp, weet nu voldoende om de rest van het verhaal te kunnen volgen, zonder dat die er nog andere informatie moet over opzoeken \autocite{Pollefliet2011}.
 %
