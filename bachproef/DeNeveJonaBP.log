@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999994 (MiKTeX 23.1) (preloaded format=xelatex 2023.3.6)  18 MAY 2023 10:38
+This is XeTeX, Version 3.141592653-2.6-0.999994 (MiKTeX 23.1) (preloaded format=xelatex 2023.3.6)  25 MAY 2023 15:59
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -2112,8 +2112,13 @@ Package hyperref Info: Option `pageanchor' set `false' on input line 83.
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 
-Overfull \hbox (13.51518pt too wide) in paragraph at lines 94--94
-[]\TU/Montserrat(0)/b/n/24.88 Hoe kan het herkennen van verbale ant-
+Overfull \hbox (13.66196pt too wide) in paragraph at lines 94--94
+[]\TU/Montserrat(0)/b/n/24.88 Verbeteren van VR stottertherapie door
+ []
+
+
+Overfull \hbox (46.87923pt too wide) in paragraph at lines 94--94
+\TU/Montserrat(0)/b/n/24.88 bale antwoorden met spraakherkennings-
  []
 
 
@@ -2215,7 +2220,7 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 [5] [6]
 Hoofdstuk 3.
 
-Overfull \hbox (2.9046pt too wide) in paragraph at lines 67--68
+Overfull \hbox (2.9046pt too wide) in paragraph at lines 69--70
 \TU/Montserrat(1)/m/n/10.95 Google Cloud Speech-to-text API is Google’s kijk op
  spraakherkennigssoftware. Hun
  []
@@ -2271,14 +2276,22 @@ pe bmp)
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[15]) [16] [17]
+File: graphics//FlowChart.png Graphic file (type bmp)
+<graphics//FlowChart.png>
+
+LaTeX Warning: Float too large for page by 16.51825pt on input line 92.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[15]) [16] [17] [18]
 Overfull \hbox (0.7159pt too wide) in paragraph at lines 172--172
 [][]\TU/Montserrat(1)/m/n/10.95 Amazon. (2023, januari 1). \TU/Montserrat(2)/m/
 it/10.95 Amazon Transcribe: Developer Guide\TU/Montserrat(1)/m/n/10.95 . [][]$[
 ][][][][] [] [] [] [][][] [] [][][][][][] []
  []
 
-[18
+[19
 
 
 ] (DeNeveJonaBP.aux)
@@ -2286,18 +2299,18 @@ it/10.95 Amazon Transcribe: Developer Guide\TU/Montserrat(1)/m/n/10.95 . [][]$[
 LaTeX Warning: There were undefined references.
 
 Package rerunfilecheck Info: File `DeNeveJonaBP.out' has not changed.
-(rerunfilecheck)             Checksum: AE6664D8CFC1589090AC3E66D3651109;4597.
+(rerunfilecheck)             Checksum: 51D03F9B1AF663C504E14D0C0DBE4D00;4785.
 Package logreq Info: Writing requests to 'DeNeveJonaBP.run.xml'.
 \openout1 = `DeNeveJonaBP.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 48397 strings out of 411511
- 962688 string characters out of 5823379
- 2078139 words of memory out of 5000000
- 67838 multiletter control sequences out of 15000+600000
+ 48410 strings out of 411511
+ 963019 string characters out of 5823379
+ 2078328 words of memory out of 5000000
+ 67850 multiletter control sequences out of 15000+600000
  515251 words of font info for 92 fonts, out of 8000000 for 9000
  1349 hyphenation exceptions out of 8191
  110i,11n,134p,1140b,7237s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on DeNeveJonaBP.pdf (25 pages).
+Output written on DeNeveJonaBP.pdf (26 pages).
