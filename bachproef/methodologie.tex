@@ -34,36 +34,62 @@ De requirementsanalyse start met een opsomming van functionele en niet-functione
 
 \subsection{\IfLanguageName{dutch}{Niet-functionele requirements}{Non-functional requirements}}
 
-\begin{itemize}
-    \item Nauwkeurigheid: De spraakherkenningssoftware moet zeer nauwkeurig zijn bij het herkennen en transcriberen van spraak, omdat eventuele fouten kunnen leiden tot onnauwkeurige resultaten en mogelijk onjuiste interpretaties.
-    \item Snelheid: De software moet snel genoeg zijn om de spraak te herkennen en te transcriberen, zodat het in real-time kan werken en niet leidt tot onnodige vertragingen of onderbrekingen.
-    \item Veiligheid: De privacy en veiligheid van de gebruiker moeten worden beschermd, zodat de spraakgegevens niet kunnen worden gehackt of gelekt.
-\end{itemize}
+\begin{center}
+    \begin{tabular}{ |p{3cm}|p{11.5cm}| }
+        \hline
+        NFR & Betrouwbaarheid  \\
+        \hline
+        Indicator & Volwassenheid \\
+        \hline
+        Meetvoorschrift & De spraakherkenningssoftware moet een nauwkeurigheidsniveau van minimaal 95\% bereiken bij het herkennen en transcriberen van spraak binnen de eerste 6 maanden na de lancering.  \\
+        \hline
+        Norm & De spraakherkenningssoftware moet zeer nauwkeurig zijn bij het herkennen en transcriberen van spraak, omdat eventuele fouten kunnen leiden tot onnauwkeurige resultaten en mogelijk onjuiste interpretaties. \\
+        \hline\hline
+        NFR & Prestatie-efficïentie \\
+        \hline
+        Indicator & Snelheid \\
+        \hline
+        Meetvoorschrift & De spraakherkenningssoftware moet spraak in real-time verwerken met een maximale vertraging van 1 seconde tussen het uitspreken van de zin en het verschijnen van de transcriptie bij de lancering en deze snelheid behouden. \\
+        \hline
+        Norm & De software moet snel genoeg zijn om de spraak te herkennen en te transcriberen, zodat het in real-time kan werken en niet leidt tot onnodige vertragingen of onderbrekingen. \\
+        \hline\hline
+        NFR & Beveiligbaarheid  \\
+        \hline
+        Indicator & Vertrouwelijkheid \\
+        \hline
+        Meetvoorschrift & De spraakgegevens van gebruikers moeten worden versleuteld tijdens overdracht en opslag, en alle dataoverdracht en opslag moeten bij de lancering beveiligd zijn volgens de best practices, met regelmatige beveiligingsaudits. \\
+        \hline
+        Norm & De privacy en veiligheid van de gebruiker moeten worden beschermd, zodat de spraakgegevens niet kunnen worden gehackt of gelekt. \\
+        \hline
+    \end{tabular}
+\end{center}
 
 \subsection{\IfLanguageName{dutch}{MoSCoW}{MoSCoW}}%
 
 Aan de hand van de MoSCoW methode bepalen we het belang van verschillende functionaliteiten.
-
-\begin{enumerate}
-    \item Must have:
-    \begin{itemize}
-        \item De applicatie moet in staat zijn om de gesproken woorden om te zetten in tekst, zodat deze kunnen worden opgeslagen en verwerkt.
-        \item De applicatie moet in staat zijn om op basis van de gegenereerde tekst een volgend fragment te kiezen dat aansluit bij het onderwerp en de context van de tekst.
-        \item De applicatie moet gebruik maken van AI-technieken om spraakherkenning en tekstgeneratie mogelijk te maken.
-        \item  De applicatie moet in staat zijn om de opgeslagen tekst te doorzoeken op bepaalde trefwoorden of zinnen, om zo snel specifieke informatie te kunnen vinden.
-    \end{itemize}
-    \item Should have:
-    \begin{itemize}
-        \item De applicatie moet in staat zijn om spraak te herkennen en te registreren hoelang en tot wanneer de gebruiker spreekt.
-        \item De applicatie moet gemakkelijk te gebruiken zijn voor de gebruiker, zonder dat deze technische kennis nodig heeft.
-        \item De applicatie moet betrouwbaar zijn en weinig tot geen fouten maken bij het herkennen van spraak en genereren van tekst.
-    \end{itemize}
-    \item Could have:
-    \begin{itemize}
-        \item De applicatie moet aanpasbaar zijn aan de specifieke wensen en behoeften van de gebruiker, zoals het leren herkennen van patronen in gebruikers met een spraakbeperking.
-        \item Een flexibel systeem met verschillende scenario’s creëren
-    \end{itemize}
-\end{enumerate}
+\begin{center}
+    \begin{tabular}{ |p{2.5cm}|p{12cm}| }
+        \hline
+       Must have & De applicatie moet in staat zijn om de gesproken woorden om te zetten in tekst, zodat deze kunnen worden opgeslagen en verwerkt. \\
+       \cline{2-2}
+        & De applicatie moet in staat zijn om op basis van de gegenereerde tekst een volgend fragment te kiezen dat aansluit bij het onderwerp en de context van de tekst. \\
+        \cline{2-2}
+        & De applicatie moet gebruik maken van AI-technieken om spraakherkenning en tekstgeneratie mogelijk te maken. \\
+        \cline{2-2}
+        & De applicatie moet in staat zijn om de opgeslagen tekst te doorzoeken op bepaalde trefwoorden of zinnen, om zo snel specifieke informatie te kunnen vinden. \\
+        \hline
+        Should have & De applicatie moet in staat zijn om spraak te herkennen en te registreren hoelang en tot wanneer de gebruiker spreekt. \\
+        \cline{2-2}
+        & De applicatie moet gemakkelijk te gebruiken zijn voor de gebruiker, zonder dat deze technische kennis nodig heeft. \\
+        \cline{2-2}
+        & De applicatie moet betrouwbaar zijn en weinig tot geen fouten maken bij het herkennen van spraak en genereren van tekst. \\
+        \hline
+        Could have & De applicatie moet aanpasbaar zijn aan de specifieke wensen en behoeften van de gebruiker, zoals het leren herkennen van patronen in gebruikers met een spraakbeperking. \\
+        \cline{2-2}
+        & Een flexibel systeem met verschillende scenario’s creëren. \\
+        \hline
+    \end{tabular}
+\end{center}
 
 \subsection{\IfLanguageName{dutch}{Use Case}{Use case}}%
 

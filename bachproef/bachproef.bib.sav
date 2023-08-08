@@ -193,4 +193,56 @@
   timestamp    = {Sun, 06 Jun 2021 10:37:49 +0200},
 }
 
+@Manual{Amazon2023,
+  author = {Amazon},
+  date   = {2023-01-01},
+  title  = {Amazon Transcribe: Developer Guide},
+  url    = {https://aws.amazon.com/transcribe},
+}
+
+@InProceedings{Chee2009,
+  author = {Lim Sin Chee and Ooi Chia Ai and Sazali Bin Yaacob and Jejawi Perlis},
+  title  = {Overview of Automatic Stuttering Recognition System},
+  year   = {2009},
+}
+
+@Article{Gordon2002,
+  author    = {Gordon, Neil},
+  title     = {Stuttering: incidence and causes},
+  doi       = {10.1017/S0012162201002067},
+  number    = {4},
+  pages     = {278–282},
+  volume    = {44},
+  journal   = {Developmental Medicine and Child Neurology},
+  publisher = {Cambridge University Press},
+  year      = {2002},
+}
+
+@Article{Alharbi2021,
+  author  = {Alharbi, Sadeen and Alrazgan, Muna and Alrashed, Alanoud and Alnomasi, Turkiayh and Almojel, Raghad and Alharbi, Rimah and Alharbi, Saja and Alturki, Sahar and Alshehri, Fatimah and Almojil, Maha},
+  title   = {Automatic Speech Recognition: Systematic Literature Review},
+  doi     = {10.1109/ACCESS.2021.3112535},
+  pages   = {131858-131876},
+  volume  = {9},
+  journal = {IEEE Access},
+  year    = {2021},
+}
+
+@InProceedings{Sun2019,
+  author    = {Chi Sun and Xipeng Qiu and Yige Xu and Xuanjing Huang},
+  booktitle = {China National Conference on Chinese Computational Linguistics},
+  title     = {How to Fine-Tune BERT for Text Classification?},
+  url       = {https://api.semanticscholar.org/CorpusID:153312532},
+  year      = {2019},
+}
+
+@Misc{liu2019roberta,
+  author        = {Yinhan Liu and Myle Ott and Naman Goyal and Jingfei Du and Mandar Joshi and Danqi Chen and Omer Levy and Mike Lewis and Luke Zettlemoyer and Veselin Stoyanov},
+  title         = {RoBERTa: A Robustly Optimized BERT Pretraining Approach},
+  eprint        = {1907.11692},
+  archiveprefix = {arXiv},
+  primaryclass  = {cs.CL},
+  year          = {2019},
+}
+
 @Comment{jabref-meta: databaseType:biblatex;}

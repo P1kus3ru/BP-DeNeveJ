@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999994 (MiKTeX 23.1) (preloaded format=xelatex 2023.3.6)  25 MAY 2023 15:59
+This is XeTeX, Version 3.141592653-2.6-0.999994 (MiKTeX 23.1) (preloaded format=xelatex 2023.3.6)  1 AUG 2023 15:08
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -1954,6 +1954,19 @@ NeveJonaBP.aex <nul: /p x=^%~$PATH:i>> DeNeveJonaBP.aex)...executed.
 runsystem(del DeNeveJonaBP.aex)...executed.
 
 
+
+! Package minted Error: You must have `pygmentize' installed to use this packag
+e.
+
+See the minted package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.77 \begin{document}
+                     
+Refer to the installation instructions in the minted documentation for more inf
+ormation.
+
 (DeNeveJonaBP.aux)
 \openout1 = `DeNeveJonaBP.aux'.
 
@@ -2160,13 +2173,13 @@ Package hyperref Info: Option `pageanchor' set `true' on input line 95.
 
 ]) [4
 
-] (DeNeveJonaBP.toc)
+] (DeNeveJonaBP.toc [5
+
+])
 \tf@toc=\write8
 \openout8 = `DeNeveJonaBP.toc'.
 
- [5
 
-]
 [6] (DeNeveJonaBP.lof
 Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `FiraMathRegular' (encoding: TU).
@@ -2198,7 +2211,7 @@ Hoofdstuk 1.
 ]) (standvanzaken.tex [2]
 Hoofdstuk 2.
 
-Overfull \hbox (0.846pt too wide) in paragraph at lines 13--14
+Overfull \hbox (0.846pt too wide) in paragraph at lines 18--19
 \TU/Montserrat(1)/m/n/10.95 Hoewel Virtual Reality tegenwoordig veel gevorderd 
 is, bestaat het al voor een lange
  []
@@ -2209,7 +2222,7 @@ is, bestaat het al voor een lange
 File: graphics//TraumDEtAl_DimensionsInTestimony_SystemArchitecture.png Graphic
  file (type bmp)
 <graphics//TraumDEtAl_DimensionsInTestimony_SystemArchitecture.png>
- [4]
+ [4] [5]
 File: graphics//Traum&Leuski_NPCEditor_System architecture.png Graphic file (ty
 pe bmp)
 <graphics//Traum&Leuski_NPCEditor_System architecture.png>
@@ -2217,30 +2230,70 @@ pe bmp)
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[5] [6]
+) (longlist.tex [6] [7]
 Hoofdstuk 3.
 
-Overfull \hbox (2.9046pt too wide) in paragraph at lines 69--70
-\TU/Montserrat(1)/m/n/10.95 Google Cloud Speech-to-text API is Google’s kijk op
- spraakherkennigssoftware. Hun
+Overfull \hbox (8.31024pt too wide) in paragraph at lines 15--16
+\TU/Montserrat(1)/m/n/10.95 len en dialecten, waardoor gebruikers wereldwijd to
+egang hebben tot de dienst.
  []
 
+
+Overfull \hbox (1.36794pt too wide) in paragraph at lines 19--20
+\TU/Montserrat(1)/m/n/10.95 met achtergrondgeluiden, verschillende spreekstijle
+n en spraak van meerdere
+ []
+
+[8
+
+]
+Overfull \hbox (2.17581pt too wide) in paragraph at lines 27--28
+[]\TU/Montserrat(2)/b/n/10.95 Spraakherkenning op apparaat\TU/Montserrat(1)/m/n
+/10.95 : Naast de cloudgebaseerde API biedt Google
+ []
+
+
+Overfull \hbox (9.72742pt too wide) in paragraph at lines 27--28
+\TU/Montserrat(1)/m/n/10.95 Text On-Device. Hiermee kunnen ontwikkelaars spraak
+herkenning rechtstreeks
+ []
+
+
+Overfull \hbox (8.72118pt too wide) in paragraph at lines 44--45
+[]\TU/Montserrat(2)/b/n/10.95 Real-time streaming\TU/Montserrat(1)/m/n/10.95 : 
+Amazon Transcribe heeft real-time streaming van spraak
+ []
+
+[9]
 File: graphics/AmazonTranscribePricing.png Graphic file (type bmp)
 <graphics/AmazonTranscribePricing.png>
+ [10]
+Overfull \hbox (4.78285pt too wide) in paragraph at lines 78--79
+[]\TU/Montserrat(2)/b/n/10.95 Real-time streaming\TU/Montserrat(1)/m/n/10.95 : 
+Azure Speech Services ondersteunt real-time streaming
+ []
 
-LaTeX Warning: `h' float specifier changed to `ht'.
 
-[7
+Overfull \hbox (15.64525pt too wide) in paragraph at lines 101--102
+[]\TU/Montserrat(2)/b/n/10.95 Privacy: \TU/Montserrat(1)/m/n/10.95 Als open-sou
+rceproject stelt DeepSpeech gebruikers in staat om spraak-
+ []
 
-]) (methodologie.tex [8]
+[11] [12]
+Overfull \hbox (12.75446pt too wide) in paragraph at lines 141--142
+[]\TU/Montserrat(2)/b/n/10.95 Hoge nauwkeurigheid: \TU/Montserrat(1)/m/n/10.95 
+Kaldi is bekend om zijn hoge nauwkeurigheid in spraak-
+ []
+
+[13] [14]) (methodologie.tex [15]
 Hoofdstuk 4.
 
-LaTeX Warning: Reference `sect:Speech to text' on page 9 undefined on input lin
-e 16.
-
-
-LaTeX Warning: Reference `sect:Language models' on page 9 undefined on input li
+LaTeX Warning: Reference `sect:Speech to text' on page 16 undefined on input li
 ne 16.
+
+
+LaTeX Warning: Reference `sect:Language models' on page 16 undefined on input l
+ine 16.
 
 
 Overfull \hbox (21.40497pt too wide) in paragraph at lines 20--21
@@ -2248,27 +2301,42 @@ Overfull \hbox (21.40497pt too wide) in paragraph at lines 20--21
 functionele en niet-functionele
  []
 
-[9
+[16
 
 ]
-Overfull \hbox (14.66707pt too wide) in paragraph at lines 40--41
-[]\TU/Montserrat(1)/m/n/10.95 Veiligheid: De privacy en veiligheid van de gebru
-iker moeten worden beschermd,
+Overfull \hbox (0.76347pt too wide) in paragraph at lines 44--44
+[]|\TU/Montserrat(1)/m/n/10.95 Meetvoorschrift| 
  []
 
-[10]) (conclusie.tex [11]
+
+Overfull \hbox (0.76347pt too wide) in paragraph at lines 52--52
+[]|\TU/Montserrat(1)/m/n/10.95 Meetvoorschrift| 
+ []
+
+
+Overfull \hbox (0.76347pt too wide) in paragraph at lines 60--60
+[]|\TU/Montserrat(1)/m/n/10.95 Meetvoorschrift| 
+ []
+
+[17]
+Underfull \hbox (badness 1681) in paragraph at lines 77--78
+[]|\TU/Montserrat(1)/m/n/10.95 De applicatie moet gebruik maken van AI-techniek
+en om
+ []
+
+[18]) (conclusie.tex [19]
 Hoofdstuk 5.
-) [12
+) [20
 
 ]
 B\ij lage A.
-(../voorstel/voorstel-inhoud.tex [13
+(../voorstel/voorstel-inhoud.tex [21
 
 ]
 File: graphics//TraumDEtAl_DimensionsInTestimony_SystemArchitecture.png Graphic
  file (type bmp)
 <graphics//TraumDEtAl_DimensionsInTestimony_SystemArchitecture.png>
- [14]
+ [22]
 File: graphics//Traum&Leuski_NPCEditor_System architecture.png Graphic file (ty
 pe bmp)
 <graphics//Traum&Leuski_NPCEditor_System architecture.png>
@@ -2284,14 +2352,14 @@ LaTeX Warning: Float too large for page by 16.51825pt on input line 92.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[15]) [16] [17] [18]
-Overfull \hbox (0.7159pt too wide) in paragraph at lines 172--172
+[23]) [24] [25] [26]
+Overfull \hbox (0.7159pt too wide) in paragraph at lines 173--173
 [][]\TU/Montserrat(1)/m/n/10.95 Amazon. (2023, januari 1). \TU/Montserrat(2)/m/
 it/10.95 Amazon Transcribe: Developer Guide\TU/Montserrat(1)/m/n/10.95 . [][]$[
 ][][][][] [] [] [] [][][] [] [][][][][][] []
  []
 
-[19
+[27
 
 
 ] (DeNeveJonaBP.aux)
@@ -2299,18 +2367,23 @@ it/10.95 Amazon Transcribe: Developer Guide\TU/Montserrat(1)/m/n/10.95 . [][]$[
 LaTeX Warning: There were undefined references.
 
 Package rerunfilecheck Info: File `DeNeveJonaBP.out' has not changed.
-(rerunfilecheck)             Checksum: 51D03F9B1AF663C504E14D0C0DBE4D00;4785.
+(rerunfilecheck)             Checksum: 8A1127FCBC7D6860DE40DECDD35A8280;5417.
+
+Package biblatex Warning: Please (re)run Biber on the file:
+(biblatex)                DeNeveJonaBP
+(biblatex)                and rerun LaTeX afterwards.
+
 Package logreq Info: Writing requests to 'DeNeveJonaBP.run.xml'.
 \openout1 = `DeNeveJonaBP.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 48410 strings out of 411511
- 963019 string characters out of 5823379
- 2078328 words of memory out of 5000000
- 67850 multiletter control sequences out of 15000+600000
+ 48442 strings out of 411511
+ 963791 string characters out of 5823379
+ 2081472 words of memory out of 5000000
+ 67879 multiletter control sequences out of 15000+600000
  515251 words of font info for 92 fonts, out of 8000000 for 9000
  1349 hyphenation exceptions out of 8191
  110i,11n,134p,1140b,7237s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on DeNeveJonaBP.pdf (26 pages).
+Output written on DeNeveJonaBP.pdf (34 pages).

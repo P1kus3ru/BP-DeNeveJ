@@ -19,6 +19,92 @@
 
 \refsection{0}
   \datalist[entry]{apa/apasortcite//global/global}
+    \entry{Alharbi2021}{article}{}
+      \name{author}{10}{}{%
+        {{un=0,uniquepart=base,hash=4d2d82ade6f3676625d4dc9ad0c4fa4f}{%
+           family={Alharbi},
+           familyi={A\bibinitperiod},
+           given={Sadeen},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a9c9b1bc466b35af0cc7d90cd24fbfcf}{%
+           family={Alrazgan},
+           familyi={A\bibinitperiod},
+           given={Muna},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8138e7bc97bb54539bca90c272e7923e}{%
+           family={Alrashed},
+           familyi={A\bibinitperiod},
+           given={Alanoud},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b4fb0f59fa9a4feccfb487cc361ba469}{%
+           family={Alnomasi},
+           familyi={A\bibinitperiod},
+           given={Turkiayh},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=224d7e11bd835b8da4c93766ec2e355b}{%
+           family={Almojel},
+           familyi={A\bibinitperiod},
+           given={Raghad},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6ddbcd0561525cd23ec92192538a1da1}{%
+           family={Alharbi},
+           familyi={A\bibinitperiod},
+           given={Rimah},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4608538dc02bed0014770da0c41443ce}{%
+           family={Alharbi},
+           familyi={A\bibinitperiod},
+           given={Saja},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=56c8d4f1d47527fecfdd50bf60f90eac}{%
+           family={Alturki},
+           familyi={A\bibinitperiod},
+           given={Sahar},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f92733681a1aebb5c92749b17f623bab}{%
+           family={Alshehri},
+           familyi={A\bibinitperiod},
+           given={Fatimah},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=83b382101ecb4692bc38817e014815e5}{%
+           family={Almojil},
+           familyi={A\bibinitperiod},
+           given={Maha},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{594a8fb14f37178b7a2c9dc052b8aa44}
+      \strng{fullhash}{6527c1378654a383ffc87fde6fe8b4cd}
+      \strng{bibnamehash}{6527c1378654a383ffc87fde6fe8b4cd}
+      \strng{authorbibnamehash}{6527c1378654a383ffc87fde6fe8b4cd}
+      \strng{authornamehash}{594a8fb14f37178b7a2c9dc052b8aa44}
+      \strng{authorfullhash}{6527c1378654a383ffc87fde6fe8b4cd}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IEEE Access}
+      \field{title}{Automatic Speech Recognition: Systematic Literature Review}
+      \field{volume}{9}
+      \field{year}{2021}
+      \field{pages}{131858\bibrangedash 131876}
+      \range{pages}{19}
+      \verb{doi}
+      \verb 10.1109/ACCESS.2021.3112535
+      \endverb
+    \endentry
     \entry{Amazon2023}{manual}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=b3b3a6ac74ecbd56bcdbefa4799fb9df}{%
@@ -154,6 +240,85 @@
       \field{year}{2013}
       \verb{eprint}
       \verb 1312.4322
+      \endverb
+    \endentry
+    \entry{Chee2009}{article}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=76bc5775e136811bb096c6208c006e81}{%
+           family={Chee},
+           familyi={C\bibinitperiod},
+           given={Lim\bibnamedelima Sin},
+           giveni={L\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=85a32a671bb546e2c4920daff81ca5b6}{%
+           family={Ai},
+           familyi={A\bibinitperiod},
+           given={Ooi\bibnamedelima Chia},
+           giveni={O\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=695f6a5d7bec84301dbd5a3a5a533624}{%
+           family={Yaacob},
+           familyi={Y\bibinitperiod},
+           given={Sazali\bibnamedelima Bin},
+           giveni={S\bibinitperiod\bibinitdelim B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b66f13d36ee29a5cbb17326357fef97f}{%
+           family={Perlis},
+           familyi={P\bibinitperiod},
+           given={Jejawi},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{688f00fb675b04a602364acb3cd37247}
+      \strng{fullhash}{4d9b85efade05b982752222521a36b3b}
+      \strng{bibnamehash}{4d9b85efade05b982752222521a36b3b}
+      \strng{authorbibnamehash}{4d9b85efade05b982752222521a36b3b}
+      \strng{authornamehash}{688f00fb675b04a602364acb3cd37247}
+      \strng{authorfullhash}{4d9b85efade05b982752222521a36b3b}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Overview of Automatic Stuttering Recognition System}
+      \field{year}{2009}
+    \endentry
+    \entry{Gordon2002}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=df9469128a8542e7ec681f48d2615e22}{%
+           family={Gordon},
+           familyi={G\bibinitperiod},
+           given={Neil},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Cambridge University Press}%
+      }
+      \strng{namehash}{df9469128a8542e7ec681f48d2615e22}
+      \strng{fullhash}{df9469128a8542e7ec681f48d2615e22}
+      \strng{bibnamehash}{df9469128a8542e7ec681f48d2615e22}
+      \strng{authorbibnamehash}{df9469128a8542e7ec681f48d2615e22}
+      \strng{authornamehash}{df9469128a8542e7ec681f48d2615e22}
+      \strng{authorfullhash}{df9469128a8542e7ec681f48d2615e22}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Developmental Medicine and Child Neurology}
+      \field{number}{4}
+      \field{title}{Stuttering: incidence and causes}
+      \field{volume}{44}
+      \field{year}{2002}
+      \field{pages}{278\bibrangedash 282}
+      \range{pages}{5}
+      \verb{doi}
+      \verb 10.1017/S0012162201002067
       \endverb
     \endentry
     \entry{Leuski2010}{article}{}
@@ -458,6 +623,92 @@
     \endentry
   \enddatalist
   \datalist[entry]{apa/global//global/global}
+    \entry{Alharbi2021}{article}{}
+      \name{author}{10}{}{%
+        {{un=0,uniquepart=base,hash=4d2d82ade6f3676625d4dc9ad0c4fa4f}{%
+           family={Alharbi},
+           familyi={A\bibinitperiod},
+           given={Sadeen},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a9c9b1bc466b35af0cc7d90cd24fbfcf}{%
+           family={Alrazgan},
+           familyi={A\bibinitperiod},
+           given={Muna},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8138e7bc97bb54539bca90c272e7923e}{%
+           family={Alrashed},
+           familyi={A\bibinitperiod},
+           given={Alanoud},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b4fb0f59fa9a4feccfb487cc361ba469}{%
+           family={Alnomasi},
+           familyi={A\bibinitperiod},
+           given={Turkiayh},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=224d7e11bd835b8da4c93766ec2e355b}{%
+           family={Almojel},
+           familyi={A\bibinitperiod},
+           given={Raghad},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6ddbcd0561525cd23ec92192538a1da1}{%
+           family={Alharbi},
+           familyi={A\bibinitperiod},
+           given={Rimah},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4608538dc02bed0014770da0c41443ce}{%
+           family={Alharbi},
+           familyi={A\bibinitperiod},
+           given={Saja},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=56c8d4f1d47527fecfdd50bf60f90eac}{%
+           family={Alturki},
+           familyi={A\bibinitperiod},
+           given={Sahar},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f92733681a1aebb5c92749b17f623bab}{%
+           family={Alshehri},
+           familyi={A\bibinitperiod},
+           given={Fatimah},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=83b382101ecb4692bc38817e014815e5}{%
+           family={Almojil},
+           familyi={A\bibinitperiod},
+           given={Maha},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{594a8fb14f37178b7a2c9dc052b8aa44}
+      \strng{fullhash}{6527c1378654a383ffc87fde6fe8b4cd}
+      \strng{bibnamehash}{6527c1378654a383ffc87fde6fe8b4cd}
+      \strng{authorbibnamehash}{6527c1378654a383ffc87fde6fe8b4cd}
+      \strng{authornamehash}{594a8fb14f37178b7a2c9dc052b8aa44}
+      \strng{authorfullhash}{6527c1378654a383ffc87fde6fe8b4cd}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IEEE Access}
+      \field{title}{Automatic Speech Recognition: Systematic Literature Review}
+      \field{volume}{9}
+      \field{year}{2021}
+      \field{pages}{131858\bibrangedash 131876}
+      \range{pages}{19}
+      \verb{doi}
+      \verb 10.1109/ACCESS.2021.3112535
+      \endverb
+    \endentry
     \entry{Amazon2023}{manual}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=b3b3a6ac74ecbd56bcdbefa4799fb9df}{%
@@ -593,6 +844,85 @@
       \field{year}{2013}
       \verb{eprint}
       \verb 1312.4322
+      \endverb
+    \endentry
+    \entry{Chee2009}{article}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=76bc5775e136811bb096c6208c006e81}{%
+           family={Chee},
+           familyi={C\bibinitperiod},
+           given={Lim\bibnamedelima Sin},
+           giveni={L\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=85a32a671bb546e2c4920daff81ca5b6}{%
+           family={Ai},
+           familyi={A\bibinitperiod},
+           given={Ooi\bibnamedelima Chia},
+           giveni={O\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=695f6a5d7bec84301dbd5a3a5a533624}{%
+           family={Yaacob},
+           familyi={Y\bibinitperiod},
+           given={Sazali\bibnamedelima Bin},
+           giveni={S\bibinitperiod\bibinitdelim B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b66f13d36ee29a5cbb17326357fef97f}{%
+           family={Perlis},
+           familyi={P\bibinitperiod},
+           given={Jejawi},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{688f00fb675b04a602364acb3cd37247}
+      \strng{fullhash}{4d9b85efade05b982752222521a36b3b}
+      \strng{bibnamehash}{4d9b85efade05b982752222521a36b3b}
+      \strng{authorbibnamehash}{4d9b85efade05b982752222521a36b3b}
+      \strng{authornamehash}{688f00fb675b04a602364acb3cd37247}
+      \strng{authorfullhash}{4d9b85efade05b982752222521a36b3b}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Overview of Automatic Stuttering Recognition System}
+      \field{year}{2009}
+    \endentry
+    \entry{Gordon2002}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=df9469128a8542e7ec681f48d2615e22}{%
+           family={Gordon},
+           familyi={G\bibinitperiod},
+           given={Neil},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Cambridge University Press}%
+      }
+      \strng{namehash}{df9469128a8542e7ec681f48d2615e22}
+      \strng{fullhash}{df9469128a8542e7ec681f48d2615e22}
+      \strng{bibnamehash}{df9469128a8542e7ec681f48d2615e22}
+      \strng{authorbibnamehash}{df9469128a8542e7ec681f48d2615e22}
+      \strng{authornamehash}{df9469128a8542e7ec681f48d2615e22}
+      \strng{authorfullhash}{df9469128a8542e7ec681f48d2615e22}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Developmental Medicine and Child Neurology}
+      \field{number}{4}
+      \field{title}{Stuttering: incidence and causes}
+      \field{volume}{44}
+      \field{year}{2002}
+      \field{pages}{278\bibrangedash 282}
+      \range{pages}{5}
+      \verb{doi}
+      \verb 10.1017/S0012162201002067
       \endverb
     \endentry
     \entry{Leuski2010}{article}{}

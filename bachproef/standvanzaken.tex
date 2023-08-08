@@ -9,6 +9,11 @@
 
 Zoals vermeld in de inleiding heeft het zorglab van Hogeschool Gent verschillende doeleinden. Zo kunnen studenten geneeskunde leren hoe ze een operatie moeten uitvoeren zonder iemand als testpersoon te gebruiken. Anderzijds kan het een persoon die plankenkoorts heeft een presentatie of een toespraak leren houden. In onze situatie zal een patiënt met een stotter leren een vlot gesprek te houden zoals bijvoorbeeld wanneer hij op sollicitatie gaat. Dit wordt gerealiseerd aan de hand van 360° opnames die voor de patiënt opnieuw afgespeeld kunnen worden in VR.
 
+\section{\IfLanguageName{dutch}{Stotteren}{Stutter}}%
+Stotteren is een spraakstoornis dat gekenmerkt word door onderbrekingen en verstoringen in het vloeiend spreken. De aandoening komt vaker voor bij kinderen en gaat bij 80\% over naarmate ze opgroeien \autocite{Gordon2002}. Er zijn verschillende types van onvloeiendheid in spraak \autocite{Chee2009}: tussenwerpsels (woorden zoals 'uh' of 'eh'), herzieningen (het aanpassen van de inhoud of de grammaticale structuur van de zin), onafgemaakte zinnen, herhaling, aanhoudende geluiden en afgebroken woorden. Een stotter kan voorkomen in verschillende mate, sommigen zullen meer last hebben zichzelf te uiten terwijl bij anderen de stoornis niet hard opvalt.
+
+De specifieke oorzaak van een stotter is nog niet doorgrond. Uit het onderzoek van Gordon blijkt echter dat de rechter- en linkerhersenhelft verschillende en tegenovergestelde rollen lijken te spelen bij het ontstaan van stotteren. Symptomen van stotteren worden geassocieerd met activering van de voorste gebieden in de linkerhersenhelft, terwijl zowel voorste als achterste perisylviaanse gebieden in de rechterhersenhelft geactiveerd worden wanneer het spreken vloeiender wordt. Deze verbetering kan mogelijk te wijten zijn aan de koppeling van motorische en zintuiglijke gebieden in de rechterhersenhelft.
+
 \section{\IfLanguageName{dutch}{Virtuele realiteit}{Virtual reality}}%
 Hoewel Virtual Reality tegenwoordig veel gevorderd is, bestaat het al voor een lange tijd. Het eerste toestel dat de werkelijkheid nabootste was Morton Heilig’s Sensorama uit 1962. Dit liet de gebruiker ervaren hoe het voelde om op een motor door Boston te rijden. De opvolgende jaren werden ook andere toestellen uitgevonden zoals de 'Sword of Damocles' die de locatie van het hoofd en de ogen volgde en Nintendo's 'power glove' voor de NES \autocite{Boas2012}.
 
@@ -38,15 +43,23 @@ Een ander voorbeeld zijn de home assistenten zoals Google Home, Amazon Echo of A
 
 \subsection{\IfLanguageName{dutch}{Spraakherkening}{Speech recognition}}%
 
-Net als VR is spraakherkenning de laatste jaren veel vooruitgegaan, dit komt omdat er meer data beschikbaar is, de computers sneller en de algoritmes, genaamd deep neural networks, beter zijn. Deze netwerken worden getraind op grote datasets bestaande uit diverse spraakfragmenten. Hieruit leert het de patronen en kenmerken van menselijke spraak.
+Net als VR is spraakherkenning de laatste jaren veel vooruitgegaan, dit komt omdat er meer data beschikbaar is, de computers sneller en de algoritmes, genaamd deep neural networks, beter zijn. Deze netwerken worden getraind op grote datasets bestaande uit diverse spraakfragmenten. Hieruit leert het de patronen en kenmerken van menselijke spraak. Maar perfect zullen ze nooit zijn zegt \textcite{Hessen2020}. Dit is geen verrassing aangezien zelf mensen vaak nog problemen hebben bij het verstaan van een andere. Er zijn verschillende stappen waar de ASR de fout kan ingaan.
 
-Maar perfect zullen ze nooit zijn zegt \textcite{Hessen2020}. Dit is geen verrassing aangezien zelf mensen vaak nog problemen hebben bij het verstaan van een andere. De meest voorkomende fouten van een ASR zijn herkenningsfouten. Deze kunnen ontstaan door slechte kwaliteit van de opname maar ook van de manier waarop woorden worden uitgesproken. De andere fouten ontstaan omdat ASR zijn vocabulaire niet uitgebreid genoeg is. Dit noemen we Out-of-vocabulary-fouten (OOV) \autocite{Hessen2020}.
+\paragraph{\IfLanguageName{dutch}{Domein problemen}{Domain problems}}%
+Onder de domein problemen valt ten eerste galm en geluidshinder. Dit komt voor wanneer een opname gemaakt wordt in een omgeving met veel achtergrond lawaai. Net als mensen heeft de ASR moeilijkheden met het verstaan van de spreker wanneer deze overstemd wordt door de omgeving \autocite{Alharbi2021}. Naast galm en geluidshinder is het ook moeilijker wanneer twee of meer mensen door elkaar spreken. Dit heet spraak overlapping. Een derde domein probleem is domain mismatch. Dit houd in dat er een discrepantie is tussen het domein gebruikt voor het model te trainen en de use case waar het model in wordt gebruikt. Zo zijn bijvoorbeeld nieuwe accenten of andere omgevingen onbekend voor het model. Daarnaast kan het doeleinde een ander jargon bevatten wat lijd tot out-of-vocabulary fouten.
+
+\paragraph{\IfLanguageName{dutch}{Natuurlijke taalverwerking}{Natural language processing}}%
+Zoals vermeld in de vorige paragraaf is de use case van groot belang. Taal dat gebruikt wordt verschilt op vele manieren: jongeren gaan andere woorden gebruiken dan hun senioren, iemand in de IT sector gaat een andere woordenschat hebben dan een dokter. Deze verschillen kunnen leiden tot out-of-vocabulary fouten. Dit houd in dat een bepaald model niet getraind is op bepaalde manier van spreken of woordenschat. Een andere oorzaak van OOV is het trainen van een model op een te kleine dataset.
+
+Ook niet iedereen spreekt woorden op dezelfde manier uit. Afhankelijk van de sprekers afkomst zullen ze een bepaalde taal met een bepaald dialect spreken. Ook wanneer ze in een taal anders dan hun moedertaal praten zal er vaak sporen van hun eigen taal herkenbaar blijven. Dit zorgt ervoor dat de uitspraak van een woord niet altijd hetzelfde is.
+
+\paragraph{\IfLanguageName{dutch}{Efficiëntie van apparatuur}{Device efficiency}}%
+Als laatste hebben we de gebruikte toestellen. De kwaliteit van de opnameapparatuur kan de nauwkeurigheid van de ASR beïnvloeden. Het gebruik maken van een high-end microfoon tegenover een goedkope kan betere resultaten creëren.
 
 
+\subsection{\IfLanguageName{dutch}{Begrijpen van natuurlijke taal}{Natural Language Understanding}} \label{ssec:Natural Language Classifier}%
 
-\subsection{\IfLanguageName{dutch}{Natuurlijke taalverwerking}{Natural Language Classifier}} \label{ssec:Natural Language Classifier}%
-
-Naast de ASR hebben we ook de natuurlijke taalverwerking (NLP). In 'Dimension in Testimony' maakten ze hiervoor gebruik van NCPEditor (Figuur \ref{fig:NPCEArchitecture}). De classifier in dit systeem berekent welke antwoorden op de ingegeven tekst kunnen gegeven worden door de taalmodellen van beide te vergelijken en de antwoorden te rangschikken. Zolang de ingegeven tekst een foutmarge lager dan 50\% blijft, zal het antwoord ongewijzigd blijven \autocite{Leuski2010}.
+Naast de ASR hebben we ook het begrijpen van natuurlijke taal (NLU). In 'Dimension in Testimony' maakten ze hiervoor gebruik van NCPEditor (Figuur \ref{fig:NPCEArchitecture}). De classifier in dit systeem berekent welke antwoorden op de ingegeven tekst kunnen gegeven worden door de taalmodellen van beide te vergelijken en de antwoorden te rangschikken. Zolang de ingegeven tekst een foutmarge lager dan 50\% blijft, zal het antwoord ongewijzigd blijven \autocite{Leuski2010}.
 
 Een andere bekend taalmodel is GPT-3. Dit model ligt aan de basis van de populaire chatbot ChatGPT.
 
@@ -56,52 +69,3 @@ Een andere bekend taalmodel is GPT-3. Dit model ligt aan de basis van de populai
     \caption{NPCEditor - Systeem Architectuur \autocite{Leuski2010}}
     \label{fig:NPCEArchitecture}
 \end{figure}
-
-
-
-\chapter{\IfLanguageName{dutch}{Long list}{Long list}} \label{chap:Long list}%
-\label{ch:long-list}
-
-\section{\IfLanguageName{dutch}{Spraakherkening}{Speech recognition}}\label{sec:Speech recognition}%
-
-\subsection{Google Cloud Speech-to-text API}%
-
-Google Cloud Speech-to-text API is Google's kijk op spraakherkennigssoftware. Hun service kan per maand 60 minuten gratis gebruikt worden. Daarna moet er per minuut van €0,016 voor standaard met datalogging tot €0,072 voor medisch gebruik zonder datalogging. De service komt ook met verschillende functies zoals het automatisch detecteren van de gesproken taal, het herkennen van verschillende stemmen en real-time streaming om live spraak naar tekst om te zetten.
-
-De API is ook heel betrouwbaar. Zo heeft een succespercentage van 100\% voor normale stemmen en een percentage tussen 83,3\% en 90\% voor mensen met een spraakbeperking \autocite{Anggraini2018}. Daarnaast bied het ook de mogelijkheid om het model uit te breiden door het nieuwe vocabulaire aan te leren.
-
-
-\subsection{Amazon Transcribe}%
-
-Ook Amazon Web Services (AWS) bied een ASR software aan genaamd Amazon Transcribe. Het bied net als Google's ASR ook een aantal feautures aan zoals herkennen van verschillende stemmen, vocabulaire uitbreiden met jargon van het gewenste doeleinden toevoegen van eigen modellen en real-time transcriptie. De laatste twee functies zijn wel niet beschikbaar in het Nederlands. De service kan 60 minuten per maand gratis gebruikt worden, gedurende 12 maanden. Daarna moet er een vergoeding worden betaald afhankelijk van het totale gebruik per maand en de geolocatie van de gebruikte server (Figuur \ref{fig:PricingAmazonTranscribe}).
-
-\begin{figure}[h]
-    \centering
-    \includegraphics[width=\linewidth*3/4]{graphics/AmazonTranscribePricing.png}
-    \caption{Prijzen Amazon Transcribe voor Parijse server \autocite{Amazon2023}}
-    \label{fig:PricingAmazonTranscribe}
-\end{figure}
-
-\subsection{Microsoft Azure Speech Services}%
-
-Microsoft Azure Speech Services
-
-\subsection{Mozilla Deepspeech}%
-
-test
-
-\subsection{Whisper}%
-
-Whisper is OpenAI's
-
-
-\section{\IfLanguageName{dutch}{Natuurlijke taalverwerking}{Natural Language Classifier}} \label{sec:Natural Language Classifier}%
-
-%Dit hoofdstuk bevat je literatuurstudie. De inhoud gaat verder op de inleiding, maar zal het onderwerp van de bachelorproef *diepgaand* uitspitten. De bedoeling is dat de lezer na lezing van dit hoofdstuk helemaal op de hoogte is van de huidige stand van zaken (state-of-the-art) in het onderzoeksdomein. Iemand die niet vertrouwd is met het onderwerp, weet nu voldoende om de rest van het verhaal te kunnen volgen, zonder dat die er nog andere informatie moet over opzoeken \autocite{Pollefliet2011}.
-%
-%Je verwijst bij elke bewering die je doet, vakterm die je introduceert, enz.\ naar je bronnen. In \LaTeX{} kan dat met het commando \texttt{$\backslash${textcite\{\}}} of \texttt{$\backslash${autocite\{\}}}. Als argument van het commando geef je de ``sleutel'' van een ``record'' in een bibliografische databank in het Bib\LaTeX{}-formaat (een tekstbestand). Als je expliciet naar de auteur verwijst in de zin, gebruik je \texttt{$\backslash${}textcite\{\}}.
-%Soms wil je de auteur niet expliciet vernoemen, dan gebruik je \texttt{$\backslash${}autocite\{\}}. In de volgende paragraaf een voorbeeld van elk.
-%
-%\textcite{Knuth1998} schreef een van de standaardwerken over sorteer- en zoekalgoritmen. Experten zijn het erover eens dat cloud computing een interessante opportuniteit vormen, zowel voor gebruikers als voor dienstverleners op vlak van informatietechnologie~\autocite{Creeger2009}.
-%
-%\lipsum[7-20]
