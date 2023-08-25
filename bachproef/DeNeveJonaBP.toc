@@ -8,64 +8,93 @@
 \contentsline {chapter}{\numberline {2}Stand van zaken}{3}{chapter.2}%
 \contentsline {section}{\numberline {2.1}Stotteren}{3}{section.2.1}%
 \contentsline {section}{\numberline {2.2}Virtuele realiteit}{4}{section.2.2}%
-\contentsline {section}{\numberline {2.3}Artificiële intelligentie}{4}{section.2.3}%
-\contentsline {subsection}{\numberline {2.3.1}Spraakherkening}{5}{subsection.2.3.1}%
-\contentsline {paragraph}{Domein problemen}{5}{subsection.2.3.1}%
+\contentsline {section}{\numberline {2.3}Artificiële intelligentie}{5}{section.2.3}%
+\contentsline {subsection}{\numberline {2.3.1}Spraakherkening}{6}{subsection.2.3.1}%
+\contentsline {paragraph}{Domeinproblemen}{6}{subsection.2.3.1}%
 \contentsline {paragraph}{Natuurlijke taalverwerking}{6}{subsection.2.3.1}%
-\contentsline {paragraph}{Efficiëntie van apparatuur}{6}{subsection.2.3.1}%
-\contentsline {subsection}{\numberline {2.3.2}Begrijpen van natuurlijke taal}{6}{subsection.2.3.2}%
-\contentsline {chapter}{\numberline {3}Long list}{8}{chapter.3}%
-\contentsline {section}{\numberline {3.1}Spraakherkening}{8}{section.3.1}%
-\contentsline {subsection}{\numberline {3.1.1}Google Cloud Speech-to-text API}{8}{subsection.3.1.1}%
-\contentsline {paragraph}{Beschrijving}{8}{subsection.3.1.1}%
-\contentsline {paragraph}{Functies}{8}{subsection.3.1.1}%
-\contentsline {paragraph}{Tarieven}{9}{subsection.3.1.1}%
-\contentsline {subsection}{\numberline {3.1.2}Amazon Transcribe}{9}{subsection.3.1.2}%
-\contentsline {paragraph}{Beschrijving}{9}{subsection.3.1.2}%
-\contentsline {paragraph}{Functies}{9}{subsection.3.1.2}%
-\contentsline {paragraph}{Tarieven}{10}{subsection.3.1.2}%
-\contentsline {subsection}{\numberline {3.1.3}Microsoft Azure Speech Services}{10}{subsection.3.1.3}%
-\contentsline {paragraph}{Beschrijving}{10}{subsection.3.1.3}%
-\contentsline {paragraph}{Functies}{10}{subsection.3.1.3}%
-\contentsline {paragraph}{Tarieven}{11}{subsection.3.1.3}%
-\contentsline {subsection}{\numberline {3.1.4}Mozilla DeepSpeech}{11}{subsection.3.1.4}%
-\contentsline {paragraph}{Beschrijving}{11}{subsection.3.1.4}%
-\contentsline {paragraph}{Functies}{11}{subsection.3.1.4}%
-\contentsline {paragraph}{Tarieven}{11}{subsection.3.1.4}%
-\contentsline {subsection}{\numberline {3.1.5}Whisper}{12}{subsection.3.1.5}%
-\contentsline {paragraph}{Beschrijving}{12}{subsection.3.1.5}%
-\contentsline {paragraph}{Functies}{12}{subsection.3.1.5}%
-\contentsline {paragraph}{Tarieven}{12}{subsection.3.1.5}%
-\contentsline {subsection}{\numberline {3.1.6}Kaldi ASR}{12}{subsection.3.1.6}%
-\contentsline {paragraph}{Beschrijving}{12}{subsection.3.1.6}%
-\contentsline {paragraph}{Functies}{13}{subsection.3.1.6}%
-\contentsline {paragraph}{Gebruik en implementatie}{13}{subsection.3.1.6}%
-\contentsline {paragraph}{Beschikbaarheid en prijs}{13}{subsection.3.1.6}%
-\contentsline {section}{\numberline {3.2}Natuurlijke taalverwerking}{14}{section.3.2}%
-\contentsline {subsection}{\numberline {3.2.1}GPT series}{14}{subsection.3.2.1}%
-\contentsline {paragraph}{Beschrijving}{14}{subsection.3.2.1}%
-\contentsline {paragraph}{Tarieven}{14}{subsection.3.2.1}%
-\contentsline {subsection}{\numberline {3.2.2}BERT}{14}{subsection.3.2.2}%
-\contentsline {paragraph}{Beschrijving}{14}{subsection.3.2.2}%
-\contentsline {paragraph}{Tarieven}{14}{subsection.3.2.2}%
-\contentsline {subsection}{\numberline {3.2.3}FlairNLP}{14}{subsection.3.2.3}%
-\contentsline {paragraph}{Beschrijving}{14}{subsection.3.2.3}%
-\contentsline {paragraph}{Tarieven}{14}{subsection.3.2.3}%
-\contentsline {subsection}{\numberline {3.2.4}RoBERTa}{15}{subsection.3.2.4}%
-\contentsline {paragraph}{Beschrijving}{15}{subsection.3.2.4}%
-\contentsline {paragraph}{Tarieven}{15}{subsection.3.2.4}%
-\contentsline {chapter}{\numberline {4}Methodologie}{16}{chapter.4}%
-\contentsline {section}{\numberline {4.1}Requirementsanalyse}{16}{section.4.1}%
-\contentsline {subsection}{\numberline {4.1.1}Functionele requirements}{16}{subsection.4.1.1}%
-\contentsline {subsection}{\numberline {4.1.2}Niet-functionele requirements}{18}{subsection.4.1.2}%
-\contentsline {subsection}{\numberline {4.1.3}MoSCoW}{18}{subsection.4.1.3}%
-\contentsline {subsection}{\numberline {4.1.4}Use Case}{19}{subsection.4.1.4}%
-\contentsline {section}{\numberline {4.2}Proof-of-concept}{19}{section.4.2}%
-\contentsline {chapter}{\numberline {5}Conclusie}{20}{chapter.5}%
-\contentsline {chapter}{\numberline {A}Onderzoeksvoorstel}{21}{appendix.A}%
-\contentsline {section}{\numberline {A.1}Introductie}{21}{section.A.1}%
-\contentsline {section}{\numberline {A.2}State-of-the-art}{22}{section.A.2}%
-\contentsline {section}{\numberline {A.3}Methodologie}{23}{section.A.3}%
-\contentsline {section}{\numberline {A.4}Verwacht resultaat, conclusie}{24}{section.A.4}%
-\contentsline {chapter}{Bibliografie}{27}{appendix*.11}%
+\contentsline {paragraph}{Efficiëntie van apparatuur}{7}{subsection.2.3.1}%
+\contentsline {paragraph}{Sotteren}{7}{subsection.2.3.1}%
+\contentsline {subsection}{\numberline {2.3.2}Begrijpen van natuurlijke taal}{7}{subsection.2.3.2}%
+\contentsline {section}{\numberline {2.4}Long list spraakherkening}{7}{section.2.4}%
+\contentsline {subsection}{\numberline {2.4.1}Google Cloud Speech-to-text API}{7}{subsection.2.4.1}%
+\contentsline {paragraph}{Beschrijving}{7}{subsection.2.4.1}%
+\contentsline {paragraph}{Functies}{8}{subsection.2.4.1}%
+\contentsline {paragraph}{Tarieven}{9}{subsection.2.4.1}%
+\contentsline {subsection}{\numberline {2.4.2}Amazon Transcribe}{9}{subsection.2.4.2}%
+\contentsline {paragraph}{Beschrijving}{9}{subsection.2.4.2}%
+\contentsline {paragraph}{Functies}{9}{subsection.2.4.2}%
+\contentsline {paragraph}{Tarieven}{10}{subsection.2.4.2}%
+\contentsline {subsection}{\numberline {2.4.3}Microsoft Azure Speech Services}{10}{subsection.2.4.3}%
+\contentsline {paragraph}{Beschrijving}{10}{subsection.2.4.3}%
+\contentsline {paragraph}{Functies}{11}{subsection.2.4.3}%
+\contentsline {paragraph}{Tarieven}{11}{subsection.2.4.3}%
+\contentsline {subsection}{\numberline {2.4.4}Mozilla DeepSpeech}{11}{subsection.2.4.4}%
+\contentsline {paragraph}{Beschrijving}{11}{subsection.2.4.4}%
+\contentsline {paragraph}{Functies}{11}{subsection.2.4.4}%
+\contentsline {paragraph}{Tarieven}{12}{subsection.2.4.4}%
+\contentsline {subsection}{\numberline {2.4.5}Whisper}{12}{subsection.2.4.5}%
+\contentsline {paragraph}{Beschrijving}{12}{subsection.2.4.5}%
+\contentsline {paragraph}{Functies}{12}{subsection.2.4.5}%
+\contentsline {paragraph}{Tarieven}{13}{subsection.2.4.5}%
+\contentsline {subsection}{\numberline {2.4.6}Kaldi ASR}{13}{subsection.2.4.6}%
+\contentsline {paragraph}{Beschrijving}{13}{subsection.2.4.6}%
+\contentsline {paragraph}{Functies}{13}{subsection.2.4.6}%
+\contentsline {paragraph}{Gebruik en implementatie}{14}{subsection.2.4.6}%
+\contentsline {paragraph}{Beschikbaarheid en prijs}{14}{subsection.2.4.6}%
+\contentsline {section}{\numberline {2.5}Long list natuurlijke taalverwerking}{14}{section.2.5}%
+\contentsline {subsection}{\numberline {2.5.1}GPT series}{14}{subsection.2.5.1}%
+\contentsline {paragraph}{Beschrijving}{14}{subsection.2.5.1}%
+\contentsline {paragraph}{Tarieven}{14}{subsection.2.5.1}%
+\contentsline {subsection}{\numberline {2.5.2}BERT}{14}{subsection.2.5.2}%
+\contentsline {paragraph}{Beschrijving}{14}{subsection.2.5.2}%
+\contentsline {paragraph}{Tarieven}{15}{subsection.2.5.2}%
+\contentsline {subsection}{\numberline {2.5.3}FlairNLP}{15}{subsection.2.5.3}%
+\contentsline {paragraph}{Beschrijving}{15}{subsection.2.5.3}%
+\contentsline {paragraph}{Tarieven}{15}{subsection.2.5.3}%
+\contentsline {subsection}{\numberline {2.5.4}RoBERTa}{15}{subsection.2.5.4}%
+\contentsline {paragraph}{Beschrijving}{15}{subsection.2.5.4}%
+\contentsline {paragraph}{Tarieven}{15}{subsection.2.5.4}%
+\contentsline {chapter}{\numberline {3}Methodologie}{16}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Requirementsanalyse}{16}{section.3.1}%
+\contentsline {subsection}{\numberline {3.1.1}Functionele requirements}{16}{subsection.3.1.1}%
+\contentsline {subsection}{\numberline {3.1.2}Niet-functionele requirements}{17}{subsection.3.1.2}%
+\contentsline {subsection}{\numberline {3.1.3}MoSCoW}{17}{subsection.3.1.3}%
+\contentsline {section}{\numberline {3.2}Spraakherkenning}{18}{section.3.2}%
+\contentsline {subsection}{\numberline {3.2.1}Short list}{18}{subsection.3.2.1}%
+\contentsline {subsection}{\numberline {3.2.2}Fragment 1 (Vloeiend)}{19}{subsection.3.2.2}%
+\contentsline {paragraph}{Whisper (small)}{19}{subsection.3.2.2}%
+\contentsline {paragraph}{Whisper (medium)}{19}{subsection.3.2.2}%
+\contentsline {paragraph}{Google}{19}{subsection.3.2.2}%
+\contentsline {paragraph}{Azure}{19}{subsection.3.2.2}%
+\contentsline {subsection}{\numberline {3.2.3}Fragment 2 (Vloeiend)}{20}{subsection.3.2.3}%
+\contentsline {paragraph}{Whisper (small)}{20}{subsection.3.2.3}%
+\contentsline {paragraph}{Whisper (medium)}{20}{subsection.3.2.3}%
+\contentsline {paragraph}{Google}{20}{subsection.3.2.3}%
+\contentsline {paragraph}{Azure}{20}{subsection.3.2.3}%
+\contentsline {subsection}{\numberline {3.2.4}Fragment 3 (Lichte stotter)}{20}{subsection.3.2.4}%
+\contentsline {paragraph}{Whisper (small)}{20}{subsection.3.2.4}%
+\contentsline {paragraph}{Whisper (medium)}{21}{subsection.3.2.4}%
+\contentsline {paragraph}{Google}{21}{subsection.3.2.4}%
+\contentsline {paragraph}{Azure}{21}{subsection.3.2.4}%
+\contentsline {subsection}{\numberline {3.2.5}Fragment 4 (Zware stotter)}{21}{subsection.3.2.5}%
+\contentsline {paragraph}{Whisper (small)}{21}{subsection.3.2.5}%
+\contentsline {paragraph}{Whisper (medium)}{21}{subsection.3.2.5}%
+\contentsline {paragraph}{Google}{22}{subsection.3.2.5}%
+\contentsline {paragraph}{Azure}{22}{subsection.3.2.5}%
+\contentsline {subsection}{\numberline {3.2.6}Fragment 5 (Zware stotter)}{22}{subsection.3.2.6}%
+\contentsline {paragraph}{Whisper (small)}{22}{subsection.3.2.6}%
+\contentsline {paragraph}{Whisper (medium)}{22}{subsection.3.2.6}%
+\contentsline {paragraph}{Google}{23}{subsection.3.2.6}%
+\contentsline {paragraph}{Azure}{23}{subsection.3.2.6}%
+\contentsline {section}{\numberline {3.3}Proof of concept}{23}{section.3.3}%
+\contentsline {paragraph}{Installatie}{23}{section.3.3}%
+\contentsline {paragraph}{Gebruik}{24}{lstnumber.-2.1}%
+\contentsline {chapter}{\numberline {4}Resultaten}{26}{chapter.4}%
+\contentsline {chapter}{\numberline {5}Conclusie}{27}{chapter.5}%
+\contentsline {chapter}{\numberline {A}Onderzoeksvoorstel}{29}{appendix.A}%
+\contentsline {section}{\numberline {A.1}Introductie}{29}{section.A.1}%
+\contentsline {section}{\numberline {A.2}State-of-the-art}{30}{section.A.2}%
+\contentsline {section}{\numberline {A.3}Methodologie}{31}{section.A.3}%
+\contentsline {section}{\numberline {A.4}Verwacht resultaat, conclusie}{32}{section.A.4}%
+\contentsline {chapter}{Bibliografie}{35}{appendix*.12}%
 \contentsfinish 

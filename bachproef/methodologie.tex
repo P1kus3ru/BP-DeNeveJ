@@ -13,11 +13,11 @@
 
 %\lipsum[21-25]
 
-Dit onderzoek start met een literatuurstudie (\ref{chap:State of the art}). Vervolgens wordt er een requirementsanalyse gehouden waar gekeken wordt wat er van de oplossing verwacht wordt (\ref{sect:Requirements analysis}). Na de requirements vast te leggen zullen verschillende spraak naar tekst software (\ref{sect:Speech to text}) en taalverwerkingsmodellen (\ref{sect:Language models}) getest worden. Als laatste zal er een proof-of-concept opgesteld worden.
+Dit onderzoek start met een literatuurstudie (\ref{chap:State of the art}). Vervolgens wordt er een requirementsanalyse gehouden waar gekeken wordt wat er van de oplossing verwacht wordt (\ref{sect:Requirements analysis}). Na de requirements vast te leggen zullen verschillende spraak naar tekst software (\ref{sect:Speechrecognition}) en taalverwerkingsmodellen getest worden. Als laatste zal er een proof-of-concept opgesteld worden.
 
 \section{\IfLanguageName{dutch}{Requirementsanalyse}{Requirements analysis}} \label{sect:Requirements analysis}%
 
-De requirementsanalyse start met een opsomming van functionele en niet-functionele requirements. Vervolgens worden ze aan de hand van de MoSCoW methode gerangschikt op relevantie. Als laatste wordt er een use case opgesteld.
+De requirementsanalyse start met een opsomming van functionele en niet-functionele requirements door samen te zitten met iemand van het Zorglab. Vervolgens worden ze aan de hand van de MoSCoW methode gerangschikt op relevantie. Als laatste wordt er een use case opgesteld.
 
 \subsection{\IfLanguageName{dutch}{Functionele requirements}{Functional requirements}}
 
@@ -26,10 +26,8 @@ De requirementsanalyse start met een opsomming van functionele en niet-functione
     \item De applicatie moet in staat zijn om de gesproken woorden om te zetten in tekst, zodat deze kunnen worden opgeslagen en verwerkt.
     \item De applicatie moet in staat zijn om op basis van de gegenereerde tekst een volgend fragment te kiezen dat aansluit bij het onderwerp en de context van de tekst.
     \item De applicatie moet gebruik maken van AI-technieken om spraakherkenning en tekstgeneratie mogelijk te maken.
-    \item De applicatie moet gemakkelijk te gebruiken zijn voor de gebruiker, zonder dat deze technische kennis nodig heeft.
     \item De applicatie moet betrouwbaar zijn en weinig tot geen fouten maken bij het herkennen van spraak en genereren van tekst.
     \item  De applicatie moet in staat zijn om de opgeslagen tekst te doorzoeken op bepaalde trefwoorden of zinnen, om zo snel specifieke informatie te kunnen vinden.
-    \item De applicatie moet aanpasbaar zijn aan de specifieke wensen en behoeften van de gebruiker, zoals het leren herkennen van patronen in gebruikers met een spraakbeperking.
 \end{itemize}
 
 \subsection{\IfLanguageName{dutch}{Niet-functionele requirements}{Non-functional requirements}}
@@ -43,7 +41,7 @@ De requirementsanalyse start met een opsomming van functionele en niet-functione
         \hline
         Meetvoorschrift & De spraakherkenningssoftware moet een nauwkeurigheidsniveau van minimaal 95\% bereiken bij het herkennen en transcriberen van spraak binnen de eerste 6 maanden na de lancering.  \\
         \hline
-        Norm & De spraakherkenningssoftware moet zeer nauwkeurig zijn bij het herkennen en transcriberen van spraak, omdat eventuele fouten kunnen leiden tot onnauwkeurige resultaten en mogelijk onjuiste interpretaties. \\
+        Norm & De spraakherkenningssoftware moet nauwkeurig genoeg zijn bij het herkennen en transcriberen van spraak, omdat eventuele fouten kunnen leiden tot onnauwkeurige resultaten en mogelijk onjuiste interpretaties. \\
         \hline\hline
         NFR & Prestatie-efficïentie \\
         \hline
@@ -66,7 +64,7 @@ De requirementsanalyse start met een opsomming van functionele en niet-functione
 
 \subsection{\IfLanguageName{dutch}{MoSCoW}{MoSCoW}}%
 
-Aan de hand van de MoSCoW methode bepalen we het belang van verschillende functionaliteiten.
+Aan de hand van de MoSCoW methode wordt het belang van verschillende functionaliteiten bepaald.
 \begin{center}
     \begin{tabular}{ |p{2.5cm}|p{12cm}| }
         \hline
@@ -80,9 +78,7 @@ Aan de hand van de MoSCoW methode bepalen we het belang van verschillende functi
         \hline
         Should have & De applicatie moet in staat zijn om spraak te herkennen en te registreren hoelang en tot wanneer de gebruiker spreekt. \\
         \cline{2-2}
-        & De applicatie moet gemakkelijk te gebruiken zijn voor de gebruiker, zonder dat deze technische kennis nodig heeft. \\
-        \cline{2-2}
-        & De applicatie moet betrouwbaar zijn en weinig tot geen fouten maken bij het herkennen van spraak en genereren van tekst. \\
+        & De applicatie moet betrouwbaar zijn en weinig tot geen fouten maken bij het herkennen van spraak. \\
         \hline
         Could have & De applicatie moet aanpasbaar zijn aan de specifieke wensen en behoeften van de gebruiker, zoals het leren herkennen van patronen in gebruikers met een spraakbeperking. \\
         \cline{2-2}
@@ -91,11 +87,255 @@ Aan de hand van de MoSCoW methode bepalen we het belang van verschillende functi
     \end{tabular}
 \end{center}
 
-\subsection{\IfLanguageName{dutch}{Use Case}{Use case}}%
+\section{\IfLanguageName{dutch}{Spraakherkenning}{Speechrecognition}} \label{sect:Speechrecognition}%
+Als eerste wordt er gekeken naar de spraakherkenning. Voor deze te testen wordt er gebruik gemaakt van fragmenten van het Nederlandse YouTube kanaal 'StotterFonds' getest. Dit komt omdat door de algemene verordening gegevensbescherming (ook bekend onder de Engelse afkorting GDPR) er van audiofragmenten uit het zorglab jammer genoeg geen gebruik kan gemaakt worden. De woorden waar de spreker begint te stotteren staan in de fragmenten onderlijnd.
+
+Voor elk model zal het resultaat, de tijd en de Word Error Rate (WER) worden berekend. In de resultaten staan de fouten van de ASR gemarkeerd. Deze fouten bestaan uit vervangen, invoegen en verwijderen van woorden. Op basis van deze fouten en het totale aantal woorden kan de WER berekent worden.
+
+\begin{quote}
+    WER = (Vervangingen + Invoegingen + Verwijderingen) / Totaal aantal woorden
+\end{quote}
+
+\subsection{\IfLanguageName{dutch}{Short list}{Short list}}%
+Elk fragment zal door volgende modellen naar tekst worden omgezet:
+\begin{itemize}
+    \item \textbf{Whisper's small model}
+    \item \textbf{Whisper's medium model}
+    \item \textbf{Gratis Google Cloud Speech API}
+    \item \textbf{Microsoft Azure Speech Service}
+\end{itemize}
+Deze modellen zijn bedoeld voor het transcriberen van alledaags Nederlands.
+
+\subsection{\IfLanguageName{dutch}{Fragment 1 (Vloeiend)}{Fragment 1}}%
+'Hoi en wat leuk dat jullie kijken naar een nieuwe video. In deze video ga ik jullie iets vertellen over een moment waar ik in het dagelijks leven tegenaan loop wat betreft het stotteren.'
+
+\paragraph{Whisper (small)}
+\begin{itemize}
+    \item \textbf{Transcriptie:} 'Hoi en wat leuk dat jullie kijken naar een nieuwe video. In deze video \hl{gaat} jullie iets vertellen over \hl{het} moment waar ik in het \hl{dagje sleef} \hl{tegen aanloop}. Wat betreft het \hl{stoptere}?'
+    \item \textbf{Tijd:} 1.98s
+    \item \textbf{WER:} 23.52\% =(7+0+1)/34
+\end{itemize}
+
+\paragraph{Whisper (medium)}
+\begin{itemize}
+    \item \textbf{Transcriptie:} 'Hoi! En wat leuk dat \hl{je kijkt} naar een nieuwe video. In deze video ga ik jullie iets vertellen over een moment waar ik in het dagelijks leven \hl{tegen aanloop} wat betreft het stotteren.'
+    \item \textbf{Tijd:} 7.98s
+    \item \textbf{WER:} 11.76\% =(4+0+0)/34
+\end{itemize}
+
+\paragraph{Google}
+\begin{itemize}
+    \item \textbf{Transcriptie:} Hoi en wat leuk dat \hl{je weer kijkt} naar een nieuwe video in deze video ga ik jullie iets vertellen over een moment waar ik in het dagelijks leven \hl{tegen aanloop} wat betreft het stotteren
+    \item \textbf{Tijd:} 4.21s
+    \item \textbf{WER:} 14.71\% =(4+1+0)/34
+\end{itemize}
+
+\paragraph{Azure}
+\begin{itemize}
+\item \textbf{Transcriptie:} 'Hoi en wat \hl{lijken }jullie \hl{kijkt} naar nieuwe video in deze video ga ik jullie iets vertellen \hl{overal }moment waar ik In het dagelijks leven tegenaan loop wat betreft het stotteren.'
+\item \textbf{Tijd:} 3.25s
+\item \textbf{WER:} 14.71\% =(3+0+2)/34
+\end{itemize}
+
+\subsection{\IfLanguageName{dutch}{Fragment 2 (Vloeiend)}{Fragment 2}}%
+'Ik was toevallig, van de zomer, was ik op een festival en ik wilde gewoon graag een broodje kroket, want dat vind ik gewoon super lekker.'
+
+\paragraph{Whisper (small)}
+\begin{itemize}
+    \item \textbf{Transcriptie:} '\hl{Het} was \hl{een vallig} van\hl{ zomaar} was ik op een festival en ik \hl{wil} gewoon\hl{ }een \hl{beetje croquet}, want dat vind ik gewoon super lekker.'
+    \item \textbf{Tijd:} 0.98s
+    \item \textbf{WER:} 34.61\% =(6+1+2)/26
+\end{itemize}
+
+\paragraph{Whisper (medium)}
+\begin{itemize}
+    \item \textbf{Transcriptie:} 'Ik was toevallig van\hl{ }zomer op een festival en ik wilde gewoon\hl{ }een \hl{beetje} kroket, want dat vind ik gewoon super lekker.'
+    \item \textbf{Tijd:} 3.64s
+    \item \textbf{WER:} 11.53\% =(1+0+2)/26
+\end{itemize}
+
+\paragraph{Google}
+\begin{itemize}
+\item \textbf{Transcriptie:}\hl{ }van de zomer was ik op een festival en ik wilde gewoon graag een broodje kroket want dat vind ik gewoon super lekker
+\item \textbf{Tijd:} 4.07s
+\item \textbf{WER:} 3.85\% =(0+0+1)/26
+\end{itemize}
+
+\paragraph{Azure}
+\begin{itemize}
+\item \textbf{Transcriptie:} 'Ik was toevallig van de zomer was ik op een festival en Ik wilde gewoon graag een broodje kroket, want dat vind ik gewoon super lekker.'
+\item \textbf{Tijd:} 1.48s
+\item \textbf{WER:} 0\% =(0+0+0)/26
+\end{itemize}
+
+\subsection{\IfLanguageName{dutch}{Fragment 3 (Lichte stotter)}{Fragment 3}}%
+'\underline{Als} iemand aan mij ineens iets vraagt zeg maar en ik ben er niet op voorbereid, dan heb ik ineens. Dan \underline{sloeg} ik dicht vaak en dan \underline{liep} ik zomaar eens de klas uit.'
+
+\paragraph{Whisper (small)}
+\begin{itemize}
+    \item \textbf{Transcriptie:} 'Als iemand\hl{ }ineens iets vraagt waar ik niet op voorbereid ben, dan heb ik ineens \hl{zo'n slug} ik dicht vaak en dan liep ik \hl{zo meisje} de klas uit.'
+    \item \textbf{Tijd:} 1.21s
+    \item \textbf{WER:} 17.64\% =(4+0+2)/34
+\end{itemize}
+
+\paragraph{Whisper (medium)}
+\begin{itemize}
+    \item \textbf{Transcriptie:} 'Als iemand ineens iets vraagt en ik ben er niet op voorbereid, dan \hl{zoek} ik dicht vaak en dan liep ik zo maar eens de klas uit.'
+    \item \textbf{Tijd:} 3.81s
+    \item \textbf{WER:} 2.94\% =(1+0+0)/34
+\end{itemize}
+
+\paragraph{Google}
+\begin{itemize}
+\item \textbf{Transcriptie:} '\hl{ }ineens iets vraagt zeg maar en ik ben er niet op voorbereid dan \hl{dan} heb ik ineens\hl{ }sloeg ik dicht vaak en dan liep ik zo maar eens de \hl{ }'
+\item \textbf{Tijd:} 6.60s
+\item \textbf{WER:} 17.64\% =(0+1+5)/34
+\end{itemize}
+
+\paragraph{Azure}
+\begin{itemize}
+\item \textbf{Transcriptie:} '\hl{Zoals als}, als iemand aan mij ineens iets vraagt, zeg maar, en Ik ben er niet op voorbereid \hl{dan}. Dan heb ik ineens. \hl{Zo} sloeg ik dicht vaak en dan liep ik zo maar eens de klas uit.'
+\item \textbf{Tijd:} 2.43s
+\item \textbf{WER:} 11.76\% =(1+3+0)/34
+\end{itemize}
+
+\subsection{\IfLanguageName{dutch}{Fragment 4 (Zware stotter)}{Fragment 4}}%
+'Ik heb eerst \underline{op logopedie} gezeten. Maar ja, dat vond ik een beetje stom worden zo. Dus ik ben er \underline{vanaf} gegaan. En toen ben ik vorig jaar, begin van de zomer, ben ik naar Ilanda gegaan. En nu zit ik ruim een jaar op therapie daar.'
+
+\paragraph{Whisper (small)}
+\begin{itemize}
+    \item \textbf{Transcriptie:} 'Ik heb eerst op een \hl{logo paddie} gezeten. Maar ja, dat vond ik een beetje stom worden zo. Dus ik ben\hl{ }gewoon\hl{ afgegaan}. En toen ben ik vorig jaar, begin van de zomer, ben ik naar \hl{die landaar} gegaan. En nu zit ik ruim een jaar op \hl{terapie}.'
+    \item \textbf{Tijd:} 2.61s
+    \item \textbf{WER:} 12.76\% =(4+0+2)/47
+\end{itemize}
+
+\paragraph{Whisper (medium)}
+\begin{itemize}
+    \item \textbf{Transcriptie:} 'Ik heb eerst op \hl{Logo.de} gezeten. Maar ja, dat vond ik een beetje stom worden. Dus ben ik\hl{ }gewoon\hl{ afgegaan}. En toen ben ik vorig jaar, begin van de zomer, ben ik naar \hl{Rilanda} gegaan. En nu zit ik ruim een jaar op therapie.'
+    \item \textbf{Tijd:} 8.21s
+    \item \textbf{WER:} 10.63\% =(3+0+2)/47
+\end{itemize}
+
+\paragraph{Google}
+\begin{itemize}
+\item \textbf{Transcriptie:} 'Ik heb eerst op \hl{op} logopedie gezeten maar ja dat vond ik een beetje stom worden \hl{enzo} dus ben ik\hl{ }vanaf gegaan en toen ben ik vorig jaar \hl{zomer} begin van de zomer ben ik naar \hl{Jolanda} gegaan en nu \hl{en nu} zit ik ruim een jaar op \hl{therapieën}'
+\item \textbf{Tijd:} 15.14s
+\item \textbf{WER:} 19.14\% =(3+4+2)/47
+\end{itemize}
+
+\paragraph{Azure}
+\begin{itemize}
+\item \textbf{Transcriptie:} 'Ik heb eerst op \hl{op}. \hl{Hallo logo die} gezeten? Maar ja, dat vond ik een beetje stom worden zo, dus ben ik \hl{een van}. Gewoon\hl{ afgegaan}, en toen ben ik voor vorig jaar \hl{zomer} het begin van de zomer. Ben ik naar \hl{die landen} gegaan? \hl{En nu het} en nu zit ik \hl{die} ruim een jaar\hl{. }Therapie daar.'
+\item \textbf{Tijd:} 5.91s
+\item \textbf{WER:} 29.78\% =(4+8+2)/47
+\end{itemize}
+
+\subsection{\IfLanguageName{dutch}{Fragment 5 (Zware stotter)}{Fragment 5}}%
+'Soms wil je \underline{het grapje} maken, weet je, maar als je stottert dan komt het een beetje vaag over. Dus ja, dan denk je: 'Oh, laat maar zitten.' Of met dan vrienden wil je wat zeggen, dat duurt zo lang en dan denk je: 'Ik zeg het maar niet meer.' Dat is \underline{soms} wel jammer dat je \underline{dingen} niet zegt vanwege je stotteren.'
+
+\paragraph{Whisper (small)}
+\begin{itemize}
+    \item \textbf{Transcriptie:} 'Soms wil je het grapje maken, maar als je stottert dan komt het\hl{ vaak} over. Dus\hl{ ik} denk \hl{al} laat \hl{me} zitten. Of met vrienden wil je wat zeggen, dat \hl{doet} zo lang\hl{ }. Ik zeg het maar niet meer. Dat is \hl{zo} jammer dat je dingen niet zegt vanwege je stotteren.'
+    \item \textbf{Tijd:} 2.72s
+    \item \textbf{WER:} 20.63\% =(6+0+7)/63
+\end{itemize}
+
+\paragraph{Whisper (medium)}
+\begin{itemize}
+    \item \textbf{Transcriptie:} 'Soms wil je het grapje maken, maar als je stottert\hl{ }komt het een beetje vaag over \hl{de zand}. Dan denk \hl{ik}, nou laat maar zitten. Of met vrienden wil je wat zeggen, dat duurt zo lang. Dan denk je, ik zeg het maar niet\hl{ }. \hl{Maar ja,} dat is soms wel jammer. Dat je dingen niet zegt vanwege je stotteren.'
+    \item \textbf{Tijd:} 9.57s
+    \item \textbf{WER:} 11.11\% =(1+4+2)/63
+\end{itemize}
+
+\paragraph{Google}
+\begin{itemize}
+    \item \textbf{Transcriptie:} 'soms \hl{dan} Wil je het grapje maken\hl{ }als je \hl{stopt} en dan komt het een beetje vaag over Dus ja dan denk \hl{ik} oh laat maar zitten of met vrienden dan Wil je wat zeggen maar dat duurt zo lang en dan denk je oh ik zeg maar niet meer dat is soms wel jammer dat je dingen niet zegt vanwege je stotteren'
+    \item \textbf{Tijd:} 19.02s
+    \item \textbf{WER:} 6.34\% =(2+1+1)/63
+\end{itemize}
+
+\paragraph{Azure}
+\begin{itemize}
+\item \textbf{Transcriptie:} 'Soms, \hl{dan} wil je \hl{het wel op de} het \hl{de} grapje maken, weet je, maar Als je \hl{stopt en} dan komt dat een beetje vaag over. Dus ja, dan denk je nou laat maar zitten. Of met vrienden, dan wil je wat zeggen. Nou dat \hl{doet ze al} lang en dan denk je, oh, ik zeg het maar niet\hl{, maar ja,} Dat is \hl{zo zo. Zo is} wel jammer dat je die dingen niet zegt vanwege je stotteren.'
+\item \textbf{Tijd:} 6.07s
+\item \textbf{WER:} 23.80\% =(4+11+0)/63
+\end{itemize}
 
 
+%\subsection{\IfLanguageName{dutch}{Fragment }{Fragment }}%
+%
+%\paragraph{Whisper (small)}
+%\begin{itemize}
+%    \item \textbf{Transcriptie:}
+%    \item \textbf{Tijd:}
+%\end{itemize}
+%
+%\paragraph{Whisper (medium)}
+%\begin{itemize}
+%    \item \textbf{Transcriptie:}
+%    \item \textbf{Tijd:}
+%\end{itemize}
+%
+%\paragraph{Goolgle}
+%\begin{itemize}
+%    \item \textbf{Transcriptie:}
+%    \item \textbf{Tijd:}
+%\end{itemize}
+%
+%\paragraph{Azure}
+%\begin{itemize}
+%    \item \textbf{Transcriptie:}
+%    \item \textbf{Tijd:}
+%\end{itemize}
 
 
-\section{\IfLanguageName{dutch}{Proof-of-concept}{Proof-of-concept}} \label{sect:Proof-of-concept}%
+\section{\IfLanguageName{dutch}{Proof of concept}{Proof of concept}} \label{sect:Proof-of-concept}%
 
-dfsdfsd
+Als proof of concept wordt een python applicatie gemaakt. Deze applicatie biedt volgende functionaliteiten:
+\begin{itemize}
+    \item Het opnemen van de microfoon
+    \item Het transcriberen van audiofragmenten
+\end{itemize}
+
+\paragraph{Installatie}
+Voor dat de applicatie kan gebruikt worden moet er eerst aan een aantal dingen in orde gebracht worden. Eerst en vooral moet Python geïnstalleerd zijn. De applicatie is geschreven in versie 3.11.4. Nadat python in orde is kan je de applicatie klonen van Github met dit commando:
+
+\begin{lstlisting}[language=bash]
+    git clone https://github.com/P1kus3ru/ZorglAIb.git
+\end{lstlisting}
+
+Wanneer de applicatie is gedownload kunnen de afhankelijkheden geïnstalleerd worden. Open hiervoor een Command Prompt in de gedownloade map. Het pad zou moeten eindigen in '\textbackslash{}ZorglAIb>'. Vervolgens kan met pip alle nodige pakketten geïnstalleerd worden:
+
+ \begin{lstlisting}[language=bash]
+     pip install -r requirements.txt
+ \end{lstlisting}
+
+ Om Whisper te gebruiken moet Docker Compose\footnote{\href{https://docs.docker.com/desktop/install/windows-install/}{https://docs.docker.com/desktop/install/windows-install/}} op het toestel worden geïnstalleerd. Dit is niet nodig voor de modellen die online draaien zoals Google en Azure. Deze hebben een geldige API key nodig.
+
+ Nadat de afhankelijkheden geïnstalleerd zijn moeten de environment variabelen opgesteld worden. Maak hiervoor een nieuw bestand aan in de 'src' folder en noem het '.env'. Daarna kan de inhoud van het bestand genaamd '.env.sample' worden gekopieerd naar het nieuwe '.env' bestand.
+
+ \begin{itemize}
+     \item \textbf{LOGGING:} Als dit op 'True' staat wordt er extra debugging informatie weergegeven in de console.
+     \item \textbf{WHISPER\_BASE\_URL:} Dit is de poort waar Whisper kan bereikt worden.
+     \item \textbf{TARGET\_LANGUAGE:} De taal waarin er wordt gesproken.
+     \item \textbf{REQUEST\_TIMEOUT:} De tijd die de applicatie wacht op een antwoord anders geeft het een foutmelding.
+     \item \textbf{MIC\_RECORD\_KEY:} De toets waarop geduwd moet worden om de microfoon op te nemen.
+     \item \textbf{MICROPHONE\_ID:} De id van het gewenste invoerapparaat.
+\end{itemize}
+
+De inhoud van het '.env.sample' kan behouden blijven behalve de variabele van de microfoon. Deze kun je vinden door het Python script 'get\_audio\_device\_ids.py', dat zich bevind in 'src/modules', uit te voeren. Van de lijst die tevoorschijn komt kan dan het cijfer van het gewenste invoerapparaat aan de variabele worden meegegeven. Wanneer al het voorgaande in orde is gebracht is de applicatie klaar om gebruikt te worden.
+
+\paragraph{Gebruik}
+Voor dat je de applicatie start, moet eerst Whisper klaargezet worden. Hiervoor moet in de 'ZorglAIb' folder dit commando uitgevoerd worden:
+
+\begin{lstlisting}[language=bash]
+    docker-compose up -d
+\end{lstlisting}
+
+Daarna kan de applicatie worden uitgevoerd door het bestand 'voice\_transcriber.py' uit te voeren. Als eerste zal het de gebruiker vragen met welk model het de audiofragmenten wil omzetten naar tekst. Momenteel zijn er drie mogelijkheden om van te kiezen: Whisper, Google en Azure. Vervolgens kan de gebruiker aan de hand van de gekozen toets op het toetsenbord iets inspreken. Daarna zal de applicatie dit via het gekozen model transcriberen en het resultaat samen met de duur weergeven in de console. De bedoeling was om vervolgens de resulterende tekst door te geven aan een NLC die dan een gepast fragment zoekt om op verder te werken. Dit laatste deel is niet binnen het termijn in gelukt.
+
+Om alles weer af te sluiten kan in de Command Promt waarin het bestand draait de toetsen 'Ctrl+C' gedrukt worden. Dit stopt het Python bestand. Daarna kan ook Whisper gestopt worden door in de 'ZorglAIb' folder dit commando uit te voeren:
+
+\begin{lstlisting}[language=bash]
+    docker-compose down
+\end{lstlisting}

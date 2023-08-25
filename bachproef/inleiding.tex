@@ -11,7 +11,7 @@ De Hogeschool van Gent maakt ook gebruik van VR om studenten de kans te geven in
 
 Dit is waar er op het probleem wordt gestoten. Aangezien de tweede methode werkt met een opname moet er naar verschillende fragmenten gesprongen worden naargelang het antwoord dat de gebruiker ingeeft. Dit wordt handmatig gedaan door een begeleider. Hierdoor staat de oefening tijdelijk stil wat de echtheid van de situatie weghaalt. Daarom wordt in deze bachelorproef toegepaste informatica onderzocht hoe het overschakelen anders kan aangepakt worden zodat het voor de gebruiker realistischer aanvoelt. Hiervoor kijken we richting Artificiële Intelligentie (AI).
 
-Het afgelopen jaar is de populariteit van AI enorm gestegen. Met text-to-image models zoals DALL-E 2, Imagen en Stable diffusion die een gegeven tekst prompt kunnen omzetten in afbeeldingen,
+Het afgelopen jaar is de populariteit van AI enorm gestegen. Van text-to-image models zoals DALL-E 2, Imagen en Stable diffusion die een gegeven tekst prompt kunnen omzetten in afbeeldingen tot voice-models die stemmen kunnen imiteren, zo goed als iedereen heeft al gehoord van AI. Meestal is het jammer genoeg het negatieve aan AI dat de ronde doet zoals het verspreiden van misinformatie aan de hand van deepfakes of het schenden van auteursrechten maar afgezien dat heeft het veel mogelijk heden om de mensheid te helpen.
 
 
 %De inleiding moet de lezer net genoeg informatie verschaffen om het onderwerp te begrijpen en in te zien waarom de onderzoeksvraag de moeite waard is om te onderzoeken. In de inleiding ga je literatuurverwijzingen beperken, zodat de tekst vlot leesbaar blijft. Je kan de inleiding verder onderverdelen in secties als dit de tekst verduidelijkt. Zaken die aan bod kunnen komen in de inleiding~\autocite{Pollefliet2011}:
@@ -36,10 +36,11 @@ Wanneer de stotterpatiënt antwoordt op de gestelde vraag wordt er niet automati
 \section{\IfLanguageName{dutch}{Onderzoeksvraag}{Research question}}%
 \label{sec:onderzoeksvraag}
 
-Om dit probleem te verhelpen wordt hiervoor gekeken hoe AI ons kan te hulp schieten om stotterpatiënten een meer interactieve ervaring geven. Om dit te realiseren zullen de volgende vragen beantwoord worden:
+Om dit probleem te verhelpen wordt hiervoor gekeken hoe AI te hulp kan schieten om stotterpatiënten een meer interactieve ervaring geven. Om dit te realiseren zullen de volgende vragen beantwoord worden:
 \begin{itemize}
     \item Hoe gaat de applicatie registreren wat er werd gezegd?
-    \item Wat kan er mis lopen bij het registreren van spraak?
+    \item Wat kan er mislopen bij het registreren van spraak?
+    \item Welke aspecten van stotteren hebben effect op de spraakherkenning?
     \item Hoe kiest de applicatie een volgend fragment op basis van de gegenereerde tekst?
 \end{itemize}
 
@@ -48,7 +49,7 @@ Om dit probleem te verhelpen wordt hiervoor gekeken hoe AI ons kan te hulp schie
 \section{\IfLanguageName{dutch}{Onderzoeksdoelstelling}{Research objective}}%
 \label{sec:onderzoeksdoelstelling}
 
-In deze bachelorproef word een proof of concept opgesteld om te kijken hoe zo een AI-applicatie te werk zou kunnen gaan. De bedoeling van deze applicatie is eerst en vooral registreert wanneer de gebruiker aan het antwoorden is. Vervolgens transcribeert het wat er gezegd wordt. Als laatste gaat het op basis van de context een gepast fragment zoeken om verder mee te gaan.
+In deze bachelorproef wordt een proof of concept opgesteld om te kijken hoe zo een AI-applicatie te werk zou kunnen gaan. De bedoeling van deze applicatie is eerst en vooral het registreren wanneer de gebruiker aan het antwoorden is. Vervolgens transcribeert het wat er gezegd wordt. Als laatste gaat het op basis van de context een gepast fragment zoeken om verder mee te gaan.
 
 %Wat is het beoogde resultaat van je bachelorproef? Wat zijn de criteria voor succes? Beschrijf die zo concreet mogelijk. Gaat het bv.\ om een proof-of-concept, een prototype, een verslag met aanbevelingen, een vergelijkende studie, enz.
 
@@ -65,6 +66,7 @@ In Hoofdstuk~\ref{ch:stand-van-zaken} wordt een overzicht gegeven van de stand v
 
 In Hoofdstuk~\ref{ch:methodologie} wordt de methodologie toegelicht en worden de gebruikte onderzoekstechnieken besproken om een antwoord te kunnen formuleren op de onderzoeksvragen.
 
-% TODO: Vul hier aan voor je eigen hoofstukken, één of twee zinnen per hoofdstuk
+% TODO: Vul hier aan voor je eigen hoofdstukken, één of twee zinnen per hoofdstuk
+In Hoofdstuk~\ref{ch:resultaten} worden de resultaten besproken.
 
 In Hoofdstuk~\ref{ch:conclusie}, tenslotte, wordt de conclusie gegeven en een antwoord geformuleerd op de onderzoeksvragen. Daarbij wordt ook een aanzet gegeven voor toekomstig onderzoek binnen dit domein.

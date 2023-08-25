@@ -1,19 +1,20 @@
-This is XeTeX, Version 3.141592653-2.6-0.999994 (MiKTeX 23.1) (preloaded format=xelatex 2023.3.6)  1 AUG 2023 15:08
+This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 23.5) (preloaded format=xelatex 2023.8.8)  25 AUG 2023 02:40
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
 **./DeNeveJonaBP.tex
 (DeNeveJonaBP.tex
-LaTeX2e <2022-11-01> patch level 1
-L3 programming layer <2023-02-02> (hogentreport.cls
+LaTeX2e <2023-06-01> patch level 1
+L3 programming layer <2023-06-30>
+(hogentreport.cls
 Document Class: hogentreport 2022/06/20 Hogeschool Gent report/thesis class
 (C:\Program Files\MiKTeX\tex/latex/xkeyval\xkeyval.sty
 Package: xkeyval 2022/06/16 v2.9 package option processing (HA)
 
 (C:\Program Files\MiKTeX\tex/generic/xkeyval\xkeyval.tex
 (C:\Program Files\MiKTeX\tex/generic/xkeyval\xkvutils.tex
-\XKV@toks=\toks16
-\XKV@tempa@toks=\toks17
+\XKV@toks=\toks17
+\XKV@tempa@toks=\toks18
 
 (C:\Program Files\MiKTeX\tex/generic/xkeyval\keyval.tex))
 \XKV@depth=\count181
@@ -42,9 +43,9 @@ Package pdftexcmds Info: \pdfdraftmode not found.
 Package iflang Info: Naming convention for patterns: babel.
 )
 (C:\Program Files\MiKTeX\tex/latex/base\book.cls
-Document Class: book 2022/07/02 v1.4n Standard LaTeX document class
+Document Class: book 2023/05/17 v1.4n Standard LaTeX document class
 (C:\Program Files\MiKTeX\tex/latex/base\bk11.clo
-File: bk11.clo 2022/07/02 v1.4n Standard LaTeX file (size option)
+File: bk11.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
 )
 \c@part=\count182
 \c@chapter=\count183
@@ -60,7 +61,7 @@ File: bk11.clo 2022/07/02 v1.4n Standard LaTeX file (size option)
 \bibindent=\dimen140
 )
 (C:\Program Files\MiKTeX\tex/generic/babel\babel.sty
-Package: babel 2022/01/23 3.85 The Babel package
+Package: babel 2023/07/15 v3.92 The Babel package
 \babel@savecnt=\count191
 \U@D=\dimen141
 \l@unhyphenated=\language79
@@ -85,7 +86,7 @@ Package babel Info: Importing font and identification data for dutch
 (babel)             from babel-nl.ini. Reported on input line 11.
 )
 (C:\Program Files\MiKTeX\tex/latex/biblatex\biblatex.sty
-Package: biblatex 2022/07/12 v3.18b programmable bibliographies (PK/MW)
+Package: biblatex 2023/03/05 v3.19 programmable bibliographies (PK/MW)
 
 (C:\Program Files\MiKTeX\tex/latex/etoolbox\etoolbox.sty
 Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
@@ -172,7 +173,7 @@ Package biblatex Info: Trying to load biblatex default data model...
 Package biblatex Info: ... file 'blx-dm.def' found.
 
 (C:\Program Files\MiKTeX\tex/latex/biblatex\blx-dm.def
-File: blx-dm.def 2022/07/12 v3.18b biblatex localization (PK/MW)
+File: blx-dm.def 2023/03/05 v3.19 biblatex localization (PK/MW)
 )
 Package biblatex Info: Trying to load biblatex style data model...
 Package biblatex Info: ... file 'apa.dbx' found.
@@ -282,13 +283,13 @@ Package biblatex Info: Trying to load compatibility code...
 Package biblatex Info: ... file 'blx-compat.def' found.
 
 (C:\Program Files\MiKTeX\tex/latex/biblatex\blx-compat.def
-File: blx-compat.def 2022/07/12 v3.18b biblatex compatibility (PK/MW)
+File: blx-compat.def 2023/03/05 v3.19 biblatex compatibility (PK/MW)
 )
 Package biblatex Info: Trying to load generic definitions...
 Package biblatex Info: ... file 'biblatex.def' found.
 
 (C:\Program Files\MiKTeX\tex/latex/biblatex\biblatex.def
-File: biblatex.def 2022/07/12 v3.18b biblatex compatibility (PK/MW)
+File: biblatex.def 2023/03/05 v3.19 biblatex compatibility (PK/MW)
 \c@textcitecount=\count385
 \c@textcitetotal=\count386
 \c@textcitemaxnames=\count387
@@ -307,7 +308,7 @@ Package biblatex Info: Trying to load natbib compatibility...
 Package biblatex Info: ... file 'blx-natbib.def' found.
 
 (C:\Program Files\MiKTeX\tex/latex/biblatex\blx-natbib.def
-File: blx-natbib.def 2022/07/12 v3.18b biblatex compatibility (PK/MW)
+File: blx-natbib.def 2023/03/05 v3.19 biblatex compatibility (PK/MW)
 Package biblatex Info: Delimiter 'nameyeardelim' in context '' already defined,
  overwriting.
 )
@@ -320,7 +321,7 @@ Package biblatex Info: Trying to load bibliography style 'standard'...
 Package biblatex Info: ... file 'standard.bbx' found.
 
 (C:\Program Files\MiKTeX\tex/latex/biblatex/bbx\standard.bbx
-File: standard.bbx 2022/07/12 v3.18b biblatex bibliography style (PK/MW)
+File: standard.bbx 2023/03/05 v3.19 biblatex bibliography style (PK/MW)
 \c@bbx:relatedcount=\count394
 \c@bbx:relatedtotal=\count395
 )
@@ -369,10 +370,10 @@ Package biblatex Info: XeTeX detected.
 Package biblatex Info: Document encoding is UTF8 ....
 
 (C:\Program Files\MiKTeX\tex/latex/l3kernel\expl3.sty
-Package: expl3 2023-02-02 L3 programming layer (loader) 
+Package: expl3 2023-06-30 L3 programming layer (loader) 
 
 (C:\Program Files\MiKTeX\tex/latex/l3backend\l3backend-xetex.def
-File: l3backend-xetex.def 2023-01-16 L3 backend support: XeTeX
+File: l3backend-xetex.def 2023-04-19 L3 backend support: XeTeX
 \g__graphics_track_int=\count396
 \l__pdf_internal_box=\box51
 \g__pdf_backend_object_int=\count397
@@ -380,16 +381,15 @@ File: l3backend-xetex.def 2023-01-16 L3 backend support: XeTeX
 \g__pdf_backend_link_int=\count399
 ))
 Package biblatex Info: ... and expl3
-(biblatex)             2023-02-02 L3 programming layer (loader) 
+(biblatex)             2023-06-30 L3 programming layer (loader) 
 (biblatex)             is new enough (at least 2020/04/06),
 (biblatex)             setting 'casechanger=expl3'.
 
 (C:\Program Files\MiKTeX\tex/latex/biblatex\blx-case-expl3.sty
 (C:\Program Files\MiKTeX\tex/latex/l3packages/xparse\xparse.sty
-Package: xparse 2023-01-16 L3 Experimental document command parser
+Package: xparse 2023-02-02 L3 Experimental document command parser
 )
-Package: blx-case-expl3 2022/07/12 v3.18b expl3 case changing code for biblatex
-
+Package: blx-case-expl3 2023/03/05 v3.19 expl3 case changing code for biblatex
 ))
 (C:\Users\jonad\AppData\Roaming\MiKTeX\tex/latex/csquotes\csquotes.sty
 Package: csquotes 2022-09-14 v5.2n context-sensitive quotations (JAW)
@@ -399,7 +399,7 @@ Package: csquotes 2022-09-14 v5.2n context-sensitive quotations (JAW)
 \csq@qlevel=\count403
 \csq@maxlvl=\count404
 \csq@tshold=\count405
-\csq@ltx@everypar=\toks18
+\csq@ltx@everypar=\toks19
 
 (C:\Users\jonad\AppData\Roaming\MiKTeX\tex/latex/csquotes\csquotes.def
 File: csquotes.def 2022-09-14 v5.2n csquotes generic definitions (JAW)
@@ -430,7 +430,7 @@ Package caption Info: Standard document class detected.
 )
 (C:\Users\jonad\AppData\Roaming\MiKTeX\tex/latex/footmisc\footmisc.sty
 Package: footmisc 2022/03/08 v6.0d a miscellany of footnote facilities
-\FN@temptoken=\toks19
+\FN@temptoken=\toks20
 \footnotemargin=\dimen150
 \@outputbox@depth=\dimen151
 Package footmisc Info: Declaring symbol style bringhurst on input line 695.
@@ -468,7 +468,7 @@ Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 \Gm@layoutheight=\dimen157
 \Gm@layouthoffset=\dimen158
 \Gm@layoutvoffset=\dimen159
-\Gm@dimlist=\toks20
+\Gm@dimlist=\toks21
 
 (C:\Users\jonad\AppData\Roaming\MiKTeX\tex/latex/geometry\geometry.cfg))
 (C:\Program Files\MiKTeX\tex/latex/graphics\graphicx.sty
@@ -492,7 +492,7 @@ File: xetex.def 2022/09/22 v5.0n Graphics/color driver for xetex
 \Gin@req@width=\dimen161
 )
 (C:\Program Files\MiKTeX\tex/latex/hyperref\hyperref.sty
-Package: hyperref 2022-11-13 v7.00u Hypertext links for LaTeX
+Package: hyperref 2023-07-08 v7.01b Hypertext links for LaTeX
 
 (C:\Users\jonad\AppData\Roaming\MiKTeX\tex/generic/kvdefinekeys\kvdefinekeys.st
 y
@@ -510,7 +510,7 @@ Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
 Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
 )
 (C:\Program Files\MiKTeX\tex/latex/hyperref\nameref.sty
-Package: nameref 2022-05-17 v2.50 Cross-referencing by name of section
+Package: nameref 2023-08-07 v2.53 Cross-referencing by name of section
 
 (C:\Users\jonad\AppData\Roaming\MiKTeX\tex/latex/refcount\refcount.sty
 Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
@@ -525,30 +525,27 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 \Hy@linkcounter=\count412
 \Hy@pagecounter=\count413
  (C:\Program Files\MiKTeX\tex/latex/hyperref\pd1enc.def
-File: pd1enc.def 2022-11-13 v7.00u Hyperref: PDFDocEncoding definition (HO)
+File: pd1enc.def 2023-07-08 v7.01b Hyperref: PDFDocEncoding definition (HO)
 )
 (C:\Users\jonad\AppData\Roaming\MiKTeX\tex/generic/intcalc\intcalc.sty
 Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
 )
-(C:\Users\jonad\AppData\Roaming\MiKTeX\tex/generic/etexcmds\etexcmds.sty
-Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
-)
 \Hy@SavedSpaceFactor=\count414
 
 (C:\Program Files\MiKTeX\tex/latex/hyperref\puenc.def
-File: puenc.def 2022-11-13 v7.00u Hyperref: PDF Unicode definition (HO)
+File: puenc.def 2023-07-08 v7.01b Hyperref: PDF Unicode definition (HO)
 )
-Package hyperref Info: Option `plainpages' set `false' on input line 4045.
-Package hyperref Info: Option `breaklinks' set `true' on input line 4045.
-Package hyperref Info: Hyper figures OFF on input line 4162.
-Package hyperref Info: Link nesting OFF on input line 4167.
-Package hyperref Info: Hyper index ON on input line 4170.
-Package hyperref Info: Plain pages OFF on input line 4177.
-Package hyperref Info: Backreferencing OFF on input line 4182.
+Package hyperref Info: Option `plainpages' set `false' on input line 4050.
+Package hyperref Info: Option `breaklinks' set `true' on input line 4050.
+Package hyperref Info: Hyper figures OFF on input line 4167.
+Package hyperref Info: Link nesting OFF on input line 4172.
+Package hyperref Info: Hyper index ON on input line 4175.
+Package hyperref Info: Plain pages OFF on input line 4182.
+Package hyperref Info: Backreferencing OFF on input line 4187.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
-Package hyperref Info: Bookmarks ON on input line 4410.
+Package hyperref Info: Bookmarks ON on input line 4434.
 \c@Hy@tempcnt=\count415
-LaTeX Info: Redefining \url on input line 4748.
+LaTeX Info: Redefining \url on input line 4772.
 \XeTeXLinkMargin=\dimen163
 
 (C:\Users\jonad\AppData\Roaming\MiKTeX\tex/generic/bitset\bitset.sty
@@ -561,13 +558,13 @@ Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
 \Fld@menulength=\count416
 \Field@Width=\dimen164
 \Fld@charsize=\dimen165
-Package hyperref Info: Hyper figures OFF on input line 6027.
-Package hyperref Info: Link nesting OFF on input line 6032.
-Package hyperref Info: Hyper index ON on input line 6035.
-Package hyperref Info: backreferencing OFF on input line 6042.
-Package hyperref Info: Link coloring OFF on input line 6047.
-Package hyperref Info: Link coloring with OCG OFF on input line 6052.
-Package hyperref Info: PDF/A mode OFF on input line 6057.
+Package hyperref Info: Hyper figures OFF on input line 6051.
+Package hyperref Info: Link nesting OFF on input line 6056.
+Package hyperref Info: Hyper index ON on input line 6059.
+Package hyperref Info: backreferencing OFF on input line 6066.
+Package hyperref Info: Link coloring OFF on input line 6071.
+Package hyperref Info: Link coloring with OCG OFF on input line 6076.
+Package hyperref Info: PDF/A mode OFF on input line 6081.
 
 (C:\Program Files\MiKTeX\tex/latex/base\atbegshi-ltx.sty
 Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
@@ -580,7 +577,7 @@ package with kernel methods
 Package hyperref Info: Driver: hxetex.
 
 (C:\Program Files\MiKTeX\tex/latex/hyperref\hxetex.def
-File: hxetex.def 2022-11-13 v7.00u Hyperref driver for XeTeX
+File: hxetex.def 2023-07-08 v7.01b Hyperref driver for XeTeX
 
 (C:\Users\jonad\AppData\Roaming\MiKTeX\tex/generic/stringenc\stringenc.sty
 Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO
@@ -641,7 +638,7 @@ x.sty
 Package: unicode-math-xetex 2020/01/31 v0.8q Unicode maths in XeLaTeX and LuaLa
 TeX
  (C:\Program Files\MiKTeX\tex/latex/l3packages/l3keys2e\l3keys2e.sty
-Package: l3keys2e 2023-01-16 LaTeX2e option processing using LaTeX3 keys
+Package: l3keys2e 2023-02-02 LaTeX2e option processing using LaTeX3 keys
 )
 (C:\Program Files\MiKTeX\tex/latex/base\fix-cm.sty
 Package: fix-cm 2020/11/24 v1.1t fixes to LaTeX
@@ -651,7 +648,7 @@ File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
 LaTeX Font Info:    Redeclaring font encoding TS1 on input line 47.
 ))
 (C:\Program Files\MiKTeX\tex/latex/amsmath\amsmath.sty
-Package: amsmath 2022/04/08 v2.17n AMS math features
+Package: amsmath 2023/05/13 v2.17o AMS math features
 \@mathmargin=\skip73
 
 For additional information on amsmath, use the `?' option.
@@ -660,7 +657,7 @@ Package: amstext 2021/08/26 v2.01 AMS text
 
 (C:\Program Files\MiKTeX\tex/latex/amsmath\amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0 generic functions
-\@emptytoks=\toks21
+\@emptytoks=\toks22
 \ex@=\dimen169
 ))
 (C:\Program Files\MiKTeX\tex/latex/amsmath\amsbsy.sty
@@ -700,21 +697,21 @@ LaTeX Info: Redefining \Relbar on input line 971.
 \dotsspace@=\muskip21
 \c@parentequation=\count442
 \dspbrk@lvl=\count443
-\tag@help=\toks22
+\tag@help=\toks23
 \row@=\count444
 \column@=\count445
 \maxfields@=\count446
-\andhelp@=\toks23
+\andhelp@=\toks24
 \eqnshift@=\dimen172
 \alignsep@=\dimen173
 \tagshift@=\dimen174
 \tagwidth@=\dimen175
 \totwidth@=\dimen176
 \lineht@=\dimen177
-\@envbody=\toks24
+\@envbody=\toks25
 \multlinegap=\skip74
 \multlinetaggap=\skip75
-\mathdisplay@stack=\toks25
+\mathdisplay@stack=\toks26
 LaTeX Info: Redefining \[ on input line 2953.
 LaTeX Info: Redefining \] on input line 2954.
 )
@@ -755,7 +752,7 @@ File: dvipsnam.def 2016/06/17 v3.0m Driver-dependent file (DPC,SPQR)
 (C:\Program Files\MiKTeX\tex/latex/pgf/basiclayer\pgf.sty
 (C:\Program Files\MiKTeX\tex/latex/pgf/utilities\pgfrcs.sty
 (C:\Program Files\MiKTeX\tex/generic/pgf/utilities\pgfutil-common.tex
-\pgfutil@everybye=\toks26
+\pgfutil@everybye=\toks27
 \pgfutil@tempdima=\dimen179
 \pgfutil@tempdimb=\dimen180
 )
@@ -774,12 +771,12 @@ Package: pgf 2023-01-15 v3.1.10 (3.1.10)
 Package: pgfsys 2023-01-15 v3.1.10 (3.1.10)
 
 (C:\Program Files\MiKTeX\tex/generic/pgf/utilities\pgfkeys.code.tex
-\pgfkeys@pathtoks=\toks27
-\pgfkeys@temptoks=\toks28
+\pgfkeys@pathtoks=\toks28
+\pgfkeys@temptoks=\toks29
 
 (C:\Program Files\MiKTeX\tex/generic/pgf/utilities\pgfkeyslibraryfiltered.code.
 tex
-\pgfkeys@tmptoks=\toks29
+\pgfkeys@tmptoks=\toks30
 ))
 \pgf@x=\dimen181
 \pgf@y=\dimen182
@@ -797,9 +794,9 @@ tex
 \c@pgf@countb=\count451
 \c@pgf@countc=\count452
 \c@pgf@countd=\count453
-\t@pgf@toka=\toks30
-\t@pgf@tokb=\toks31
-\t@pgf@tokc=\toks32
+\t@pgf@toka=\toks31
+\t@pgf@tokb=\toks32
+\t@pgf@tokc=\toks33
 \pgf@sys@id@count=\count454
  (C:\Program Files\MiKTeX\tex/generic/pgf/systemlayer\pgf.cfg
 File: pgf.cfg 2023-01-15 v3.1.10 (3.1.10)
@@ -834,9 +831,9 @@ Package: pgfcore 2023-01-15 v3.1.10 (3.1.10)
 \pgfmath@dimen=\dimen191
 \pgfmath@count=\count458
 \pgfmath@box=\box56
-\pgfmath@toks=\toks33
-\pgfmath@stack@operand=\toks34
-\pgfmath@stack@operation=\toks35
+\pgfmath@toks=\toks34
+\pgfmath@stack@operand=\toks35
+\pgfmath@stack@operation=\toks36
 )
 (C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.code.tex)
 (C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.basic.code.tex)
@@ -959,8 +956,8 @@ Package: pgfcomp-version-1-18 2023-01-15 v3.1.10 (3.1.10)
 Package: pgffor 2023-01-15 v3.1.10 (3.1.10)
 \pgffor@iter=\dimen274
 \pgffor@skip=\dimen275
-\pgffor@stack=\toks36
-\pgffor@toks=\toks37
+\pgffor@stack=\toks37
+\pgffor@toks=\toks38
 ))
 (C:\Program Files\MiKTeX\tex/generic/pgf/frontendlayer/tikz\tikz.code.tex
 Package: tikz 2023-01-15 v3.1.10 (3.1.10)
@@ -1014,7 +1011,7 @@ Package: standalone 2022/10/10 v1.3b Package to include TeX sub-files with prea
 mbles
 
 (C:\Program Files\MiKTeX\tex/latex/tools\shellesc.sty
-Package: shellesc 2019/11/08 v1.0c unified shell escape interface for LaTeX
+Package: shellesc 2023/04/15 v1.0d unified shell escape interface for LaTeX
 Package shellesc Info: Unrestricted shell escape enabled on input line 75.
 )
 (C:\Users\jonad\AppData\Roaming\MiKTeX\tex/latex/currfile\currfile.sty
@@ -1085,7 +1082,7 @@ Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
 \WF@size=\dimen300
 \c@WF@wrappedlines=\count475
 \WF@box=\box71
-\WF@everypar=\toks38
+\WF@everypar=\toks39
 Package: wrapfig 2003/01/31  v 3.6
 )
 (C:\Users\jonad\AppData\Roaming\MiKTeX\tex/latex/appendix\appendix.sty
@@ -1116,10 +1113,10 @@ Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
 )
 (C:\Users\jonad\AppData\Roaming\MiKTeX\tex/latex/enumitem\enumitem.sty
 Package: enumitem 2019/06/20 v3.9 Customized lists
-\enitkv@toks@=\toks39
+\enitkv@toks@=\toks40
 \labelindent=\skip76
 \enit@outerparindent=\dimen314
-\enit@toks=\toks40
+\enit@toks=\toks41
 \enit@inbox=\box72
 \enit@count@id=\count483
 \enitdp@description=\count484
@@ -1144,18 +1141,18 @@ Package: makeidx 2021/10/04 v1.0m Standard LaTeX package
 Package: makecell 2009/08/03 V0.1e Managing of Tab Column Heads and Cells
 
 (C:\Program Files\MiKTeX\tex/latex/tools\array.sty
-Package: array 2022/03/10 v2.5f Tabular extension package (FMi)
+Package: array 2022/09/04 v2.5g Tabular extension package (FMi)
 \col@sep=\dimen315
 \ar@mcellbox=\box73
 \extrarowheight=\dimen316
-\NC@list=\toks41
+\NC@list=\toks42
 \extratabsurround=\skip86
 \backup@length=\skip87
 \ar@cellbox=\box74
 )
 \rotheadsize=\dimen317
 \c@nlinenum=\count485
-\TeXr@lab=\toks42
+\TeXr@lab=\toks43
 )
 (C:\Users\jonad\AppData\Roaming\MiKTeX\tex/latex/pdfpages\pdfpages.sty
 Package: pdfpages 2022/12/19 v0.5x Insert pages of external PDF documents (AM)
@@ -1187,10 +1184,10 @@ File: ppxetex.def 2022/12/19 v0.5x Pdfpages driver for XeTeX (AM)
 )
 \pdfpages@includegraphics@status=\count489
 \AM@pagebox=\box75
-\AM@global@opts=\toks43
+\AM@global@opts=\toks44
 \AM@pagecnt=\count490
-\AM@toc@title=\toks44
-\AM@lof@heading=\toks45
+\AM@toc@title=\toks45
+\AM@lof@heading=\toks46
 \c@AM@survey=\count491
 \AM@templatesizebox=\box76
 )
@@ -1200,7 +1197,7 @@ Package: rotating 2016/08/11 v2.16d rotated objects in LaTeX
 \rotFPtop=\skip91
 \rotFPbot=\skip92
 \rot@float@box=\box77
-\rot@mess@toks=\toks46
+\rot@mess@toks=\toks47
 )
 (C:\Program Files\MiKTeX\tex/latex/tools\tabularx.sty
 Package: tabularx 2020/01/15 v2.11c `tabularx' package (DPC)
@@ -1210,15 +1207,15 @@ Package: tabularx 2020/01/15 v2.11c `tabularx' package (DPC)
 \TX@target=\dimen328
 \TX@delta=\dimen329
 \TX@cols=\count493
-\TX@ftn=\toks47
+\TX@ftn=\toks48
 )
 (C:\Program Files\MiKTeX\tex/latex/tcolorbox\tcolorbox.sty
-Package: tcolorbox 2022/06/24 version 5.1.1 text color boxes
+Package: tcolorbox 2023/06/19 version 6.0.4 text color boxes
 
 (C:\Program Files\MiKTeX\tex/latex/tools\verbatim.sty
-Package: verbatim 2020-07-07 v1.5u LaTeX2e package for verbatim enhancements
-\every@verbatim=\toks48
-\verbatim@line=\toks49
+Package: verbatim 2022-07-02 v1.5u LaTeX2e package for verbatim enhancements
+\every@verbatim=\toks49
+\verbatim@line=\toks50
 \verbatim@in@stream=\read5
 )
 (C:\Program Files\MiKTeX\tex/latex/environ\environ.sty
@@ -1246,7 +1243,7 @@ Package: titlesec 2021/07/05 v2.14 Sectioning titles
 \aftertitleunit=\skip94
 \ttl@plus=\dimen330
 \ttl@minus=\dimen331
-\ttl@toksa=\toks50
+\ttl@toksa=\toks51
 \titlewidth=\dimen332
 \titlewidthlast=\dimen333
 \titlewidthfirst=\dimen334
@@ -1268,7 +1265,7 @@ Package: eurosym 1998/08/06 v1.1 European currency symbol ``Euro''
 )
 (C:\Users\jonad\AppData\Roaming\MiKTeX\tex/latex/microtype\microtype.sty
 Package: microtype 2022/06/23 v3.0f Micro-typographical refinements (RS)
-\MT@toks=\toks51
+\MT@toks=\toks52
 \MT@tempbox=\box88
 \MT@count=\count497
 LaTeX Info: Redefining \noprotrusionifhmode on input line 1045.
@@ -1833,6 +1830,80 @@ Package: lipsum 2021-09-20 v2.7 150 paragraphs of Lorem Ipsum dummy text
 \l__lipsum_b_int=\count501
 
 (C:\Users\jonad\AppData\Roaming\MiKTeX\tex/latex/lipsum\lipsum.ltd.tex))
+(C:\Users\jonad\AppData\Roaming\MiKTeX\tex/generic/soul\soul.sty
+Package: soul 2023-06-14 v3.1 Permit use of UTF-8 characters in soul (HO)
+
+(C:\Users\jonad\AppData\Roaming\MiKTeX\tex/generic/soul\soul-ori.sty
+Package: soul-ori 2023-06-14 v3.1 letterspacing/underlining (mf)
+\SOUL@word=\toks53
+\SOUL@lasttoken=\toks54
+\SOUL@syllable=\toks55
+\SOUL@cmds=\toks56
+\SOUL@buffer=\toks57
+\SOUL@token=\toks58
+\SOUL@syllgoal=\dimen337
+\SOUL@syllwidth=\dimen338
+\SOUL@charkern=\dimen339
+\SOUL@hyphkern=\dimen340
+\SOUL@dimen=\dimen341
+\SOUL@dimeni=\dimen342
+\SOUL@minus=\count502
+\SOUL@comma=\count503
+\SOUL@apo=\count504
+\SOUL@grave=\count505
+\SOUL@spaceskip=\skip95
+\SOUL@ttwidth=\dimen343
+\SOUL@uldp=\dimen344
+\SOUL@ulht=\dimen345
+)
+(C:\Users\jonad\AppData\Roaming\MiKTeX\tex/generic/etexcmds\etexcmds.sty
+Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+))
+(C:\Program Files\MiKTeX\tex/latex/listings\listings.sty
+\lst@mode=\count506
+\lst@gtempboxa=\box90
+\lst@token=\toks59
+\lst@length=\count507
+\lst@currlwidth=\dimen346
+\lst@column=\count508
+\lst@pos=\count509
+\lst@lostspace=\dimen347
+\lst@width=\dimen348
+\lst@newlines=\count510
+\lst@lineno=\count511
+\lst@maxwidth=\dimen349
+
+(C:\Program Files\MiKTeX\tex/latex/listings\lstmisc.sty
+File: lstmisc.sty 2023/02/27 1.9 (Carsten Heinz)
+\c@lstnumber=\count512
+\lst@skipnumbers=\count513
+\lst@framebox=\box91
+)
+(C:\Program Files\MiKTeX\tex/latex/listings\listings.cfg
+File: listings.cfg 2023/02/27 1.9 listings configuration
+))
+Package: listings 2023/02/27 1.9 (Carsten Heinz)
+
+(C:\Users\jonad\AppData\Roaming\MiKTeX\tex/latex/cleveref\cleveref.sty
+Package: cleveref 2018/03/27 v0.21.4 Intelligent cross-referencing
+Package cleveref Info: `hyperref' support loaded on input line 2370.
+LaTeX Info: Redefining \cref on input line 2370.
+LaTeX Info: Redefining \Cref on input line 2370.
+LaTeX Info: Redefining \crefrange on input line 2370.
+LaTeX Info: Redefining \Crefrange on input line 2370.
+LaTeX Info: Redefining \cpageref on input line 2370.
+LaTeX Info: Redefining \Cpageref on input line 2370.
+LaTeX Info: Redefining \cpagerefrange on input line 2370.
+LaTeX Info: Redefining \Cpagerefrange on input line 2370.
+LaTeX Info: Redefining \labelcref on input line 2370.
+LaTeX Info: Redefining \labelcpageref on input line 2370.
+Package cleveref Info: `listings' support loaded on input line 3131.
+)
+(C:\Users\jonad\AppData\Roaming\MiKTeX\tex/latex/caption\subcaption.sty
+Package: subcaption 2022/01/07 v1.5 Sub-captions (AR)
+\c@subfigure=\count514
+\c@subtable=\count515
+)
 (C:\Users\jonad\AppData\Roaming\MiKTeX\tex/latex/minted\minted.sty
 Package: minted 2022/12/12 v2.7 Yet another Pygments shim for LaTeX
 
@@ -1841,11 +1912,11 @@ Package: fvextra 2022/11/30 v1.5 fvextra - extensions and patches for fancyvrb
 
 (C:\Users\jonad\AppData\Roaming\MiKTeX\tex/latex/fancyvrb\fancyvrb.sty
 Package: fancyvrb 2023/01/19 4.5a verbatim text (tvz,hv)
-\FV@CodeLineNo=\count502
+\FV@CodeLineNo=\count516
 \FV@InFile=\read6
-\FV@TabBox=\box90
-\c@FancyVerbLine=\count503
-\FV@StepNumber=\count504
+\FV@TabBox=\box92
+\c@FancyVerbLine=\count517
+\FV@StepNumber=\count518
 \FV@OutFile=\write5
 )
 (C:\Users\jonad\AppData\Roaming\MiKTeX\tex/latex/upquote\upquote.sty
@@ -1855,21 +1926,21 @@ tim
 (C:\Users\jonad\AppData\Roaming\MiKTeX\tex/latex/lineno\lineno.sty
 Package: lineno 2023/01/19 line numbers on paragraphs v5.1
 Invalid UTF-8 byte or sequence at line 290 replaced by U+FFFD.
-\linenopenalty=\count505
-\output=\toks52
-\linenoprevgraf=\count506
-\linenumbersep=\dimen337
-\linenumberwidth=\dimen338
-\c@linenumber=\count507
-\c@pagewiselinenumber=\count508
-\c@LN@truepage=\count509
-\c@internallinenumber=\count510
-\c@internallinenumbers=\count511
-\quotelinenumbersep=\dimen339
-\bframerule=\dimen340
-\bframesep=\dimen341
-\bframebox=\box91
-\linenoamsmath@ams@eqpen=\count512
+\linenopenalty=\count519
+\output=\toks60
+\linenoprevgraf=\count520
+\linenumbersep=\dimen350
+\linenumberwidth=\dimen351
+\c@linenumber=\count521
+\c@pagewiselinenumber=\count522
+\c@LN@truepage=\count523
+\c@internallinenumber=\count524
+\c@internallinenumbers=\count525
+\quotelinenumbersep=\dimen352
+\bframerule=\dimen353
+\bframesep=\dimen354
+\bframebox=\box93
+\linenoamsmath@ams@eqpen=\count526
 
 
 LaTeX Warning: Command \@parboxrestore  has changed.
@@ -1881,29 +1952,29 @@ LaTeX Info: Redefining \\ on input line 3131.
 Package fvextra Warning: csquotes should be loaded after fvextra, to avoid a wa
 rning from the lineno package on input line 36.
 
-\c@FV@TrueTabGroupLevel=\count513
-\c@FV@TrueTabCounter=\count514
-\FV@TabBox@Group=\box92
-\FV@TmpLength=\skip95
-\c@FV@HighlightLinesStart=\count515
-\c@FV@HighlightLinesStop=\count516
-\FV@LoopCount=\count517
-\FV@NCharsBox=\box93
-\FV@BreakIndent=\dimen342
-\FV@BreakIndentNChars=\count518
-\FV@BreakSymbolSepLeft=\dimen343
-\FV@BreakSymbolSepLeftNChars=\count519
-\FV@BreakSymbolSepRight=\dimen344
-\FV@BreakSymbolSepRightNChars=\count520
-\FV@BreakSymbolIndentLeft=\dimen345
-\FV@BreakSymbolIndentLeftNChars=\count521
-\FV@BreakSymbolIndentRight=\dimen346
-\FV@BreakSymbolIndentRightNChars=\count522
-\c@FancyVerbLineBreakLast=\count523
-\FV@LineBox=\box94
-\FV@LineIndentBox=\box95
-\c@FV@BreakBufferDepth=\count524
-\FV@LineWidth=\dimen347
+\c@FV@TrueTabGroupLevel=\count527
+\c@FV@TrueTabCounter=\count528
+\FV@TabBox@Group=\box94
+\FV@TmpLength=\skip96
+\c@FV@HighlightLinesStart=\count529
+\c@FV@HighlightLinesStop=\count530
+\FV@LoopCount=\count531
+\FV@NCharsBox=\box95
+\FV@BreakIndent=\dimen355
+\FV@BreakIndentNChars=\count532
+\FV@BreakSymbolSepLeft=\dimen356
+\FV@BreakSymbolSepLeftNChars=\count533
+\FV@BreakSymbolSepRight=\dimen357
+\FV@BreakSymbolSepRightNChars=\count534
+\FV@BreakSymbolIndentLeft=\dimen358
+\FV@BreakSymbolIndentLeftNChars=\count535
+\FV@BreakSymbolIndentRight=\dimen359
+\FV@BreakSymbolIndentRightNChars=\count536
+\c@FancyVerbLineBreakLast=\count537
+\FV@LineBox=\box96
+\FV@LineIndentBox=\box97
+\c@FV@BreakBufferDepth=\count538
+\FV@LineWidth=\dimen360
 ) (C:\Users\jonad\AppData\Roaming\MiKTeX\tex/latex/ifplatform\ifplatform.sty
 Package: ifplatform 2017/10/13 v0.4a Testing for the operating system
 
@@ -1912,34 +1983,34 @@ Package: catchfile 2019/12/09 v1.8 Catch the contents of a file (HO)
 ))
 (C:\Users\jonad\AppData\Roaming\MiKTeX\tex/latex/xstring\xstring.sty
 (C:\Users\jonad\AppData\Roaming\MiKTeX\tex/generic/xstring\xstring.tex
-\integerpart=\count525
-\decimalpart=\count526
+\integerpart=\count539
+\decimalpart=\count540
 )
 Package: xstring 2023/01/14 v1.85 String manipulations (CT)
 )
 (C:\Users\jonad\AppData\Roaming\MiKTeX\tex/latex/framed\framed.sty
 Package: framed 2011/10/22 v 0.96: framed or shaded text with page breaks
-\OuterFrameSep=\skip96
-\fb@frw=\dimen348
-\fb@frh=\dimen349
-\FrameRule=\dimen350
-\FrameSep=\dimen351
+\OuterFrameSep=\skip97
+\fb@frw=\dimen361
+\fb@frh=\dimen362
+\FrameRule=\dimen363
+\FrameSep=\dimen364
 )
 (C:\Users\jonad\AppData\Roaming\MiKTeX\tex/latex/float\float.sty
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
-\c@float@type=\count527
-\float@exts=\toks53
-\float@box=\box96
-\@float@everytoks=\toks54
-\@floatcapt=\box97
+\c@float@type=\count541
+\float@exts=\toks61
+\float@box=\box98
+\@float@everytoks=\toks62
+\@floatcapt=\box99
 )
 \minted@appexistsfile=\read7
-\minted@bgbox=\box98
+\minted@bgbox=\box100
 \minted@code=\write6
-\c@minted@FancyVerbLineTemp=\count528
-\c@minted@pygmentizecounter=\count529
-\@float@every@listing=\toks55
-\c@listing=\count530
+\c@minted@FancyVerbLineTemp=\count542
+\c@minted@pygmentizecounter=\count543
+\@float@every@listing=\toks63
+\c@listing=\count544
 )
 runsystem(if not exist _minted-DeNeveJonaBP mkdir _minted-DeNeveJonaBP)...execu
 ted.
@@ -1962,7 +2033,7 @@ See the minted package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.77 \begin{document}
+l.82 \begin{document}
                      
 Refer to the installation instructions in the minted documentation for more inf
 ormation.
@@ -1970,26 +2041,26 @@ ormation.
 (DeNeveJonaBP.aux)
 \openout1 = `DeNeveJonaBP.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 77.
-LaTeX Font Info:    ... okay on input line 77.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 77.
-LaTeX Font Info:    ... okay on input line 77.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 77.
-LaTeX Font Info:    ... okay on input line 77.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 77.
-LaTeX Font Info:    ... okay on input line 77.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 77.
-LaTeX Font Info:    ... okay on input line 77.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 77.
-LaTeX Font Info:    ... okay on input line 77.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 77.
-LaTeX Font Info:    ... okay on input line 77.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 77.
-LaTeX Font Info:    ... okay on input line 77.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 77.
-LaTeX Font Info:    ... okay on input line 77.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 77.
-LaTeX Font Info:    ... okay on input line 77.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 82.
+LaTeX Font Info:    ... okay on input line 82.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 82.
+LaTeX Font Info:    ... okay on input line 82.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 82.
+LaTeX Font Info:    ... okay on input line 82.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 82.
+LaTeX Font Info:    ... okay on input line 82.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 82.
+LaTeX Font Info:    ... okay on input line 82.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 82.
+LaTeX Font Info:    ... okay on input line 82.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 82.
+LaTeX Font Info:    ... okay on input line 82.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 82.
+LaTeX Font Info:    ... okay on input line 82.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 82.
+LaTeX Font Info:    ... okay on input line 82.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 82.
+LaTeX Font Info:    ... okay on input line 82.
 Package biblatex Info: Trying to load language 'dutch' -> 'dutch-apa'...
 Package biblatex Info: ... file 'dutch-apa.lbx' found.
 
@@ -1999,13 +2070,13 @@ Package biblatex Info: Trying to load language 'dutch'...
 Package biblatex Info: ... file 'dutch.lbx' found.
 
 (C:\Program Files\MiKTeX\tex/latex/biblatex/lbx\dutch.lbx
-File: dutch.lbx 2022/07/12 v3.18b biblatex localization (PK/MW)
+File: dutch.lbx 2023/03/05 v3.19 biblatex localization (PK/MW)
 )
 Package biblatex Info: Trying to load language 'dutch'...
 Package biblatex Info: ... file 'dutch.lbx' found.
 
 (C:\Program Files\MiKTeX\tex/latex/biblatex/lbx\dutch.lbx
-File: dutch.lbx 2022/07/12 v3.18b biblatex localization (PK/MW)
+File: dutch.lbx 2023/03/05 v3.19 biblatex localization (PK/MW)
 ))
 Package biblatex Info: XeTeX detected.
 (biblatex)             Assuming input encoding 'utf8'.
@@ -2016,11 +2087,12 @@ Package biblatex Info: Automatic encoding selection.
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'DeNeveJonaBP.bbl' found.
  (DeNeveJonaBP.bbl)
-Package biblatex Info: Reference section=0 on input line 77.
-Package biblatex Info: Reference segment=0 on input line 77.
+Package biblatex Info: Reference section=0 on input line 82.
+Package biblatex Info: Reference segment=0 on input line 82.
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: float package is loaded.
 Package caption Info: hyperref package is loaded.
+Package caption Info: listings package is loaded.
 Package caption Info: rotating package is loaded.
 Package caption Info: wrapfig package is loaded.
 Package caption Info: End \AtBeginDocument code.
@@ -2058,7 +2130,7 @@ Package caption Info: End \AtBeginDocument code.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-Package hyperref Info: Link coloring ON on input line 77.
+Package hyperref Info: Link coloring ON on input line 82.
 (DeNeveJonaBP.out) (DeNeveJonaBP.out)
 \@outlinefile=\write7
 \openout7 = `DeNeveJonaBP.out'.
@@ -2077,11 +2149,11 @@ Package: lscape 2020/05/28 v3.02 Landscape Pages (DPC)
 Package pdflscape Info: Auto-detected driver: dvipdfm (xetex) on input line 98.
 
 ))
-LaTeX Info: Redefining \microtypecontext on input line 77.
-Package microtype Info: Applying patch `item' on input line 77.
-Package microtype Info: Applying patch `toc' on input line 77.
-Package microtype Info: Applying patch `eqnum' on input line 77.
-Package microtype Info: Applying patch `footnote' on input line 77.
+LaTeX Info: Redefining \microtypecontext on input line 82.
+Package microtype Info: Applying patch `item' on input line 82.
+Package microtype Info: Applying patch `toc' on input line 82.
+Package microtype Info: Applying patch `eqnum' on input line 82.
+Package microtype Info: Applying patch `footnote' on input line 82.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
 Package microtype Info: No adjustment of tracking.
@@ -2091,7 +2163,8 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `Montserrat' (encoding: TU).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
-Package hyperref Info: Option `pageanchor' set `false' on input line 83.
+\c@lstlisting=\count545
+Package hyperref Info: Option `pageanchor' set `false' on input line 88.
 *geometry* verbose mode - [ newgeometry ] result:
 * driver: xetex
 * paper: a4paper
@@ -2125,62 +2198,66 @@ Package hyperref Info: Option `pageanchor' set `false' on input line 83.
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 
-Overfull \hbox (13.66196pt too wide) in paragraph at lines 94--94
+Overfull \hbox (13.66196pt too wide) in paragraph at lines 99--99
 []\TU/Montserrat(0)/b/n/24.88 Verbeteren van VR stottertherapie door
  []
 
 
-Overfull \hbox (46.87923pt too wide) in paragraph at lines 94--94
+Overfull \hbox (46.87923pt too wide) in paragraph at lines 99--99
 \TU/Montserrat(0)/b/n/24.88 bale antwoorden met spraakherkennings-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 94--94
+Underfull \hbox (badness 10000) in paragraph at lines 99--99
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 94--94
+Underfull \hbox (badness 10000) in paragraph at lines 99--99
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 94--94
+Underfull \hbox (badness 10000) in paragraph at lines 99--99
 
  []
 
-Invalid UTF-8 byte or sequence at line 94 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 94 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 94 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 94 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 94 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 94 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 94 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 94 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 94 replaced by U+FFFD.
-File: graphics//hogent_logo.eps Graphic file (type eps)
-<graphics//hogent_logo.eps>
+Invalid UTF-8 byte or sequence at line 99 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 99 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 99 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 99 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 99 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 99 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 99 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 99 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 99 replaced by U+FFFD.
+File: graphics/hogent_logo.eps Graphic file (type eps)
+<graphics/hogent_logo.eps>
 [1
 
 
 
 
 ] [2]
-Package hyperref Info: Option `pageanchor' set `true' on input line 95.
+Package hyperref Info: Option `pageanchor' set `true' on input line 100.
  (voorwoord.tex) (samenvatting.tex [3
 
 
 
 ]) [4
 
-] (DeNeveJonaBP.toc [5
+] (DeNeveJonaBP.toc
+Package cleveref Info: loaded `dutch' language definitions on input line 1.
+ [5
 
 ])
 \tf@toc=\write8
 \openout8 = `DeNeveJonaBP.toc'.
 
+Package cleveref Info: loaded `dutch' language definitions on input line 116.
 
 [6] (DeNeveJonaBP.lof
+Package cleveref Info: loaded `dutch' language definitions on input line 1.
 Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `FiraMathRegular' (encoding: TU).
 (microtype)             For optimal results, create family-specific settings.
@@ -2208,93 +2285,224 @@ Hoofdstuk 1.
 [1
 
 
-]) (standvanzaken.tex [2]
+]) (standvanzaken.tex
+Package cleveref Info: loaded `dutch' language definitions on input line 1.
+ [2]
 Hoofdstuk 2.
 
-Overfull \hbox (0.846pt too wide) in paragraph at lines 18--19
-\TU/Montserrat(1)/m/n/10.95 Hoewel Virtual Reality tegenwoordig veel gevorderd 
-is, bestaat het al voor een lange
+(C:\Users\jonad\AppData\Roaming\MiKTeX\tex/latex/montserrat\Montserrat.fontspec
+)
+(C:\Users\jonad\AppData\Roaming\MiKTeX\tex/latex/montserrat\Montserrat.fontspec
+)
+(C:\Users\jonad\AppData\Roaming\MiKTeX\tex/latex/montserrat\Montserrat.fontspec
+)
+
+Package fontspec Info: Font family 'Montserrat(4)' created for font
+(fontspec)             'Montserrat' with options
+(fontspec)             [Ligatures=TeX,Ligatures=TeX,VerticalPosition=Superior].
+
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->"Montserrat/OT:script=latn;language=dflt;+sups;mappin
+g=tex-text;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.:
+(fontspec)             <->"Montserrat/OT:script=latn;language=dflt;+sups;+smcp;
+mapping=tex-text;"
+(fontspec)             - 'bold' (b/n) with NFSS spec.:
+(fontspec)             <->"Montserrat/B/OT:script=latn;language=dflt;+sups;mapp
+ing=tex-text;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.:
+(fontspec)             <->"Montserrat/B/OT:script=latn;language=dflt;+sups;+smc
+p;mapping=tex-text;"
+(fontspec)             - 'italic' (m/it) with NFSS spec.:
+(fontspec)             <->"Montserrat/I/OT:script=latn;language=dflt;+sups;mapp
+ing=tex-text;"
+(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.:
+(fontspec)             <->"Montserrat/I/OT:script=latn;language=dflt;+sups;+smc
+p;mapping=tex-text;"
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.:
+(fontspec)             <->"Montserrat/BI/OT:script=latn;language=dflt;+sups;map
+ping=tex-text;"
+(fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.:
+(fontspec)             <->"Montserrat/BI/OT:script=latn;language=dflt;+sups;+sm
+cp;mapping=tex-text;"
+
+
+(C:\Users\jonad\AppData\Roaming\MiKTeX\tex/latex/montserrat\Montserrat.fontspec
+)
+(C:\Users\jonad\AppData\Roaming\MiKTeX\tex/latex/montserrat\Montserrat.fontspec
+)
+(C:\Users\jonad\AppData\Roaming\MiKTeX\tex/latex/montserrat\Montserrat.fontspec
+)
+Underfull \hbox (badness 10000) in paragraph at lines 18--18
+[][][][][][]\TU/Montserrat(2)/m/n/9 https://www.dsource.in/course/virtual-reali
+ty-introduction/evolution-vr/sword-damocles-head-
  []
 
-[3
+
+(C:\Users\jonad\AppData\Roaming\MiKTeX\tex/latex/montserrat\Montserrat.fontspec
+)
+(C:\Users\jonad\AppData\Roaming\MiKTeX\tex/latex/montserrat\Montserrat.fontspec
+) [3
 
 ]
-File: graphics//TraumDEtAl_DimensionsInTestimony_SystemArchitecture.png Graphic
- file (type bmp)
-<graphics//TraumDEtAl_DimensionsInTestimony_SystemArchitecture.png>
- [4] [5]
-File: graphics//Traum&Leuski_NPCEditor_System architecture.png Graphic file (ty
-pe bmp)
-<graphics//Traum&Leuski_NPCEditor_System architecture.png>
+File: graphics/Sensorama.jpg Graphic file (type bmp)
+<graphics/Sensorama.jpg>
+
+Overfull \hbox (38.07588pt too wide) in paragraph at lines 25--25
+[]|\TU/Montserrat(2)/m/n/8 Source: [][]https://www.historyofinformation.com/det
+ail.php?id=2785[][]| 
+ []
+
+File: graphics/SwordOfDamocles.jpg Graphic file (type bmp)
+<graphics/SwordOfDamocles.jpg>
+
+Underfull \hbox (badness 10000) in paragraph at lines 32--32
+[]|\TU/Montserrat(2)/m/n/8 Source: [][]https://www.dsource.in/course/virtual-re
+ality-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 32--32
+\TU/Montserrat(2)/m/n/8 introduction/evolution-vr/sword-damocles-head-
+ []
+
+Package cleveref Info: loaded `dutch' language definitions on input line 46.
+[4]
+File: graphics/TraumDEtAl_DimensionsInTestimony_SystemArchitecture.png Graphic 
+file (type bmp)
+<graphics/TraumDEtAl_DimensionsInTestimony_SystemArchitecture.png>
+Package cleveref Info: loaded `dutch' language definitions on input line 61.
+ [5]
+(C:\Users\jonad\AppData\Roaming\MiKTeX\tex/latex/montserrat\Montserrat.fontspec
+)
+(C:\Users\jonad\AppData\Roaming\MiKTeX\tex/latex/montserrat\Montserrat.fontspec
+)
+Package cleveref Info: loaded `dutch' language definitions on input line 70.
+ [6]
+File: graphics/Traum&Leuski_NPCEditor_System architecture.png Graphic file (typ
+e bmp)
+<graphics/Traum&Leuski_NPCEditor_System architecture.png>
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-) (longlist.tex [6] [7]
-Hoofdstuk 3.
 
-Overfull \hbox (8.31024pt too wide) in paragraph at lines 15--16
+(C:\Users\jonad\AppData\Roaming\MiKTeX\tex/latex/montserrat\Montserrat.fontspec
+)
+(C:\Users\jonad\AppData\Roaming\MiKTeX\tex/latex/montserrat\Montserrat.fontspec
+)
+Package cleveref Info: loaded `dutch' language definitions on input line 100.
+ [7]
+Overfull \hbox (8.31024pt too wide) in paragraph at lines 105--106
 \TU/Montserrat(1)/m/n/10.95 len en dialecten, waardoor gebruikers wereldwijd to
 egang hebben tot de dienst.
  []
 
-
-Overfull \hbox (1.36794pt too wide) in paragraph at lines 19--20
+Package cleveref Info: loaded `dutch' language definitions on input line 108.
+[8]
+Overfull \hbox (1.36794pt too wide) in paragraph at lines 109--110
 \TU/Montserrat(1)/m/n/10.95 met achtergrondgeluiden, verschillende spreekstijle
 n en spraak van meerdere
  []
 
-[8
 
-]
-Overfull \hbox (2.17581pt too wide) in paragraph at lines 27--28
+Overfull \hbox (2.17581pt too wide) in paragraph at lines 117--118
 []\TU/Montserrat(2)/b/n/10.95 Spraakherkenning op apparaat\TU/Montserrat(1)/m/n
 /10.95 : Naast de cloudgebaseerde API biedt Google
  []
 
 
-Overfull \hbox (9.72742pt too wide) in paragraph at lines 27--28
+Overfull \hbox (9.72742pt too wide) in paragraph at lines 117--118
 \TU/Montserrat(1)/m/n/10.95 Text On-Device. Hiermee kunnen ontwikkelaars spraak
 herkenning rechtstreeks
  []
 
 
-Overfull \hbox (8.72118pt too wide) in paragraph at lines 44--45
+(C:\Users\jonad\AppData\Roaming\MiKTeX\tex/latex/montserrat\Montserrat.fontspec
+)
+(C:\Users\jonad\AppData\Roaming\MiKTeX\tex/latex/montserrat\Montserrat.fontspec
+)
+Package cleveref Info: loaded `dutch' language definitions on input line 133.
+ [9]
+Overfull \hbox (8.72118pt too wide) in paragraph at lines 134--135
 []\TU/Montserrat(2)/b/n/10.95 Real-time streaming\TU/Montserrat(1)/m/n/10.95 : 
 Amazon Transcribe heeft real-time streaming van spraak
  []
 
-[9]
 File: graphics/AmazonTranscribePricing.png Graphic file (type bmp)
 <graphics/AmazonTranscribePricing.png>
+
+(C:\Users\jonad\AppData\Roaming\MiKTeX\tex/latex/montserrat\Montserrat.fontspec
+)
+(C:\Users\jonad\AppData\Roaming\MiKTeX\tex/latex/montserrat\Montserrat.fontspec
+)
+Package cleveref Info: loaded `dutch' language definitions on input line 162.
  [10]
-Overfull \hbox (4.78285pt too wide) in paragraph at lines 78--79
+Overfull \hbox (4.78285pt too wide) in paragraph at lines 168--169
 []\TU/Montserrat(2)/b/n/10.95 Real-time streaming\TU/Montserrat(1)/m/n/10.95 : 
 Azure Speech Services ondersteunt real-time streaming
  []
 
 
-Overfull \hbox (15.64525pt too wide) in paragraph at lines 101--102
+(C:\Users\jonad\AppData\Roaming\MiKTeX\tex/latex/montserrat\Montserrat.fontspec
+)
+(C:\Users\jonad\AppData\Roaming\MiKTeX\tex/latex/montserrat\Montserrat.fontspec
+)
+Package cleveref Info: loaded `dutch' language definitions on input line 189.
+ [11]
+Overfull \hbox (15.64525pt too wide) in paragraph at lines 191--192
 []\TU/Montserrat(2)/b/n/10.95 Privacy: \TU/Montserrat(1)/m/n/10.95 Als open-sou
 rceproject stelt DeepSpeech gebruikers in staat om spraak-
  []
 
-[11] [12]
-Overfull \hbox (12.75446pt too wide) in paragraph at lines 141--142
-[]\TU/Montserrat(2)/b/n/10.95 Hoge nauwkeurigheid: \TU/Montserrat(1)/m/n/10.95 
-Kaldi is bekend om zijn hoge nauwkeurigheid in spraak-
+
+(C:\Users\jonad\AppData\Roaming\MiKTeX\tex/latex/montserrat\Montserrat.fontspec
+)
+(C:\Users\jonad\AppData\Roaming\MiKTeX\tex/latex/montserrat\Montserrat.fontspec
+)
+Package cleveref Info: loaded `dutch' language definitions on input line 215.
+ [12]
+(C:\Users\jonad\AppData\Roaming\MiKTeX\tex/latex/montserrat\Montserrat.fontspec
+)
+(C:\Users\jonad\AppData\Roaming\MiKTeX\tex/latex/montserrat\Montserrat.fontspec
+)
+Package cleveref Info: loaded `dutch' language definitions on input line 244.
+ [13]
+(C:\Users\jonad\AppData\Roaming\MiKTeX\tex/latex/montserrat\Montserrat.fontspec
+)
+(C:\Users\jonad\AppData\Roaming\MiKTeX\tex/latex/montserrat\Montserrat.fontspec
+)
+(C:\Users\jonad\AppData\Roaming\MiKTeX\tex/latex/montserrat\Montserrat.fontspec
+)
+(C:\Users\jonad\AppData\Roaming\MiKTeX\tex/latex/montserrat\Montserrat.fontspec
+)
+(C:\Users\jonad\AppData\Roaming\MiKTeX\tex/latex/montserrat\Montserrat.fontspec
+)
+(C:\Users\jonad\AppData\Roaming\MiKTeX\tex/latex/montserrat\Montserrat.fontspec
+)
+Package cleveref Info: loaded `dutch' language definitions on input line 268.
+ [14]
+(C:\Users\jonad\AppData\Roaming\MiKTeX\tex/latex/montserrat\Montserrat.fontspec
+)
+(C:\Users\jonad\AppData\Roaming\MiKTeX\tex/latex/montserrat\Montserrat.fontspec
+)
+(C:\Users\jonad\AppData\Roaming\MiKTeX\tex/latex/montserrat\Montserrat.fontspec
+)
+(C:\Users\jonad\AppData\Roaming\MiKTeX\tex/latex/montserrat\Montserrat.fontspec
+)
+Underfull \hbox (badness 10000) in paragraph at lines 280--280
+[][][][][][]\TU/Montserrat(2)/m/n/9 https://ai.meta.com/blog/roberta-an-optimiz
+ed-method-for-pretraining-self-supervised-nlp-
  []
 
-[13] [14]) (methodologie.tex [15]
-Hoofdstuk 4.
-
-LaTeX Warning: Reference `sect:Speech to text' on page 16 undefined on input li
-ne 16.
-
-
-LaTeX Warning: Reference `sect:Language models' on page 16 undefined on input l
-ine 16.
-
+) (methodologie.tex
+Package cleveref Info: loaded `dutch' language definitions on input line 5.
+ [15]
+Hoofdstuk 3.
 
 Overfull \hbox (21.40497pt too wide) in paragraph at lines 20--21
 \TU/Montserrat(1)/m/n/10.95 De requirementsanalyse start met een opsomming van 
@@ -2304,86 +2512,132 @@ functionele en niet-functionele
 [16
 
 ]
-Overfull \hbox (0.76347pt too wide) in paragraph at lines 44--44
+Overfull \hbox (0.76347pt too wide) in paragraph at lines 42--42
 []|\TU/Montserrat(1)/m/n/10.95 Meetvoorschrift| 
  []
 
 
-Overfull \hbox (0.76347pt too wide) in paragraph at lines 52--52
+Overfull \hbox (0.76347pt too wide) in paragraph at lines 50--50
 []|\TU/Montserrat(1)/m/n/10.95 Meetvoorschrift| 
  []
 
 
-Overfull \hbox (0.76347pt too wide) in paragraph at lines 60--60
+Overfull \hbox (0.76347pt too wide) in paragraph at lines 58--58
 []|\TU/Montserrat(1)/m/n/10.95 Meetvoorschrift| 
  []
 
-[17]
-Underfull \hbox (badness 1681) in paragraph at lines 77--78
+
+Underfull \hbox (badness 1681) in paragraph at lines 75--76
 []|\TU/Montserrat(1)/m/n/10.95 De applicatie moet gebruik maken van AI-techniek
 en om
  []
 
-[18]) (conclusie.tex [19]
-Hoofdstuk 5.
-) [20
-
-]
-B\ij lage A.
-(../voorstel/voorstel-inhoud.tex [21
-
-]
-File: graphics//TraumDEtAl_DimensionsInTestimony_SystemArchitecture.png Graphic
- file (type bmp)
-<graphics//TraumDEtAl_DimensionsInTestimony_SystemArchitecture.png>
+Package cleveref Info: loaded `dutch' language definitions on input line 88.
+[17]
+Package cleveref Info: loaded `dutch' language definitions on input line 105.
+ [18]
+Package cleveref Info: loaded `dutch' language definitions on input line 143.
+ [19]
+Package cleveref Info: loaded `dutch' language definitions on input line 184.
+ [20]
+Package cleveref Info: loaded `dutch' language definitions on input line 216.
+ [21]
+Package cleveref Info: loaded `dutch' language definitions on input line 247.
  [22]
-File: graphics//Traum&Leuski_NPCEditor_System architecture.png Graphic file (ty
-pe bmp)
-<graphics//Traum&Leuski_NPCEditor_System architecture.png>
+(C:\Program Files\MiKTeX\tex/latex/listings\lstlang1.sty
+File: lstlang1.sty 2023/02/27 1.9 listings language file
+)
+(C:\Program Files\MiKTeX\tex/latex/listings\lstlang1.sty
+File: lstlang1.sty 2023/02/27 1.9 listings language file
+)
+(C:\Users\jonad\AppData\Roaming\MiKTeX\tex/latex/montserrat\Montserrat.fontspec
+)
+(C:\Users\jonad\AppData\Roaming\MiKTeX\tex/latex/montserrat\Montserrat.fontspec
+)
+Package cleveref Info: loaded `dutch' language definitions on input line 314.
+ [23]
+Overfull \hbox (0.92847pt too wide) in paragraph at lines 335--336
+[]\TU/Montserrat(1)/m/n/10.95 Daarna kan de applicatie worden uitgevoerd door h
+et bestand ’voice_transcriber.py’
+ []
+
+Package cleveref Info: loaded `dutch' language definitions on input line 337.
+[24]) (resultaten.tex
+Package cleveref Info: loaded `dutch' language definitions on input line 5.
+ [25]
+Hoofdstuk 4.
+) (conclusie.tex [26
+
+]
+Hoofdstuk 5.
+[27
+
+])
+Package cleveref Info: loaded `dutch' language definitions on input line 156.
+ [28]
+B\ij lage A.
+(../voorstel/voorstel-inhoud.tex [29
+
+]
+File: graphics/TraumDEtAl_DimensionsInTestimony_SystemArchitecture.png Graphic 
+file (type bmp)
+<graphics/TraumDEtAl_DimensionsInTestimony_SystemArchitecture.png>
+Package cleveref Info: loaded `dutch' language definitions on input line 51.
+ [30]
+File: graphics/Traum&Leuski_NPCEditor_System architecture.png Graphic file (typ
+e bmp)
+<graphics/Traum&Leuski_NPCEditor_System architecture.png>
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-File: graphics//FlowChart.png Graphic file (type bmp)
-<graphics//FlowChart.png>
+File: graphics/FlowChart.png Graphic file (type bmp)
+<graphics/FlowChart.png>
 
 LaTeX Warning: Float too large for page by 16.51825pt on input line 92.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[23]) [24] [25] [26]
-Overfull \hbox (0.7159pt too wide) in paragraph at lines 173--173
+Package cleveref Info: loaded `dutch' language definitions on input line 113.
+[31])
+Package cleveref Info: loaded `dutch' language definitions on input line 175.
+ [32]
+Package cleveref Info: loaded `dutch' language definitions on input line 175.
+ [33]
+Package cleveref Info: loaded `dutch' language definitions on input line 175.
+ [34]
+Overfull \hbox (0.7159pt too wide) in paragraph at lines 178--178
 [][]\TU/Montserrat(1)/m/n/10.95 Amazon. (2023, januari 1). \TU/Montserrat(2)/m/
 it/10.95 Amazon Transcribe: Developer Guide\TU/Montserrat(1)/m/n/10.95 . [][]$[
 ][][][][] [] [] [] [][][] [] [][][][][][] []
  []
 
-[27
+[35
 
 
-] (DeNeveJonaBP.aux)
-
-LaTeX Warning: There were undefined references.
-
+]
+Package cleveref Info: loaded `dutch' language definitions on input line 180.
+ [36] (DeNeveJonaBP.aux
+Package cleveref Info: loaded `dutch' language definitions on input line 21.
+)
+ ***********
+LaTeX2e <2023-06-01> patch level 1
+L3 programming layer <2023-06-30>
+ ***********
 Package rerunfilecheck Info: File `DeNeveJonaBP.out' has not changed.
-(rerunfilecheck)             Checksum: 8A1127FCBC7D6860DE40DECDD35A8280;5417.
-
-Package biblatex Warning: Please (re)run Biber on the file:
-(biblatex)                DeNeveJonaBP
-(biblatex)                and rerun LaTeX afterwards.
-
+(rerunfilecheck)             Checksum: 7A055E26AAB9A73F2C3843E1A079EFBB;6666.
 Package logreq Info: Writing requests to 'DeNeveJonaBP.run.xml'.
 \openout1 = `DeNeveJonaBP.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 48442 strings out of 411511
- 963791 string characters out of 5823379
- 2081472 words of memory out of 5000000
- 67879 multiletter control sequences out of 15000+600000
- 515251 words of font info for 92 fonts, out of 8000000 for 9000
+ 51718 strings out of 410678
+ 1023638 string characters out of 5796972
+ 2166190 words of memory out of 5000000
+ 71915 multiletter control sequences out of 15000+600000
+ 561394 words of font info for 103 fonts, out of 8000000 for 9000
  1349 hyphenation exceptions out of 8191
- 110i,11n,134p,1140b,7237s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 110i,12n,134p,2088b,7507s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on DeNeveJonaBP.pdf (34 pages).
+Output written on DeNeveJonaBP.pdf (43 pages).

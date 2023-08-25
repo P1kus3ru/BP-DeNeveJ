@@ -91,7 +91,7 @@
       \field{sortinit}{A}
       \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
       \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
+      \field{labeldatesource}{}
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
@@ -172,7 +172,7 @@
       \field{sortinit}{A}
       \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
       \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
+      \field{labeldatesource}{}
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
@@ -205,7 +205,7 @@
       \field{sortinit}{B}
       \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
       \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
+      \field{labeldatesource}{}
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
@@ -230,7 +230,7 @@
       \field{sortinit}{B}
       \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
       \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
+      \field{labeldatesource}{}
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
@@ -278,7 +278,7 @@
       \field{sortinit}{C}
       \field{sortinithash}{4d103a86280481745c9c897c925753c0}
       \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
+      \field{labeldatesource}{}
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
@@ -306,7 +306,7 @@
       \field{sortinit}{G}
       \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
       \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
+      \field{labeldatesource}{}
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
@@ -369,6 +369,65 @@
       \verb http://www.lrec-conf.org/proceedings/lrec2010/pdf/660_Paper.pdf
       \endverb
     \endentry
+    \entry{Manjula2019}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=c81ef978d7ef099e4759aef514e6d625}{%
+           family={Manjula},
+           familyi={M\bibinitperiod},
+           given={G.},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b374eeafb1d0833f2a16f9b5cbdf444e}{%
+           family={Shivakumar},
+           familyi={S\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a852bdd676a0c1d0e50303c4f3d7c9ad}{%
+           family={Geetha},
+           familyi={G\bibinitperiod},
+           given={Y.\bibnamedelimi V.},
+           giveni={Y\bibinitperiod\bibinitdelim V\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Kuala Lumpur, Malaysia}%
+      }
+      \list{publisher}{1}{%
+        {Association for Computing Machinery}%
+      }
+      \strng{namehash}{981f3f59bd932aba08ad1ec29169ae3b}
+      \strng{fullhash}{71d2b6549ef5f39eab6041ba21768dbd}
+      \strng{bibnamehash}{71d2b6549ef5f39eab6041ba21768dbd}
+      \strng{authorbibnamehash}{71d2b6549ef5f39eab6041ba21768dbd}
+      \strng{authornamehash}{981f3f59bd932aba08ad1ec29169ae3b}
+      \strng{authorfullhash}{71d2b6549ef5f39eab6041ba21768dbd}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Stuttering, also known as stammering is a speech disorder in which the fluency of speech is interrupted by occurrences of dysfluencies like repetitions, prolongations, and blocks or articulatory fixations. This work is intended to develop automatic recognition procedure to assess stuttering disfluencies (Repetitions, Prolongations and Blocks). For predicting the speech dysfluencies, we have employed an effective Adaptive Optimization based Artificial Neural Network (AOANN) approach. Moreover, the proposed technique employs the Mel Frequency Cepstral Coefficient (MFCC) features is implemented to test its effectiveness. The experimental investigations reveal that the proposed method shows promising results in distinguishing between three stuttering events repetitions, prolongations and blocks.}
+      \field{isbn}{9781450366182}
+      \field{journaltitle}{Proceedings of the 3rd International Conference on Cryptography, Security and Privacy}
+      \field{series}{ICCSP '19}
+      \field{title}{Adaptive Optimization Based Neural Network for Classification of Stuttered Speech}
+      \field{year}{2019}
+      \field{pages}{93\bibrangedash 98}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.1145/3309074.3309113
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1145/3309074.3309113
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1145/3309074.3309113
+      \endverb
+      \keyw{mel frequency cepstral coefficient features,adaptive optimization based artificial neural network,stuttered events}
+    \endentry
     \entry{Meta2022}{online}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=b6755d218d5f4e1cef9cce9cc39aeda9}{%
@@ -402,6 +461,43 @@
       \endverb
       \verb{url}
       \verb https://www.youtube.com/watch?v=80IIEnSNwQc
+      \endverb
+    \endentry
+    \entry{Suryaa2017}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=1e16164ad48e46841d10db0eb37bd1a8}{%
+           family={Suryaa},
+           familyi={S\bibinitperiod},
+           given={Arya\bibnamedelima A},
+           giveni={A\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ff63aa98906ac05b1645702804530d22}{%
+           family={Vargheseb},
+           familyi={V\bibinitperiod},
+           given={Surekha\bibnamedelima Mariam},
+           giveni={S\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{b24dce52ae5225d60ac8dec593322b6b}
+      \strng{fullhash}{b24dce52ae5225d60ac8dec593322b6b}
+      \strng{bibnamehash}{b24dce52ae5225d60ac8dec593322b6b}
+      \strng{authorbibnamehash}{b24dce52ae5225d60ac8dec593322b6b}
+      \strng{authornamehash}{b24dce52ae5225d60ac8dec593322b6b}
+      \strng{authorfullhash}{b24dce52ae5225d60ac8dec593322b6b}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Automatic Speech Recognition System for Stuttering Disabled Persons}
+      \field{year}{2017}
+      \verb{urlraw}
+      \verb https://api.semanticscholar.org/CorpusID:212570213
+      \endverb
+      \verb{url}
+      \verb https://api.semanticscholar.org/CorpusID:212570213
       \endverb
     \endentry
     \entry{Traum2015}{inbook}{}
@@ -695,7 +791,7 @@
       \field{sortinit}{A}
       \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
       \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
+      \field{labeldatesource}{}
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
@@ -776,7 +872,7 @@
       \field{sortinit}{A}
       \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
       \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
+      \field{labeldatesource}{}
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
@@ -809,7 +905,7 @@
       \field{sortinit}{B}
       \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
       \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
+      \field{labeldatesource}{}
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
@@ -834,7 +930,7 @@
       \field{sortinit}{B}
       \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
       \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
+      \field{labeldatesource}{}
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
@@ -882,7 +978,7 @@
       \field{sortinit}{C}
       \field{sortinithash}{4d103a86280481745c9c897c925753c0}
       \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
+      \field{labeldatesource}{}
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
@@ -910,7 +1006,7 @@
       \field{sortinit}{G}
       \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
       \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
+      \field{labeldatesource}{}
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
@@ -973,6 +1069,65 @@
       \verb http://www.lrec-conf.org/proceedings/lrec2010/pdf/660_Paper.pdf
       \endverb
     \endentry
+    \entry{Manjula2019}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=c81ef978d7ef099e4759aef514e6d625}{%
+           family={Manjula},
+           familyi={M\bibinitperiod},
+           given={G.},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b374eeafb1d0833f2a16f9b5cbdf444e}{%
+           family={Shivakumar},
+           familyi={S\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a852bdd676a0c1d0e50303c4f3d7c9ad}{%
+           family={Geetha},
+           familyi={G\bibinitperiod},
+           given={Y.\bibnamedelimi V.},
+           giveni={Y\bibinitperiod\bibinitdelim V\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Kuala Lumpur, Malaysia}%
+      }
+      \list{publisher}{1}{%
+        {Association for Computing Machinery}%
+      }
+      \strng{namehash}{981f3f59bd932aba08ad1ec29169ae3b}
+      \strng{fullhash}{71d2b6549ef5f39eab6041ba21768dbd}
+      \strng{bibnamehash}{71d2b6549ef5f39eab6041ba21768dbd}
+      \strng{authorbibnamehash}{71d2b6549ef5f39eab6041ba21768dbd}
+      \strng{authornamehash}{981f3f59bd932aba08ad1ec29169ae3b}
+      \strng{authorfullhash}{71d2b6549ef5f39eab6041ba21768dbd}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Stuttering, also known as stammering is a speech disorder in which the fluency of speech is interrupted by occurrences of dysfluencies like repetitions, prolongations, and blocks or articulatory fixations. This work is intended to develop automatic recognition procedure to assess stuttering disfluencies (Repetitions, Prolongations and Blocks). For predicting the speech dysfluencies, we have employed an effective Adaptive Optimization based Artificial Neural Network (AOANN) approach. Moreover, the proposed technique employs the Mel Frequency Cepstral Coefficient (MFCC) features is implemented to test its effectiveness. The experimental investigations reveal that the proposed method shows promising results in distinguishing between three stuttering events repetitions, prolongations and blocks.}
+      \field{isbn}{9781450366182}
+      \field{journaltitle}{Proceedings of the 3rd International Conference on Cryptography, Security and Privacy}
+      \field{series}{ICCSP '19}
+      \field{title}{Adaptive Optimization Based Neural Network for Classification of Stuttered Speech}
+      \field{year}{2019}
+      \field{pages}{93\bibrangedash 98}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.1145/3309074.3309113
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1145/3309074.3309113
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1145/3309074.3309113
+      \endverb
+      \keyw{mel frequency cepstral coefficient features,adaptive optimization based artificial neural network,stuttered events}
+    \endentry
     \entry{Meta2022}{online}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=b6755d218d5f4e1cef9cce9cc39aeda9}{%
@@ -1006,6 +1161,43 @@
       \endverb
       \verb{url}
       \verb https://www.youtube.com/watch?v=80IIEnSNwQc
+      \endverb
+    \endentry
+    \entry{Suryaa2017}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=1e16164ad48e46841d10db0eb37bd1a8}{%
+           family={Suryaa},
+           familyi={S\bibinitperiod},
+           given={Arya\bibnamedelima A},
+           giveni={A\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ff63aa98906ac05b1645702804530d22}{%
+           family={Vargheseb},
+           familyi={V\bibinitperiod},
+           given={Surekha\bibnamedelima Mariam},
+           giveni={S\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{b24dce52ae5225d60ac8dec593322b6b}
+      \strng{fullhash}{b24dce52ae5225d60ac8dec593322b6b}
+      \strng{bibnamehash}{b24dce52ae5225d60ac8dec593322b6b}
+      \strng{authorbibnamehash}{b24dce52ae5225d60ac8dec593322b6b}
+      \strng{authornamehash}{b24dce52ae5225d60ac8dec593322b6b}
+      \strng{authorfullhash}{b24dce52ae5225d60ac8dec593322b6b}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Automatic Speech Recognition System for Stuttering Disabled Persons}
+      \field{year}{2017}
+      \verb{urlraw}
+      \verb https://api.semanticscholar.org/CorpusID:212570213
+      \endverb
+      \verb{url}
+      \verb https://api.semanticscholar.org/CorpusID:212570213
       \endverb
     \endentry
     \entry{Traum2015}{inbook}{}

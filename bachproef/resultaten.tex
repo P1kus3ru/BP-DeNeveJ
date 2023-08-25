@@ -1,0 +1,12 @@
+%%=============================================================================
+%% Conclusie
+%%=============================================================================
+
+\chapter{Resultaten}%
+\label{ch:resultaten}
+
+Na de verschillende fragmenten door de modellen te laten gaan kunnen we uit de resultaten afleiden dat in Whisper's transcripties, zowel in het kleine als medium model, de boodschap van de gesproken fragmenten nog verstaanbaar is, ondanks fouten in het herkennen van sommige woorden. In vergelijking met het medium model is het kleine een stuk sneller, zo kan het kleinere model drie à vier keer sneller het fragment verwerken. Dit komt wel ten koste van de nauwkeurigheid aangezien het kleinere model meer woorden foutief herkent. De Whisper modellen blijven het meest consistent in hun nauwkeurigheid zo is te zien dat een stotter weinig impact heeft op het resultaat.
+
+In tegenstelling tot Whisper duurt het maken van Google ASR's transcripties het langst. Zo neemt Google over het algemeen dubbel zo lang als Whisper's medium model met uitzondering tot het eerste fragment waar Google sneller is dan het medium model en het tweede fragment waar het het medium model bijna evenaart. Daarnaast is de nauwkeurigheid van Google's ASR beïnvloed door stottermomenten. Het presteert beter bij vloeiende spraak. Wat ook opvalt is dat Google's model de tekst allemaal aan elkaar hangt en zelf geen leestekens toevoegt aan de tekst.
+
+In snelheid valt Microsoft Azure speech services tussen beide. Het model is sneller dan Google en Whisper's medium model maar trager dan het kleine model van Whisper. Bij vloeiende spraak gaf Azure nauwkeurige transcripties maar dat zakte wanneer het de fragmenten met meer stottermomenten verwerkte. In die fragmenten voegde het op de locaties waar de spreker stotterde dezelfde woorden meermaals toe.
